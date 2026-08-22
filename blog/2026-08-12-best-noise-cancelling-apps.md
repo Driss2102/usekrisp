@@ -1,0 +1,36 @@
+---
+title: "Best Noise-Cancelling Apps for Meetings in 2026"
+description: The noise-cancellation apps worth using for calls in 2026, what each is good at, and how to pick.
+slug: best-noise-cancelling-apps
+tags: [noise-cancellation, meetings]
+date: 2026-08-12
+---
+
+**If your calls are noisy, a noise-cancellation app is the fastest fix, but they are not all the same.** Here are the ones worth knowing in 2026 and what each is actually good at.
+
+{/* truncate */}
+
+## What to look for
+
+- **Bidirectional cleaning:** does it clean only your mic, or also the incoming audio?
+- **Works on any app:** a system-level tool beats one locked to a single platform.
+- **Hardware needs:** some options require a specific GPU.
+- **A real free tier:** so you can test it on your own calls.
+
+## The options
+
+**Krisp.** The best plug-and-play choice for most people. It cleans both directions, works on top of any calling app, and has a generous free plan. It also adds AI notes. See our full [Krisp review](/docs/review/).
+
+**NVIDIA Broadcast.** Excellent if you own an NVIDIA RTX graphics card and mainly want to clean your outgoing voice. Free with the hardware, but not bidirectional. We compare them in [Krisp vs NVIDIA Broadcast](/docs/compare/krisp-vs-nvidia-broadcast).
+
+**Built-in suppression (Zoom, Teams, Meet, Discord).** Free and fine for light noise, usually one-directional and weaker on heavy noise. A good first step before a dedicated tool.
+
+## How to choose
+
+- On a laptop or a non-NVIDIA machine, or want incoming noise cleaned too? Choose Krisp.
+- Have an RTX card and only need outgoing cleanup for streaming? NVIDIA Broadcast works.
+- Only occasional, light noise? Start with your app's built-in option.
+
+## The short version
+
+For most people on a lot of calls, a system-level tool with a free tier is the right call, because it works everywhere and cleans both sides. Test it on a real, noisy meeting and you will know within one call whether it earns a place in your setup.

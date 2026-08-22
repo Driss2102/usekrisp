@@ -1,0 +1,3803 @@
+[
+  {
+    "url": "https://krisp.ai/blog/how-to-transcribe-an-audio-file/",
+    "title": "How to Transcribe an Audio File: A Complete Guide",
+    "date": "2024-11-09",
+    "modified": "2026-08-17",
+    "description": "Learn how to transcribe audio files with Krisp’s fast, accurate tool. Follow our guide for step-by-step tips and best practices."
+  },
+  {
+    "url": "https://krisp.ai/blog/interview-transcript-examples/",
+    "title": "Interview Transcript Examples: Formats, Tools, and Best Practices for Tech Professionals",
+    "date": "2024-10-07",
+    "modified": "2026-08-17",
+    "description": "Explore various interview transcript examples with formats and tips. Learn how to create accurate and professional transcripts for analysis or reference."
+  },
+  {
+    "url": "https://krisp.ai/blog/introducing-krisp-recording-new-addition-to-krisp-ai-meeting-assistant/",
+    "title": "Introducing Krisp Recording, New Addition To Krisp AI Meeting Assistant",
+    "date": "2023-12-27",
+    "modified": "2026-08-17",
+    "description": "Discover the Krisp recording feauture for clear audio. The ultimate noise-cancellation technology designed for professionals who demand the best sound quality."
+  },
+  {
+    "url": "https://krisp.ai/blog/windows-transcription-software/",
+    "title": "The Ultimate Guide to Windows Transcription Software",
+    "date": "2025-01-09",
+    "modified": "2026-08-17",
+    "description": "Explore the ultimate guide to Windows Transcription Software: key features, benefits, and tips to enhance your transcription workflow."
+  },
+  {
+    "url": "https://krisp.ai/blog/webex-transcription/",
+    "title": "How to Enable Transcription in Webex",
+    "date": "2024-12-20",
+    "modified": "2026-08-17",
+    "description": "Learn how to enable Webex transcription to enhance your meetings with searchable text."
+  },
+  {
+    "url": "https://krisp.ai/blog/transcribe-audio-to-text/",
+    "title": "Transcribe Audio to Text: Make Your Meetings More Efficient",
+    "date": "2024-05-15",
+    "modified": "2026-08-17",
+    "description": "Discover how to efficiently transcribe audio to text, enhancing accessibility and productivity for professionals across industries."
+  },
+  {
+    "url": "https://krisp.ai/blog/transcribe-a-recording/",
+    "title": "How to Transcribe a Recording in 2024",
+    "date": "2024-11-14",
+    "modified": "2026-08-17",
+    "description": "Discover the best ways to transcribe a recording with Krisp’s advanced tools. Enhance accuracy and accessibility now!"
+  },
+  {
+    "url": "https://krisp.ai/blog/take-notes-in-your-preferred-language-with-krisp/",
+    "title": "Take Notes in Your Preferred Language with Krisp",
+    "date": "2025-02-23",
+    "modified": "2026-08-17",
+    "description": null
+  },
+  {
+    "url": "https://krisp.ai/blog/best-ai-summarizer/",
+    "title": "Best AI Summarizer: How Krisp Stands Out from the Rest",
+    "date": "2025-01-31",
+    "modified": "2026-08-17",
+    "description": "Explore the best AI summarizer on the market—Krisp. Find out what makes it unique and how it outperforms other summarization tools."
+  },
+  {
+    "url": "https://krisp.ai/blog/board-meeting-minutes-template/",
+    "title": "Free Board Meeting Minutes Template: Best Practices",
+    "date": "2024-09-13",
+    "modified": "2026-08-17",
+    "description": "Get a free board meeting minutes template and learn the best practices for recording decisions, discussions, and actions."
+  },
+  {
+    "url": "https://krisp.ai/blog/call-summary-report/",
+    "title": "Improve Virtual Meetings with Krisp’s Call Summary Report",
+    "date": "2022-05-04",
+    "modified": "2026-08-17",
+    "description": "Krisp’s long-awaited Call Summary Report feature provides users with extremely helpful insights every time they finish their virtual meeting."
+  },
+  {
+    "url": "https://krisp.ai/blog/elevate-transcription-experience-with-new-upload-feature/",
+    "title": "Elevate Transcription Experience with New Upload Feature",
+    "date": "2024-10-22",
+    "modified": "2026-08-17",
+    "description": "Discover how the new upload feature transforms the transcription experience, making it easier to share and analyze meeting notes and conversations with Krisp."
+  },
+  {
+    "url": "https://krisp.ai/blog/free-audio-transcription/",
+    "title": "Free Audio Transcription Tools You Need to Try in 2024",
+    "date": "2024-12-21",
+    "modified": "2026-08-17",
+    "description": "Explore top free audio transcription tools for 2024. Streamline your workflow and improve accuracy with our expert recommendations."
+  },
+  {
+    "url": "https://krisp.ai/blog/free-podcast-transcription/",
+    "title": "9 Best Free Podcast Transcription Services in 2025",
+    "date": "2025-01-15",
+    "modified": "2026-08-17",
+    "description": "Free podcast transcription services in 2025 will help you effortlessly convert audio to text. Find the right tool for your needs!"
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-become-a-transcriptionist/",
+    "title": "How to Become a Transcriptionist: Tips for Beginners",
+    "date": "2024-12-22",
+    "modified": "2026-08-17",
+    "description": null
+  },
+  {
+    "url": "https://krisp.ai/blog/speech-to-text-api/",
+    "title": "Best Speech-to-Text API Solutions in 2026",
+    "date": "2026-02-18",
+    "modified": "2026-08-12",
+    "description": "Discover the best speech-to-text API solutions in 2026. Find the perfect API for your needs, whether for transcription, call centers, or real-time applications."
+  },
+  {
+    "url": "https://krisp.ai/blog/remove-background-noise/",
+    "title": "How to Remove Background Noise: The Complete Guide for Calls, Audio & Video (2026)",
+    "date": "2026-07-29",
+    "modified": "2026-08-12",
+    "description": "Learn how to remove background noise from calls, audio, and video, in real time or after recording. Step-by-step methods, free options, and expert tips."
+  },
+  {
+    "url": "https://krisp.ai/blog/obs-remove-background-noise/",
+    "title": "OBS Noise Suppression: How to Remove Background Noise (2026 Guide)",
+    "date": "2026-07-16",
+    "modified": "2026-08-12",
+    "description": "Remove background noise in OBS Studio with RNNoise, Speex, or NVIDIA. A step-by-step 2026 guide, plus noise gate tips and an easy AI alternative."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-apps-windows/",
+    "title": "11 Best Noise Cancelling Apps for Windows in 2026 (Tested & Ranked)",
+    "date": "2026-06-05",
+    "modified": "2026-08-12",
+    "description": "We tested 15+ noise cancelling apps for Windows on the same PC. Here are the 11 best picks for meetings, streaming, gaming, and audio editing on Windows"
+  },
+  {
+    "url": "https://krisp.ai/blog/active-noise-cancellation-technology-vs-ai-based-noise-cancellation-algorithms/",
+    "title": "Active Noise Cancellation Technology vs AI-based Noise Cancellation Algorithms",
+    "date": "2026-07-17",
+    "modified": "2026-08-12",
+    "description": "How active noise cancellation (ANC) hardware and AI-based noise cancellation algorithms differ — the physics, the mics, the algorithms, and when each one wins."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-note-taking-apps/",
+    "title": "11 Best AI Note-Taking Apps for Meetings in 2026 (Hands-On Reviews)",
+    "date": "2026-06-10",
+    "modified": "2026-08-12",
+    "description": "We tested 11 AI note-taking apps for meetings on real calls — accuracy, summaries, pricing, and privacy. Here's what's worth your time in 2026 (and what isn't)"
+  },
+  {
+    "url": "https://krisp.ai/blog/best-noise-cancelling-app/",
+    "title": "11 Best Noise Cancelling Apps and Software in 2026 (Hands-On Tested)",
+    "date": "2026-06-05",
+    "modified": "2026-08-12",
+    "description": "We tested 15+ noise cancelling apps and software. Here are the 11 best for meetings, streaming, podcasts, and calls, with real benchmarks, pricing, and honest pros/cons"
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-delivers-leading-ai-noise-cancellation-to-twilio-voice-customers/",
+    "title": "Twilio Partners with Krisp to Provide AI Noise Cancellation to All Twilio Voice Customers",
+    "date": "2024-03-11",
+    "modified": "2026-08-11",
+    "description": "Remove all unwanted background noise and voices from calls using the Krisp plug-in for Twilio Programmable Voice."
+  },
+  {
+    "url": "https://krisp.ai/blog/voice-communication-quality-with-krisp-sdk/",
+    "title": "Krisp SDKs for Ensuring Voice Communication Quality & Noise Cancellation in Your Own App",
+    "date": "2022-08-22",
+    "modified": "2026-08-11",
+    "description": "Voice communication and noise cancellation issues and how to mitigate them through the new Krisp SDKs for ensuring high quality."
+  },
+  {
+    "url": "https://krisp.ai/blog/speech-quality-measurement/",
+    "title": "Speech Quality Measurement Algorithms and Testing Technology",
+    "date": "2022-08-29",
+    "modified": "2026-08-11",
+    "description": "Learn about speech quality measurement and its importance in communication. Krisp optimizes audio quality for clearer, more effective conversations."
+  },
+  {
+    "url": "https://krisp.ai/blog/on-device-stt-transcriptions/",
+    "title": "On-Device STT Transcriptions: Accurate, Secure and Less Expensive",
+    "date": "2024-03-05",
+    "modified": "2026-08-11",
+    "description": "Addressing the challenges of on-device transcription to deliver embeddable STT solutions that enhance the functionality for applications and end-users"
+  },
+  {
+    "url": "https://krisp.ai/blog/deep-dive-ai-accent-conversion-for-call-centers/",
+    "title": "Deep Dive: AI’s Role in Accent Conversion for Call Centers",
+    "date": "2024-03-04",
+    "modified": "2026-08-11",
+    "description": "This report details AI Accent Conversion's development, deployment challenges, and ability to revolutionize offshore call center operations"
+  },
+  {
+    "url": "https://krisp.ai/blog/best-meeting-recording-apps/",
+    "title": "9 Best Meeting Recording Apps",
+    "date": "2024-06-21",
+    "modified": "2026-07-07",
+    "description": "Discover the best 9 meeting recording apps online that you can use for free. Choose your own best for audio and video recordings."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-apps-mac/",
+    "title": "11 Best Noise Cancelling Apps for Mac & iOS in 2026 (Tested)",
+    "date": "2026-06-21",
+    "modified": "2026-06-21",
+    "description": "The best noise cancelling apps for Mac and iPhone in 2026, tested and ranked — real-time call apps, post-recording cleanup, and Apple's free built-in option"
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-management-software/",
+    "title": "10 Best Meeting Management Software Tools for 2026 (Tested & Compared)",
+    "date": "2026-06-17",
+    "modified": "2026-06-17",
+    "description": "The best meeting management software for 2026, compared. Agendas, minutes, action items, and AI notes, with honest pros, cons, and pricing for each tool."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-transcribe-one-on-one-meeting/",
+    "title": "How to Transcribe a One-On-One Meeting in Real-Time",
+    "date": "2023-10-24",
+    "modified": "2026-06-16",
+    "description": "Learn how to transcribe a one-on-one meeting using effective methods and tools to enhance productivity and communication with colleagues and employees."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-write-meeting-minutes/",
+    "title": "How To Write Meeting Minutes (Examples & Templates)",
+    "date": "2024-11-26",
+    "modified": "2026-06-16",
+    "description": "Learn how to write meeting minutes to ensure clarity, accountability, and productivity with tools like Krisp for seamless transcription."
+  },
+  {
+    "url": "https://krisp.ai/blog/kick-off-meeting/",
+    "title": "Kick-Off Meetings: How to Start Your Projects Right",
+    "date": "2024-07-23",
+    "modified": "2026-06-16",
+    "description": "Learn how to run a kick off meeting successfully. Know how the Krisp AI Meeting Assistant can enhance your meeting experience."
+  },
+  {
+    "url": "https://krisp.ai/blog/team-meeting-games/",
+    "title": "12 Team Meeting Games to Boost Engagement and Productivity",
+    "date": "2025-02-09",
+    "modified": "2026-06-16",
+    "description": "Discover 12 team meeting games to boost collaboration, creativity, and engagement. Get tips on choosing games and running them with Krisp."
+  },
+  {
+    "url": "https://krisp.ai/blog/sync-meeting/",
+    "title": "How to Organize a Productive Sync Meeting?",
+    "date": "2024-12-08",
+    "modified": "2026-06-16",
+    "description": "Discover simple ways to organize a productive sync meeting, improve teamwork, and keep everyone on the same page weekly or daily."
+  },
+  {
+    "url": "https://krisp.ai/blog/simple-meeting-minutes-template/",
+    "title": "Simple Meeting Minutes Templates and Examples",
+    "date": "2024-09-02",
+    "modified": "2026-06-16",
+    "description": "Simple meeting minutes template: Learn how to create concise and effective meeting minutes to document key decisions and action items effortlessly."
+  },
+  {
+    "url": "https://krisp.ai/blog/review-meeting/",
+    "title": "Review Meeting: Ultimate Guide With Tips & Best Practices",
+    "date": "2024-11-09",
+    "modified": "2026-06-16",
+    "description": "Learn about a review meeting as a structured session to assess progress, address issues, and set goals. Krisp makes meetings more productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-recap/",
+    "title": "Effective Meeting Recap: How to Ensure Productive Follow-Ups and Actionable Outcomes",
+    "date": "2024-09-15",
+    "modified": "2026-06-16",
+    "description": "Learn how to create effective meeting recaps that drive productive follow-ups, ensure accountability, and lead to actionable outcomes with best practices and tips."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-objectives/",
+    "title": "How to Set Meeting Objectives: Simple and Effective Tips",
+    "date": "2025-01-07",
+    "modified": "2026-06-16",
+    "description": null
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-minutes-recorder-and-transcriber/",
+    "title": "Top 5 Meeting Minutes Recorder and Transcribers in 2024",
+    "date": "2024-11-25",
+    "modified": "2026-06-16",
+    "description": "Discover the best meeting recorder and transcription tools of 2024 to save time, boost accuracy, and simplify your meeting process!"
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-challenges/",
+    "title": "Virtual Meeting Challenges: Issues and Solutions",
+    "date": "2024-11-29",
+    "modified": "2026-06-16",
+    "description": "Discover overcoming virtual meeting challenges with strategies and tools like Krisp. Learn solutions for engagement and productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-agenda-template/",
+    "title": "How to Write A Meeting Agenda Template + Examples",
+    "date": "2024-05-22",
+    "modified": "2026-06-16",
+    "description": "Writing a meeting agenda template guarantees reliable meeting outcomes. Following these tips will help you craft better agendas."
+  },
+  {
+    "url": "https://krisp.ai/blog/free-transcription-software/",
+    "title": "5 Free Transcription Software for Online Meetings in 2024",
+    "date": "2024-09-19",
+    "modified": "2026-06-16",
+    "description": "Looking for free transcription software for online meetings in 2024? Here are 5 transcription apps to streamline your productivity for free!"
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-facilitate-a-meeting/",
+    "title": "How To Facilitate A Meeting: The Ultimate Guide",
+    "date": "2024-11-03",
+    "modified": "2026-06-16",
+    "description": "Master meeting facilitation with tips on preparation, engagement, and using tools like Krisp for clear, productive in-person and virtual meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-run-an-effective-meeting/",
+    "title": "How to Run an Effective Meeting: Proven Techniques",
+    "date": "2024-10-31",
+    "modified": "2026-06-15",
+    "description": "Understanding how to run an effective meeting is about using the right strategies to keep discussions constructive and interesting."
+  },
+  {
+    "url": "https://krisp.ai/blog/manager-meeting/",
+    "title": "Productive Manager Meeting: Purpose, Types, Tips, & Template",
+    "date": "2025-01-29",
+    "modified": "2026-06-15",
+    "description": "Discover the importance of a manager meeting in driving team success. Learn how Krisp improves meeting productivity and communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/working-together/",
+    "title": "Working Together: 10 Ways Improve Collaboration in a Hybrid Workplace",
+    "date": "2025-01-12",
+    "modified": "2026-06-15",
+    "description": "Working together in a hybrid workplace? Discover 10 effective ways to boost collaboration, communication, and team productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/pros-and-cons-of-meeting-transcription/",
+    "title": "Pros and Cons of Meeting Transcription Software",
+    "date": "2023-12-21",
+    "modified": "2026-06-15",
+    "description": "Explore the world of meeting transcriptions with this in-depth analysis of the pros and cons of meeting transcription software that can shape your decision."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-transcription-services/",
+    "title": "5 Best Meeting Transcription Services for 2024",
+    "date": "2024-04-28",
+    "modified": "2026-06-15",
+    "description": "Krisp and other meeting transcription services offer accurate and real-time transcription & note-taking to optimize your virtual meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/action-items/",
+    "title": "Action Items: What They Are and How to Create Them",
+    "date": "2024-07-09",
+    "modified": "2026-06-15",
+    "description": "Explore the essentials of action items and learn how to create clear tasks with the help of AI tools. Follow our tips for successful task management."
+  },
+  {
+    "url": "https://krisp.ai/blog/agile-meetings/",
+    "title": "Agile Meetings: Best Practices for Productivity",
+    "date": "2024-10-26",
+    "modified": "2026-06-15",
+    "description": "Learn key Agile meetings and best practices to improve team productivity and ensure project success, with tips on using tools like Krisp for better communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/business-meeting/",
+    "title": "Business Meetings: Types and Winning Strategies",
+    "date": "2024-06-25",
+    "modified": "2026-06-15",
+    "description": "Conducting a business meeting involves the implementation of the smartest strategies and technologies to reach maximum productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-assistant-apps/",
+    "title": "14 Best AI Assistant Apps for 2025 | Work Smarter, Not Harder",
+    "date": "2024-11-18",
+    "modified": "2026-06-08",
+    "description": "Explore the best AI assistant apps for enhancing your workflow, from task management to meeting transcription, for better efficiency and organization."
+  },
+  {
+    "url": "https://krisp.ai/blog/free-ai-transcription/",
+    "title": "Top 7 Free AI Transcription Tools in 2024 | Users’ Picks",
+    "date": "2024-11-12",
+    "modified": "2026-05-13",
+    "description": "Explore users' top picks for the best free AI transcription tool, offering high accuracy, efficiency, and advanced features for your transcription needs."
+  },
+  {
+    "url": "https://krisp.ai/blog/remote-collaboration/",
+    "title": "11 Tools for Making Remote Collaboration Work",
+    "date": "2025-01-19",
+    "modified": "2026-02-24",
+    "description": "Discover what remote collaboration is and the 11 powerful tools designed to improve it, helping your team work together from anywhere."
+  },
+  {
+    "url": "https://krisp.ai/blog/otter-ai-alternatives/",
+    "title": "Otter.ai Honest Review + 12 Best Alternatives in 2026",
+    "date": "2025-10-20",
+    "modified": "2026-02-23",
+    "description": "Read our honest Otter.ai review for 2026 and discover the 12 best alternatives. Compare features, pricing, pros & cons to find your perfect AI note taker."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-take-minutes-for-a-nonprofit-board-meeting/",
+    "title": "How to Write Minutes for a Nonprofit Board Meeting?",
+    "date": "2024-09-13",
+    "modified": "2026-02-22",
+    "description": "Learn how to take clear and simple minutes for a nonprofit board meeting. Follow these easy steps to record decisions for your organization."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-take-notes-faster/",
+    "title": "How To Take Notes Faster: 10 Tips",
+    "date": "2024-10-03",
+    "modified": "2026-02-22",
+    "description": "Learn 10 tips to take notes faster from textbooks or in meetings, boosting productivity with practical strategies and tools."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-write-meeting-summary/",
+    "title": "How to Write an Online Meeting Summary Like a Pro?",
+    "date": "2023-07-25",
+    "modified": "2026-02-22",
+    "description": "Discover expert tips on how to write a meeting summary that impresses, enhances communication, and captures the essence of discussions with finesse."
+  },
+  {
+    "url": "https://krisp.ai/blog/take-meeting-notes/",
+    "title": "Tips for How to Take Meeting Notes",
+    "date": "2024-06-17",
+    "modified": "2026-02-22",
+    "description": "Learn how to take notes in a meeting and how Krisp can help make the process even easier. These are the best ways to take meeting notes."
+  },
+  {
+    "url": "https://krisp.ai/blog/soap-note-example/",
+    "title": "How to Write SOAP Notes (with Examples)",
+    "date": "2024-05-31",
+    "modified": "2026-02-22",
+    "description": "Discover a structured SOAP note example. Know how the AI note-taking and summarizing tool Krisp helps you write a good SOAP note."
+  },
+  {
+    "url": "https://krisp.ai/blog/professional-goals-for-work/",
+    "title": "How to Set and Achieve Professional Goals for Work",
+    "date": "2025-02-16",
+    "modified": "2026-02-22",
+    "description": "Master the art of setting and achieving professional goals for work. Explore actionable tips and insights to elevate your career."
+  },
+  {
+    "url": "https://krisp.ai/blog/nonprofit-board-meeting-agenda-template/",
+    "title": "Nonprofit Board Meeting Agenda Template: How to Create?",
+    "date": "2024-09-13",
+    "modified": "2026-02-22",
+    "description": "Discover how to create a nonprofit board meeting agenda template that keeps meetings organized and efficient."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-summary/",
+    "title": "How to Create the Perfect Meeting Summary + Free Templates",
+    "date": "2024-12-08",
+    "modified": "2026-02-22",
+    "description": "Learn how to create a clear meeting summary that captures key points and action items. Download free templates to simplify the process!"
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-minutes-vs-notes/",
+    "title": "Meeting Minutes vs. Notes: Capturing the Essence of Productive Meetings",
+    "date": "2023-08-11",
+    "modified": "2026-02-22",
+    "description": "Meeting minutes are formal, structured records of decisions and action items, while meeting notes are informal highlights of key points."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-work-from-home-jobs/",
+    "title": "10  Best Work From Home Jobs for 2026",
+    "date": "2024-12-16",
+    "modified": "2026-02-22",
+    "description": "Discover the top 10 best work-from-home jobs. Enhance your remote work experience with tools like Krisp for productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/fathom-alternatives/",
+    "title": "The 10 Best Fathom Alternatives in 2025 (Honest Fathom Review)",
+    "date": "2025-09-18",
+    "modified": "2026-02-22",
+    "description": "Discover the 10 best Fathom alternatives in 2025. Compare features, pricing, pros & cons of tools like Krisp, Otter, Fireflies, and more."
+  },
+  {
+    "url": "https://krisp.ai/blog/interview-notes/",
+    "title": "How to Write Good Interview Notes? Examples, Tips & Tricks",
+    "date": "2024-06-23",
+    "modified": "2026-02-16",
+    "description": "Discover effective tips and tricks for interview notes. See how an AI Meeting Assistant makes interview note-taking efficient and productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/welcome-to-the-team/",
+    "title": "Welcoming New Employees: How to Make a Lasting Impression",
+    "date": "2024-07-09",
+    "modified": "2026-02-16",
+    "description": "A strategic and warm welcome to the team process establishes long-term trust and cooperation between new hires and key employees."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-minutes/",
+    "title": "Meeting Minutes: Definition, Free Templates + 8 Tips",
+    "date": "2024-04-29",
+    "modified": "2026-02-16",
+    "description": "Meeting minutes ensure clarity, long-term accountability, and context for absentees. Take better meeting notes with Krisp!"
+  },
+  {
+    "url": "https://krisp.ai/blog/standing-meeting/",
+    "title": "What is a Standing Meeting? Top Tips For Meeting Productivity",
+    "date": "2024-07-28",
+    "modified": "2026-02-04",
+    "description": "Standing meetings are productive when goals are clear, there’s a structured agenda, participation is encouraged, and feedback is welcomed."
+  },
+  {
+    "url": "https://krisp.ai/blog/professional-zoom-backgrounds/",
+    "title": "20 Professional Zoom Backgrounds to Impress Your Colleagues",
+    "date": "2024-10-22",
+    "modified": "2026-02-04",
+    "description": "Explore 20 professional Zoom backgrounds to help you look your best in every meeting. Keep distractions hidden and leave lasting impression on colleagues."
+  },
+  {
+    "url": "https://krisp.ai/blog/problem-statements/",
+    "title": "How to Write Problem Statements: Tips and Examples",
+    "date": "2025-01-26",
+    "modified": "2026-02-04",
+    "description": "Learn how to write clear and impactful problem statements with examples, tips, and common mistakes to avoid for effective problem-solving."
+  },
+  {
+    "url": "https://krisp.ai/blog/note-taking-methods/",
+    "title": "6 Essential Note-Taking Methods for Better Organization",
+    "date": "2024-04-29",
+    "modified": "2026-02-04",
+    "description": "Note-taking lets you chunk down important information into smaller pieces. Check out 6 note taking methods that you can use to level up your documents."
+  },
+  {
+    "url": "https://krisp.ai/blog/note-making-vs-note-taking/",
+    "title": "Note Making vs. Note Taking: Tips & Methods to Master the Art",
+    "date": "2024-06-20",
+    "modified": "2026-02-04",
+    "description": "Compare note making vs note taking. Explore effective methods and tips. Know how AI Meeting Assistant Krisp takes notes productively."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-make-your-google-calendar-private/",
+    "title": "How to Make Your Google Calendar Private",
+    "date": "2024-12-14",
+    "modified": "2026-02-04",
+    "description": "Learn how to make your Google Calendar private by adjusting settings. Keep your events confidential and control who can view your schedule."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-organize-meeting-notes/",
+    "title": "How to Organize Meeting Notes: 6 Effective Tips (+A Note Sample)",
+    "date": "2024-09-24",
+    "modified": "2026-02-04",
+    "description": "Discover 5 effective tips to organize your meeting notes and improve productivity. Learn how to structure and manage your notes efficiently."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-stop-teams-from-opening-on-startup/",
+    "title": "How to Stop Teams from Opening on Startup",
+    "date": "2025-01-30",
+    "modified": "2025-12-23",
+    "description": "Learn how to stop Teams from opening on startup. Improve your workflow and reduce distractions with our comprehensive guide."
+  },
+  {
+    "url": "https://krisp.ai/blog/idea-generation/",
+    "title": "Idea Generation: All You Need to Know",
+    "date": "2025-01-19",
+    "modified": "2025-12-23",
+    "description": "Master idea generation with tips, tools, and strategies to boost creativity, overcome challenges, and turn ideas into impactful solutions."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-five9-deepen-partnership-redefine-global-support-with-ai-accent-localization/",
+    "title": "Krisp + Five9 Deepen Partnership, Redefine Global Support with AI Accent Localization",
+    "date": "2025-01-20",
+    "modified": "2025-12-23",
+    "description": null
+  },
+  {
+    "url": "https://krisp.ai/blog/work-from-home-essentials/",
+    "title": "Work From Home Essentials You Need In 2025",
+    "date": "2025-01-30",
+    "modified": "2025-12-23",
+    "description": "Boost productivity in 2025 with work-from-home essentials, including ergonomic setups, wardrobe tips, and Krisp's noise-cancellation tools."
+  },
+  {
+    "url": "https://krisp.ai/blog/why-is-collaboration-important/",
+    "title": "Why Is Collaboration Important?",
+    "date": "2025-01-13",
+    "modified": "2025-12-23",
+    "description": "Discover why collaboration is important. Explore benefits, challenges, and tools like Krisp for smooth teamwork."
+  },
+  {
+    "url": "https://krisp.ai/blog/teams-camera-not-working/",
+    "title": "Teams Camera Not Working: Top Troubleshooting Tips to Fix It",
+    "date": "2025-01-26",
+    "modified": "2025-12-23",
+    "description": "Discover simple troubleshooting steps for Teams camera not working. See how Krisp makes online meetings productive and efficient."
+  },
+  {
+    "url": "https://krisp.ai/blog/strategic-analysis/",
+    "title": "Strategic Analysis: The Complete Guide with Examples",
+    "date": "2025-01-29",
+    "modified": "2025-12-23",
+    "description": "Discover the essentials of strategic analysis, key models, and tools with Krisp for clear communication and smarter business decisions."
+  },
+  {
+    "url": "https://krisp.ai/blog/office-games/",
+    "title": "45 Quick & Fun Office Games to Boost Team Productivity",
+    "date": "2025-02-20",
+    "modified": "2025-12-23",
+    "description": "Boost teamwork and morale with fun office games. Use Krisp for engagement, creativity, and productivity in any workplace setting."
+  },
+  {
+    "url": "https://krisp.ai/blog/message-to-hiring-manager/",
+    "title": "How to Write an Effective Message to a Hiring Manager (With Examples)",
+    "date": "2025-01-30",
+    "modified": "2025-12-23",
+    "description": "Learn how to write a compelling message to the hiring manager, with real examples and tips to boost your chances of landing an interview."
+  },
+  {
+    "url": "https://krisp.ai/blog/",
+    "title": "Krisp blog",
+    "date": "2025-12-23",
+    "modified": "2025-12-23",
+    "description": "Stay updated with Krisp’s blog, which offers insights on AI, noise cancellation, recording quality, and the latest trends in communication technology."
+  },
+  {
+    "url": "https://krisp.ai/blog/brainstorming-rules/",
+    "title": "Brainstorming Rules: The Complete Guide",
+    "date": "2025-01-14",
+    "modified": "2025-12-23",
+    "description": "Discover the origin, rules, and techniques of brainstorming. Learn how tools like Krisp make virtual brainstorming seamless and effective."
+  },
+  {
+    "url": "https://krisp.ai/blog/brainstorming-sessions/",
+    "title": "How To Run Brainstorming Sessions Effectively",
+    "date": "2025-01-27",
+    "modified": "2025-12-23",
+    "description": "Learn how to run effective brainstorming sessions to spark creativity, foster collaboration, and turn ideas into actionable outcomes."
+  },
+  {
+    "url": "https://krisp.ai/blog/corporate-meeting/",
+    "title": "How to Run a Corporate Meeting: Corporate Meeting Minutes",
+    "date": "2024-12-29",
+    "modified": "2025-12-23",
+    "description": "A corporate meeting is a structured gathering of stakeholders to discuss strategies and goals. Use Krisp to make corporate events productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-merge-google-calendars/",
+    "title": "How to Merge Google Calendars: Hidden Tips",
+    "date": "2025-01-29",
+    "modified": "2025-12-23",
+    "description": "Find out how to merge Google Calendars like a pro! Our hidden tips will help you stay organized and manage your time effectively."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-summary-generators/",
+    "title": "Best AI Summary Generator (2025): 15 Tools Tested for Text, PDFs, Video & Meetings",
+    "date": "2025-12-19",
+    "modified": "2025-12-19",
+    "description": "We tested 15 AI summarizers on articles, PDFs, videos, and meetings. See pros/cons, pricing, & how to choose the right AI summary generator."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-record-a-podcast/",
+    "title": "How to Record a Podcast Like An Expert | Proven Strategies",
+    "date": "2024-07-09",
+    "modified": "2025-11-05",
+    "description": "Explore how to record a podcast like an expert with our proven tips! Learn the best techniques, equipment, and tips to create high-quality podcast content."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-screen-record-on-mac/",
+    "title": "How to Screen Record on Mac | Built-In and Third-Party Tools",
+    "date": "2024-12-17",
+    "modified": "2025-10-03",
+    "description": "Identifying how to screen record on Mac isn’t too hard: you can either do it with the built-in toolbar or by using advanced tools like Krisp."
+  },
+  {
+    "url": "https://krisp.ai/blog/speech-to-text-software/",
+    "title": "A Detailed Guide On the Best Speech to Text Software in 2024",
+    "date": "2024-07-12",
+    "modified": "2025-10-03",
+    "description": "Speech to text software revolutionizes digital note-taking and documentation with tools such as Krisp, Otter.ai, Descript, etc,"
+  },
+  {
+    "url": "https://krisp.ai/blog/process-improvement/",
+    "title": "Process Improvement in 2025: Smarter, Faster, More Efficient",
+    "date": "2025-01-31",
+    "modified": "2025-10-03",
+    "description": "Discover the latest trends in process improvement for 2025. Learn how to streamline workflows and optimize operations for smarter results."
+  },
+  {
+    "url": "https://krisp.ai/blog/action-plan/",
+    "title": "Creating an Action Plan: Simple Steps to Get Started",
+    "date": "2024-10-29",
+    "modified": "2025-10-03",
+    "description": "Discover how to create an effective action plan using this systematic approach to achieving your goals while keeping your team aligned."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-translation-app/",
+    "title": "What Is the Best Translation App for 2025?",
+    "date": "2024-12-20",
+    "modified": "2025-10-03",
+    "description": "The best translation app breaks language barriers for seamless communication. Compare Krisp's AI Live Interpreter, Google Translate, & more."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-meeting-apps/",
+    "title": "The Best Meeting Apps of 2024",
+    "date": "2024-08-22",
+    "modified": "2025-10-02",
+    "description": "Find the best meeting apps of 2024. Discover top tools that make collaboration easy and work great for online meetings. ."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-makes-the-outline-method-an-effective-note-taking-technique/",
+    "title": "What Makes the Outline Method an Effective Note-Taking Technique?",
+    "date": "2024-09-22",
+    "modified": "2025-10-01",
+    "description": "Discover why the Outline Method is the most effective note-taking techniques. Learn how this structured approach improves understanding."
+  },
+  {
+    "url": "https://krisp.ai/blog/tactical-vs-strategic-planning/",
+    "title": "Strategic vs. Tactical Planning: What’s the Difference?",
+    "date": "2025-01-31",
+    "modified": "2025-10-01",
+    "description": "Understand strategic vs. tactical planning, how they differ, and why both are important for reaching your business goals."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-use-speech-to-text-on-google-docs/",
+    "title": "How to Use Speech to Text on Google Docs?",
+    "date": "2024-12-19",
+    "modified": "2025-09-30",
+    "description": "Find out how to use speech to text on Google Docs. Follow these simple steps to type with your voice easily!"
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-transcription/",
+    "title": "How to Transcribe Zoom Meetings and Recordings for Free in 2025",
+    "date": "2025-03-31",
+    "modified": "2025-09-30",
+    "description": "Transcribe Zoom meetings & recordings effortlessly with Krisp. Get real-time captions, AI-powered summaries, and accurate transcripts."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-camera-not-working/",
+    "title": "Why is my Zoom camera not working and How to Fix it?",
+    "date": "2024-12-19",
+    "modified": "2025-09-30",
+    "description": "Learn why your Zoom camera isn’t working and this will show you simple steps to get it working again quickly."
+  },
+  {
+    "url": "https://krisp.ai/blog/teams-recording-location/",
+    "title": "How to Find Your Microsoft Teams Recording Location?",
+    "date": "2025-01-14",
+    "modified": "2025-09-30",
+    "description": "Learn how to easily manage, access, and find your Microsoft Teams meeting recordings in OneDrive or SharePoint."
+  },
+  {
+    "url": "https://krisp.ai/blog/google-meet-microphone-not-working/",
+    "title": "Why is Google Meet Microphone Not Working? Ultimate Fix Guide",
+    "date": "2024-10-20",
+    "modified": "2025-09-30",
+    "description": "Identifying common issues with Google Meet microphone not working is helpful for your future calls, meetings, and other virtual interactions."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-keep-teams-status-green/",
+    "title": "How to Keep Teams Status Green",
+    "date": "2024-08-16",
+    "modified": "2025-09-30",
+    "description": "Your understanding of how to keep Teams status green comes in handy in many scenarios. Keeping your digital systems under control helps."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-reflections/",
+    "title": "Meeting Reflections: A Complete Guide",
+    "date": "2025-01-27",
+    "modified": "2025-09-17",
+    "description": "Discover how meeting reflections with Krisp's tools enhance productivity by analyzing outcomes and fostering continuous team growth."
+  },
+  {
+    "url": "https://krisp.ai/blog/why-is-note-taking-important/",
+    "title": "Why Is Note-Taking Important?",
+    "date": "2024-10-21",
+    "modified": "2025-09-16",
+    "description": "Learn why taking notes is important for better learning and staying organized. Find out how it helps you remember more and understand things."
+  },
+  {
+    "url": "https://krisp.ai/blog/where-are-teams-meeting-notes-stored/",
+    "title": "Where Are Teams Meeting Notes Stored?",
+    "date": "2024-10-21",
+    "modified": "2025-09-16",
+    "description": "Where are Teams meeting notes stored? Discover everything you need to know about accessing and sharing meeting notes in Microsoft Teams."
+  },
+  {
+    "url": "https://krisp.ai/blog/note-making/",
+    "title": "Common Note Making Mistakes and How to Fix Them",
+    "date": "2024-10-29",
+    "modified": "2025-09-16",
+    "description": "Discover common note-making mistakes, their effects on learning, and simple fixes. Learn different styles and tips to stay organized."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-note-taker-for-zoom/",
+    "title": "AI Note Taker For Zoom: Top 10 Options",
+    "date": "2024-12-09",
+    "modified": "2025-09-16",
+    "description": "Discover the top 10 AI note taker for Zoom meetings, including advanced tools like Krisp. Boost productivity and simplify note-taking!"
+  },
+  {
+    "url": "https://krisp.ai/blog/best-note-taking-apps-for-mac/",
+    "title": "5 Best Note Taking Apps for Mac in 2024",
+    "date": "2024-09-28",
+    "modified": "2025-09-16",
+    "description": "Looking for the best note taking apps for Mac? Explore our list of the top 5 apps to boost your efficiency and streamline your notes!"
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-take-meeting-notes-in-teams/",
+    "title": "How to Take Meeting Notes in Teams: A Comprehensive Guide",
+    "date": "2024-09-24",
+    "modified": "2025-09-10",
+    "description": "Learn how to take meeting notes in Microsoft Teams using manual methods and AI tools. Boost productivity with clear, organized notes."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-minutes-software/",
+    "title": "6 Best Meeting Minutes Software For 2024",
+    "date": "2024-04-29",
+    "modified": "2025-08-28",
+    "description": "Krisp & other meeting minutes software ensure accuracy, security, and efficiency in documenting meeting outcomes. Check it out for more!"
+  },
+  {
+    "url": "https://krisp.ai/blog/board-meeting-minutes/",
+    "title": "Board Meeting Minutes: How to Take Minutes at a Board Meeting",
+    "date": "2024-05-29",
+    "modified": "2025-08-28",
+    "description": "Learn how to take board meeting minutes. Know how Krisp helps capture meeting discussions effectively to make note-taking productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/hybrid-vs-remote/",
+    "title": "Hybrid vs Remote: Which Work Model Suits You Best?",
+    "date": "2025-01-19",
+    "modified": "2025-08-18",
+    "description": "Discover the key differences between hybrid vs remote work models. Explore pros, cons, and tips to choose the best option for your career."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-are-action-items-in-a-meeting/",
+    "title": "What Are Action Items in a Meeting? Examples and Best Practices",
+    "date": "2024-12-19",
+    "modified": "2025-08-18",
+    "description": "Learn what are action items in a meeting, see real-world examples, and discover best practices to create actionable tasks"
+  },
+  {
+    "url": "https://krisp.ai/blog/webinar-best-practices/",
+    "title": "11 Webinar Best Practices For Winning Webinars",
+    "date": "2024-09-23",
+    "modified": "2025-08-18",
+    "description": "Webinar best practices are about doing your best to understand and nurture your audience's needs by offering something valuable."
+  },
+  {
+    "url": "https://krisp.ai/blog/obs-alternative/",
+    "title": "Best OBS Alternatives: Top Picks for Streaming and Recording",
+    "date": "2024-12-07",
+    "modified": "2025-08-18",
+    "description": "Looking for the best OBS alternative? Discover top streaming and recording tools with advanced features and unmatched performance."
+  },
+  {
+    "url": "https://krisp.ai/blog/action-items-in-meeting-minutes/",
+    "title": "Writing Effective Action Items for Online Meetings: Tips & Examples",
+    "date": "2023-08-16",
+    "modified": "2025-08-18",
+    "description": "Enhance your virtual collaboration by perfecting your action items in meeting minutes and explore practical tips and real-world illustrative examples."
+  },
+  {
+    "url": "https://krisp.ai/blog/collaborative-leadership/",
+    "title": "Proven Reasons Why Collaborative Leadership Works Best",
+    "date": "2025-01-19",
+    "modified": "2025-08-18",
+    "description": "Discover why collaborative leadership drives success. Explore proven benefits and learn how it can transform your organization"
+  },
+  {
+    "url": "https://krisp.ai/blog/de-escalation-techniques/",
+    "title": "10 Effective De-Escalation Techniques for Handling Workplace Conflicts",
+    "date": "2024-08-19",
+    "modified": "2025-08-18",
+    "description": "Explore 10 de-escalation techniques to manage workplace conflicts. Learn how empathy, active listening, and other strategies can handle tense situations."
+  },
+  {
+    "url": "https://krisp.ai/blog/sprint-retrospective/",
+    "title": "What is a Sprint Retrospective & How to Hold an Effective One?",
+    "date": "2025-01-19",
+    "modified": "2025-08-14",
+    "description": "Learn what a Sprint Retrospective is and discover practical tips for holding an effective one to improve team performance and future sprints."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-share-google-calendar/",
+    "title": "How to Share Google Calendar With Others in 2024",
+    "date": "2024-08-26",
+    "modified": "2025-08-13",
+    "description": "Your knowledge of how to share Google Calendar is your investment in having an organized and collaborative workflow for your projects."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-share-screen-in-teams/",
+    "title": "How to Share Screen in Teams: The Ultimate Guide",
+    "date": "2025-01-29",
+    "modified": "2025-08-13",
+    "description": "Discover the ultimate guide on how to share your screen in Teams. Enhance your collaboration skills with expert tips."
+  },
+  {
+    "url": "https://krisp.ai/blog/this-could-have-been-an-email/",
+    "title": "How to Avoid the “This Could Have Been an Email” Trap",
+    "date": "2024-11-15",
+    "modified": "2025-08-13",
+    "description": "Noticing signs of this could have been an email meetings helps improve communication guidelines, and build a culture of focus and efficiency."
+  },
+  {
+    "url": "https://krisp.ai/blog/back-to-back-meeting/",
+    "title": "How to Stay Efficient During Back To Back Meetings?",
+    "date": "2024-12-08",
+    "modified": "2025-08-13",
+    "description": "Discover practical strategies to maintain focus and stay productive during back to back meetings without feeling overwhelmed."
+  },
+  {
+    "url": "https://krisp.ai/blog/consensus-building/",
+    "title": "What Is Consensus Building, and What Are the Best Approaches?",
+    "date": "2025-01-31",
+    "modified": "2025-08-13",
+    "description": "Learn what consensus building is and explore simple, effective ways to help groups agree, work together smoothly, and make better decisions."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-delete-your-zoom-account/",
+    "title": "How to Delete Zoom Account in a Few Simple Steps",
+    "date": "2024-11-30",
+    "modified": "2025-08-13",
+    "description": "Need to delete your Zoom account? Follow our straightforward guide for simple steps to ensure your account is deleted quickly and securely."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-is-the-purpose-of-brainstorming-during-the-development-of-an-action-plan/",
+    "title": "What Is the Purpose of Brainstorming During the Development of an Action Plan?",
+    "date": "2024-10-14",
+    "modified": "2025-08-08",
+    "description": "Discover the purpose of brainstorming in action plan development, and learn how it drives creativity,and effective problem-solving."
+  },
+  {
+    "url": "https://krisp.ai/blog/sales-call-recording/",
+    "title": "The Importance of Sales Call Recording: Tips And Tools",
+    "date": "2024-09-14",
+    "modified": "2025-08-08",
+    "description": "Doing sales call recording right comes down to knowing the law, keeping data secure, using the right software, and setting clear guidelines."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-request-email/",
+    "title": "Step-by-Step Guide to Writing a Meeting Request Email",
+    "date": "2024-12-23",
+    "modified": "2025-08-08",
+    "description": "Learn how to write the perfect meeting request email with this step-by-step guide. Includes examples and templates to save time and impress"
+  },
+  {
+    "url": "https://krisp.ai/blog/where-do-zoom-recordings-go/",
+    "title": "Where Do Zoom Recordings Go and How to Access Them?",
+    "date": "2024-10-21",
+    "modified": "2025-08-07",
+    "description": "Where do Zoom recordings go? Discover where to find your Zoom recordings and how to access them locally or in the cloud."
+  },
+  {
+    "url": "https://krisp.ai/blog/accountability-vs-responsibility/",
+    "title": "Accountability vs. Responsibility at Work: Key Differences",
+    "date": "2024-10-15",
+    "modified": "2025-08-01",
+    "description": "Learn the key differences of accountability vs. responsibility at work, and discover how both drive productivity and team success."
+  },
+  {
+    "url": "https://krisp.ai/blog/work-habits/",
+    "title": "15 Work Habits You Need to Develop in 2024",
+    "date": "2024-10-17",
+    "modified": "2025-07-31",
+    "description": "Discover 15 essential work habits for success in 2024. Stay organized, and learn how Krisp’s AI tools can support your goals."
+  },
+  {
+    "url": "https://krisp.ai/blog/thank-you-email-after-meeting/",
+    "title": "Thank You Email After Meeting: Free Templates & Best Practices",
+    "date": "2024-08-12",
+    "modified": "2025-07-31",
+    "description": "Learn to write the perfect thank you email after meeting. Discover best practices and easy-to-use templates for effective follow-up emails."
+  },
+  {
+    "url": "https://krisp.ai/blog/soundproof-room/",
+    "title": "How to Soundproof a Room",
+    "date": "2024-06-12",
+    "modified": "2025-07-31",
+    "description": "Know how to soundproof a room with practical steps. Use Krisp to eliminate background noise, voice, and echo from online meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/catch-up-meeting/",
+    "title": "Mastering Catch-Up Meetings: Expert Strategies for Productive Sessions",
+    "date": "2023-07-14",
+    "modified": "2025-07-31",
+    "description": "Unleash the true potential of catch-up meetings with proven expert strategies and tips as you unlock their potential for productivity and improved team dynamics."
+  },
+  {
+    "url": "https://krisp.ai/blog/group-decision-making-techniques/",
+    "title": "10 Group Decision-Making Techniques for Teams",
+    "date": "2024-11-17",
+    "modified": "2025-07-31",
+    "description": "Explore 10 group decision-making techniques, including brainstorming, SWOT, Delphi, dot voting, consensus building, and more."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-record-a-teams-meeting/",
+    "title": "How to Record a Teams Meeting",
+    "date": "2024-02-16",
+    "modified": "2025-05-27",
+    "description": "Over 1 million companies use MS Teams. Learning how to record a meeting in Teams is great for productivity, communication, & collaboration."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-set-up-zoom-meeting/",
+    "title": "How to Set up a Zoom Meeting with Easy Steps",
+    "date": "2024-05-12",
+    "modified": "2025-05-27",
+    "description": "Learn how to set up a Zoom meeting effortlessly with this guide. Get ready to host your virtual gatherings like a pro."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-raise-hand-in-zoom/",
+    "title": "How to Raise Hand in Zoom: A Simple Gesture",
+    "date": "2024-05-23",
+    "modified": "2025-05-27",
+    "description": "Learn how you can raise hand in Zoom meetings with just one click and a simple gesture. Make your Zoom meetings more efficient with Krisp."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-interview-tips/",
+    "title": "Zoom Interview Tips for a Successful Virtual Meeting",
+    "date": "2023-07-07",
+    "modified": "2025-05-27",
+    "description": "Unlock virtual success with our expert Zoom interview tips as you create a professional atmosphere, engage effectively, and leave a lasting impression."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-ai-companion-guide/",
+    "title": "Zoom AI Companion: The Ultimate Guide",
+    "date": "2024-07-04",
+    "modified": "2025-05-27",
+    "description": "Learn how Zoom AI Companion enhances your virtual conferencing experience. See how a Productivity Voice AI Leader makes meetings productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/teams-meeting-transcription-without-recording/",
+    "title": "Can You Transcribe a Teams Meeting Without Recording?",
+    "date": "2023-07-20",
+    "modified": "2025-05-27",
+    "description": "Master the key to getting a Microsoft Teams meeting transcription without recording and elevate your meetings and boost your communication and collaborations."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-notes/",
+    "title": "How to Automatically Take Zoom Notes: An A-Z Guide",
+    "date": "2024-05-23",
+    "modified": "2025-05-26",
+    "description": "Learn how to take Zoom notes in a Zoom meeting and become a master at boosting productivity. Capture insights, organize thoughts, elevate meetings!"
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-noise-reduction/",
+    "title": "Zoom Noise Cancellation: How to Eliminate Background Noise & Echo",
+    "date": "2024-02-05",
+    "modified": "2025-05-23",
+    "description": "Say goodbye to background noise during online meetings with the Zoom noise cancellation feature. Distraction-free audio for professional and personal calls."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-tips/",
+    "title": "20 Tips and Tricks for Zoom – Before, During, and After Meetings",
+    "date": "2021-04-05",
+    "modified": "2025-05-22",
+    "description": "Discover Zoom tips and tricks that will help you choose the right settings and use advanced Zoom features for every meeting stage."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-record-a-zoom-meeting/",
+    "title": "How to Record Zoom Meetings: A Guide for Hosts and Participants",
+    "date": "2024-12-09",
+    "modified": "2025-05-19",
+    "description": "Learning how to record a Zoom meeting in these simple steps can help you advance your virtual meetings, gain better outcomes, and much more!"
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-join-a-teams-meeting/",
+    "title": "How To Join a Microsoft Teams Meeting",
+    "date": "2024-10-15",
+    "modified": "2025-05-19",
+    "description": "Learn how to join a Microsoft Teams meeting easily by link, code, phone, or without the app. Follow these simple steps to stay connected and professional."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-schedule-a-teams-meeting/",
+    "title": "How to Schedule a Teams Meeting: A Step-by-Step Guide",
+    "date": "2024-09-09",
+    "modified": "2025-04-18",
+    "description": "​Learn how to schedule a Teams meeting on desktop, mobile, and Outlook, plus tips on enhancing meetings with Krisp's AI tools."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-share-sound-on-zoom/",
+    "title": "How to Share Sound on Zoom: A Step-by-Step Guide",
+    "date": "2024-11-11",
+    "modified": "2025-04-18",
+    "description": "Learn how to share sound on Zoom with this step-by-step guide. Perfect for professionals, teachers, and casual users to enhance your presentations and meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-for-mac/",
+    "title": "How to Easily Install Zoom For Mac in Just a Few Steps",
+    "date": "2024-08-28",
+    "modified": "2025-04-18",
+    "description": "Installing and setting up Zoom for Mac involves several simple steps that guide any virtual communicator to productive virtual meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/reverse-brainstorming/",
+    "title": "How to Use Reverse Brainstorming Effectively?",
+    "date": "2025-01-19",
+    "modified": "2025-04-18",
+    "description": "Discover what reverse brainstorming is and how reverse brainstorming can help you solve problems in a creative and simple way."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-goals/",
+    "title": "4 Practical Ways to Clearly Define Your Meeting Goals",
+    "date": "2025-02-01",
+    "modified": "2025-04-18",
+    "description": "Learn 4 simple and practical ways to set clear meeting goals, so your team stays focused, productive, and gets real results."
+  },
+  {
+    "url": "https://krisp.ai/blog/employee-appreciation-messages/",
+    "title": "99 Employee Appreciation Messages to Motivate Your Team",
+    "date": "2025-02-19",
+    "modified": "2025-04-18",
+    "description": "Discover 99 thoughtful employee appreciation messages and Strengthen workplace relationships with meaningful words of recognition"
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-give-constructive-feedback/",
+    "title": "How to Give Constructive Feedback? (With Examples)",
+    "date": "2025-02-01",
+    "modified": "2025-04-18",
+    "description": "Learn how to give constructive feedback that is clear and actionable. Discover strategies to provide constructive feedback without criticism"
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-work-from-home/",
+    "title": "How to Work from Home: 15 Productive Tips from a Remote Worker",
+    "date": "2024-11-05",
+    "modified": "2025-04-17",
+    "description": "Learn how to work from home effectively with these 15 productive tips. Boost your focus, create a better workspace, and balance work and personal life."
+  },
+  {
+    "url": "https://krisp.ai/blog/interview-transcript/",
+    "title": "Interview Transcript: A Comprehensive Guide",
+    "date": "2024-09-28",
+    "modified": "2025-04-16",
+    "description": "Turn interviews into actionable insights with accurate transcripts. Learn how to transcribe interviews efficiently and make the most of your data."
+  },
+  {
+    "url": "https://krisp.ai/blog/transcription-education/",
+    "title": "Meeting Transcription for Educational Purposes: Help for Students",
+    "date": "2023-10-16",
+    "modified": "2025-04-16",
+    "description": "Discover how accurate transcriptions for education can enhance learning experiences and support educational growth and accessibility in the field of academia."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-headphones-for-podcasting/",
+    "title": "10+ Best Headphones for Podcasting in 2025",
+    "date": "2024-12-20",
+    "modified": "2025-04-14",
+    "description": "Discover the best headphones for podcasting in 2025, featuring top picks for audio quality, comfort, and budget."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-record-a-google-meet/",
+    "title": "How to Record a Google Meet on Any Device You Use",
+    "date": "2025-01-03",
+    "modified": "2025-03-24",
+    "description": "Learn how to record Google Meet sessions easily on any device. Capture valuable moments for review or share, with tips for all users."
+  },
+  {
+    "url": "https://krisp.ai/blog/record-audio-mac/",
+    "title": "How to Record Audio on Mac: A Comprehensive Tutorial",
+    "date": "2024-06-27",
+    "modified": "2025-03-24",
+    "description": "Learn how to record audio on Mac via various tools. Know how to enhance recording with AI Meeting Assistant Krisp to enjoy productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/post-mortem-meeting/",
+    "title": "What Is a Post Mortem Meeting? Guide to Run It Successfully",
+    "date": "2024-07-28",
+    "modified": "2025-03-24",
+    "description": "Learn how a post mortem meeting brings better project outcomes. See how AI Meeting Assistant Krisp can enhance your post mortem meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-notes-template/",
+    "title": "Meeting Notes Template: What It Is and How to Create One Easily",
+    "date": "2024-04-27",
+    "modified": "2025-03-24",
+    "description": "Know how to craft your meeting notes template effectively. Discover an AI transcription service for productive note-taking."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-clean-up-audio/",
+    "title": "How to Clean Up Audio and Remove Background Noise",
+    "date": "2025-01-13",
+    "modified": "2025-03-24",
+    "description": "Discover simple and effective tips on how to clean up audio and remove background noise for clearer sound in your recordings, calls, and videos."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-create-breakout-rooms-in-zoom/",
+    "title": "How to Create Breakout Rooms in Zoom: A Step-by-Step Guide",
+    "date": "2025-01-28",
+    "modified": "2025-03-24",
+    "description": "Discover how to create breakout rooms in Zoom with our comprehensive step-by-step guide. Enhance your virtual meetings today."
+  },
+  {
+    "url": "https://krisp.ai/blog/accent-neutralization-software-for-customer-service/",
+    "title": "7 Best Accent Neutralization Software Tools for Customer Service",
+    "date": "2024-09-04",
+    "modified": "2025-03-14",
+    "description": "Discover top 7 accent neutralization software tools that can improve communication in customer service and result in customer satisfaction."
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-celebration-ideas/",
+    "title": "9 Virtual Celebration Ideas for Remote Teams (With Examples)",
+    "date": "2020-12-09",
+    "modified": "2025-03-13",
+    "description": "Check out the best virtual celebration ideas and have a look at how other companies are recognizing their workers and celebrating milestones."
+  },
+  {
+    "url": "https://krisp.ai/blog/remote-team-collaboration/",
+    "title": "How to Build Effective Remote Team Collaboration",
+    "date": "2019-11-03",
+    "modified": "2025-03-13",
+    "description": "If you have any worries regarding how efficient remote team collaboration can get across different time zones, our proven tips will help you."
+  },
+  {
+    "url": "https://krisp.ai/blog/remote-meetings-tips/",
+    "title": "18 Remote Meeting Tips Everyone Should Know (But Doesn’t)",
+    "date": "2022-07-23",
+    "modified": "2025-03-13",
+    "description": "Spending a lot of time in remote meetings? Before you hop on your next call, be sure to read about these game-changing remote meetings tips."
+  },
+  {
+    "url": "https://krisp.ai/blog/applying-the-seven-testing-principles-to-ai-testing/",
+    "title": "Applying the Seven Testing Principles to AI Testing",
+    "date": "2023-08-28",
+    "modified": "2025-03-13",
+    "description": "Explore how the seven testing principles apply to AI testing. Ensure quality and accuracy in AI systems with actionable insights and testing strategies."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-improve-team-communication/",
+    "title": "How to Improve Team Communication (and Why Failure to Do So Costs You)",
+    "date": "2021-10-27",
+    "modified": "2025-03-13",
+    "description": "The way you and your colleagues interact affects culture and your bottom line. So how can you improve team communication? Read on for tips."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-we-shrunk-dnn-to-run-inside-chrome/",
+    "title": "We had to squeeze our Neural Network by 30x to run inside Chrome",
+    "date": "2020-04-01",
+    "modified": "2025-03-12",
+    "description": "Building noise cancelling extension for a browser wasn’t possible until recently. Find out how we shrunk our DNN 30x to run inside Chrome."
+  },
+  {
+    "url": "https://krisp.ai/blog/hybrid-work-model/",
+    "title": "Hybrid Work Model: What Is It, and Will It Work for Your Company?",
+    "date": "2021-01-18",
+    "modified": "2025-03-12",
+    "description": "What is a hybrid work model? We go over some tips on adopting hybrid work model and some examples of companies making it work."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-accent-conversion/",
+    "title": "Krisp AI Accent Conversion: Get Ready for a Communication Revolution",
+    "date": "2023-04-27",
+    "modified": "2025-03-12",
+    "description": "Explore how Krisp's Accent Localization technology seamlessly adapts to diverse accents, enhancing communication clarity and transforming interactions."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-aarista-partnership/",
+    "title": "Krisp to Provide AI Noise Cancellation to Aarista Technologies Cutting Edge Solutions",
+    "date": "2024-07-10",
+    "modified": "2025-03-12",
+    "description": "Krisp and Aarista partnership: Explore how Krisp’s AI-powered voice solutions enhance Aarista’s communications with cutting-edge noise cancellation."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-and-carrierxs-freeconferencecall-com-integrate-to-deliver-ai-powered-voice-clarity-and-noise-cancellation/",
+    "title": "Krisp and CarrierX’s FreeConferenceCall.com Integrate to Deliver AI-Powered Voice Clarity and Noise Cancellation",
+    "date": "2024-03-19",
+    "modified": "2025-03-12",
+    "description": "Learn how Krisp and CarrierX integrate to deliver industry leading AI-powered voice clarity and noise cancellation for clear, uninterrupted communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-and-vodex-partnership/",
+    "title": "Krisp and Vodex Partner to Perfect GenAI-Powered Voicebot Calls for High-Quality Lead Qualification",
+    "date": "2024-07-22",
+    "modified": "2025-03-12",
+    "description": "Krisp and Vodex partnership: Learn how this collaboration is redefining voice quality with AI-driven noise cancellation and voice clarity solutions."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-delivers-ai-powered-voice-clarity-to-symphonys-trader-voice-products/",
+    "title": "Krisp Delivers AI-Powered Voice Clarity to Symphony’s Trader Voice Products",
+    "date": "2024-04-17",
+    "modified": "2025-03-12",
+    "description": "Discover how Krisp enhances Symphony’s voice products with AI-powered voice clarity and noise cancellation for greater communication in fast-paced environments."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-extends-partnership-with-five9-to-deliver-live-ai-language-interpretation/",
+    "title": "Krisp Extends Partnership with Five9 to Deliver Live AI Speech Interpretation",
+    "date": "2024-12-03",
+    "modified": "2025-03-12",
+    "description": "Learn about Krisp's partnership with Five9 to offer live AI language interpretation for contact centers to improve customer service and communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-and-dyte-partner-to-provide-ai-powered-noise-cancellation/",
+    "title": "Krisp and Dyte Partner To Provide AI-Powered Noise Cancellation Technology to Dyte Users",
+    "date": "2023-05-22",
+    "modified": "2025-03-12",
+    "description": "Krisp and Dyte partner team up to revolutionize virtual communication, offering seamless integration for improved audio clarity, and continous collaboration."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-launches-accent-conversion/",
+    "title": "Krisp launches Accent Conversion SDK Early Access Program for Communications Providers",
+    "date": "2024-06-21",
+    "modified": "2025-03-12",
+    "description": "Join Krisp's Early Access for Accent Conversion SDK, enhancing call center efficiency by matching agents' accents to customers."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-named-cool-vendor-gartner/",
+    "title": "Krisp is named a Cool Vendor in the 2020 Cool Vendors by Gartner",
+    "date": "2021-01-20",
+    "modified": "2025-03-12",
+    "description": "Krisp has been included in the list of Cool Vendors in Digital Workplace Programs and Applications by Gartner."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-partners-with-five9-to-deliver-advanced-voice-ai-applications/",
+    "title": "Krisp Partners with Five9 to Deliver Advanced Voice AI Applications",
+    "date": "2024-11-12",
+    "modified": "2025-03-12",
+    "description": "Krisp has partnered with Five9 to deliver advanced AI voice applications to enhance customer service with real-time voice clarity and seamless communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-zapier-transform-your-meetings-with-automated-workflows/",
+    "title": "Krisp + Zapier: Transform Your Meetings with Automated Workflows",
+    "date": "2024-10-24",
+    "modified": "2025-03-12",
+    "description": "Explore how Krisp and Zapier are transforming your meetings with automated workflows, boosting productivity through AI-powered noise cancellation."
+  },
+  {
+    "url": "https://krisp.ai/blog/leading-virtual-teams/",
+    "title": "Leading a Virtual Team for the First Time? Here are 12 Tips to Help",
+    "date": "2022-01-31",
+    "modified": "2025-03-12",
+    "description": "Leading a virtual team for the first time can be tricky…but with the right approach, you can help your employees reach their potential."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-ovice-partnership-announcement/",
+    "title": "Krisp Announces Partnership With oVice To Enable High-Quality AI Noise Cancellation For Everyone",
+    "date": "2023-03-30",
+    "modified": "2025-03-12",
+    "description": "Discover Krisp's partnership with Ovice, bringing enhanced virtual communication with AI-powered noise cancellation and voice clarity for greater collaboration."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-are-the-4-ps-of-a-meeting-agenda/",
+    "title": "Understanding the 4 Ps of a Meeting Agenda",
+    "date": "2024-09-16",
+    "modified": "2025-03-12",
+    "description": "What are the 4 Ps of a meeting agenda? Learn how to apply the 4 Ps – purpose, people, process, and product – to create effective and structured agendas."
+  },
+  {
+    "url": "https://krisp.ai/blog/vonage-to-launch-enhanced-noise-cancellation-powered-by-krisps-voice-ai/",
+    "title": "Vonage to Launch Enhanced Noise Cancellation Powered by Krisp’s Voice AI",
+    "date": "2024-03-26",
+    "modified": "2025-03-12",
+    "description": "Vonage to launch Enhanced Noise Cancellation, powered by Krisp's proprietary Voice AI technology for Vonage Contact Center customers"
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-customer-service-moving-online/",
+    "title": "Virtual Customer Service: How to Move Your Call Center Online (2024 Updated)",
+    "date": "2020-09-01",
+    "modified": "2025-03-12",
+    "description": "Virtual call center is a cost-effective solution for providing customer support. If you’re interested in starting one, here's how to do it."
+  },
+  {
+    "url": "https://krisp.ai/blog/twine-vs-spinach/",
+    "title": "Twine vs Spinach",
+    "date": "2024-09-30",
+    "modified": "2025-03-12",
+    "description": "Twine vs. Spinach: Discover the differences between these tools for meeting transcription and collaboration to select the most suitable one."
+  },
+  {
+    "url": "https://krisp.ai/blog/tldv-vs-rewind/",
+    "title": "TL;DV vs Rewind",
+    "date": "2024-10-11",
+    "modified": "2025-03-12",
+    "description": "TL;DV vs. Rewind: Evaluate the differences between these tools to find the ideal solution for meeting transcription and actionable insights."
+  },
+  {
+    "url": "https://krisp.ai/blog/the-power-of-on-device-transcription-in-call-centers/",
+    "title": "The Power of On-Device Transcription in Call Centers",
+    "date": "2023-12-20",
+    "modified": "2025-03-12",
+    "description": "The power of on-device transcription in call centers: Learn how on-device transcription improves efficiency, security, and accuracy in call center operations."
+  },
+  {
+    "url": "https://krisp.ai/blog/streaming-speech-to-text/",
+    "title": "Streaming Speech to Text Solutions: A Comprehensive Guide",
+    "date": "2024-06-27",
+    "modified": "2025-03-12",
+    "description": "Streaming speech-to-text: Discover how real-time speech-to-text technology is transforming accessibility, transcription, and communication experiences."
+  },
+  {
+    "url": "https://krisp.ai/blog/spinach-vs-sembly/",
+    "title": "Spinach vs Sembly",
+    "date": "2024-09-30",
+    "modified": "2025-03-12",
+    "description": "Spinach vs. Sembly: Evaluate these tools for meeting transcription and actionable insights to select the best one for enhancing team productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/spinach-vs-laxis/",
+    "title": "Spinach vs Laxis",
+    "date": "2024-09-30",
+    "modified": "2025-03-12",
+    "description": "Spinach vs. Laxis: Compare these tools for transcription and collaboration to determine the best fit for improving team meetings and productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/speech-to-text-apis-a-deep-dive-into-the-technology/",
+    "title": "Speech-to-Text APIs: A Deep Dive into the Technology",
+    "date": "2024-07-25",
+    "modified": "2025-03-12",
+    "description": "Speech-to-text APIs: A deep dive into the technology: Discover the workings, benefits, and applications of advanced speech-to-text APIs in various industries."
+  },
+  {
+    "url": "https://krisp.ai/blog/speech-enhancement-on-the-inbound-stream-challenges/",
+    "title": "Speech Enhancement On The Inbound Stream: Challenges",
+    "date": "2023-10-10",
+    "modified": "2025-03-12",
+    "description": "Speech enhancement on the inbound stream challenges: Explore the technical hurdles in real-time speech enhancement and how innovative solutions address them."
+  },
+  {
+    "url": "https://krisp.ai/blog/speech-enhancement-review-krisp-use-case/",
+    "title": "Speech Enhancement Review: Krisp Use Case",
+    "date": "2023-02-13",
+    "modified": "2025-03-12",
+    "description": "Speech enhancement review – Krisp use case: Learn how Krisp’s AI-powered noise cancellation transforms speech clarity for calls, meetings, and recordings."
+  },
+  {
+    "url": "https://krisp.ai/blog/rewind-vs-laxis/",
+    "title": "Rewind vs Laxis",
+    "date": "2024-09-30",
+    "modified": "2025-03-12",
+    "description": "Rewind vs. Laxis: Compare these tools for transcription and productivity to determine the best fit for your business needs and collaboration goals."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-headphones-story/",
+    "title": "History of Noise Cancelling Headphones (Starting from 1950’s)",
+    "date": "2019-01-17",
+    "modified": "2025-03-12",
+    "description": "The story behind noise-cancelling headphones: Learn about their invention, evolution, and how they’ve transformed listening experiences globally."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancellation-in-contact-centers/",
+    "title": "AI-Powered Inbound Noise Cancellation: Clear Customer Calls in Contact Centers",
+    "date": "2024-04-09",
+    "modified": "2025-03-12",
+    "description": "Noise cancellation in contact centers: Discover how AI-powered solutions improve customer interactions by eliminating background noise effectively."
+  },
+  {
+    "url": "https://krisp.ai/blog/motivational-sales-quotes/",
+    "title": "150+ Sales Motivational Quotes to Energize and Inspire Your Team Every Day",
+    "date": "2024-10-22",
+    "modified": "2025-03-12",
+    "description": "Motivational sales quotes to inspire success. Boost your team’s morale with quotes that energize, motivate, and drive outstanding sales performance."
+  },
+  {
+    "url": "https://krisp.ai/blog/10-benefits-of-accent-neutralization-software-in-call-centers/",
+    "title": "10 Benefits of Using Accent Neutralization Software in Call Centers",
+    "date": "2024-09-02",
+    "modified": "2025-03-12",
+    "description": "Discover 10 key benefits of accent neutralization software in call centers and how Krisp’s AI-driven solution enhances efficiency."
+  },
+  {
+    "url": "https://krisp.ai/blog/accent-neutralization-software-and-how-companies-can-benefit-from-it/",
+    "title": "What is Accent Neutralization Software and How Companies Can Benefit from It",
+    "date": "2024-03-06",
+    "modified": "2025-03-12",
+    "description": "Explore the potential of AI-driven Accent Neutralization Software for customer satisfaction. Discover how it can transform your global communication strategies."
+  },
+  {
+    "url": "https://krisp.ai/blog/acoustic-echo-cancellation/",
+    "title": "What is Acoustic Echo Cancellation?",
+    "date": "2021-06-25",
+    "modified": "2025-03-12",
+    "description": "What is acoustic echo cancellation and how does it work? Here's how to solve the issue and ensure every call you have is clear and echo-free."
+  },
+  {
+    "url": "https://krisp.ai/blog/asynchronous-communication/",
+    "title": "Mastering Asynchronous Communication: A Comprehensive Guide to Effective Collaboration",
+    "date": "2024-09-04",
+    "modified": "2025-03-12",
+    "description": "Discover the benefits of asynchronous communication for remote teams. Learn how to improve productivity and flexibility with effective communication strategies."
+  },
+  {
+    "url": "https://krisp.ai/blog/call-center-background-noise/",
+    "title": "20 Ways to Reduce Background Noise in a Call Center (2024 Updated)",
+    "date": "2024-05-21",
+    "modified": "2025-03-12",
+    "description": "We’re going over 20 effective ways to reduce background noise in a call center and improve client experience."
+  },
+  {
+    "url": "https://krisp.ai/blog/call-center-performance/",
+    "title": "How to Measure Call Center Performance: 9 Metrics You Can’t Ignore",
+    "date": "2021-12-23",
+    "modified": "2025-03-12",
+    "description": "How do you measure call center performance? Read on, we’ll show you how to measure performance through some key call center metrics."
+  },
+  {
+    "url": "https://krisp.ai/blog/breaking-the-audio-processing-barrier-on-the-web-with-krisp-js-sdk/",
+    "title": "Breaking the audio processing barrier on the web with Krisp JS SDK",
+    "date": "2023-03-24",
+    "modified": "2025-03-12",
+    "description": "This article shares the journey of tackling the challenges of bringing audio processing and Krisp Noise Cancellation to the web."
+  },
+  {
+    "url": "https://krisp.ai/blog/collaboration-in-hybrid-workplace/",
+    "title": "6 best practices to strengthen collaboration in a hybrid workplace",
+    "date": "2022-06-21",
+    "modified": "2025-03-12",
+    "description": "We share 6 best practices that help improve collaboration in hybrid workplace and show immediate results in solving different issues that arise."
+  },
+  {
+    "url": "https://krisp.ai/blog/contact-center-background-voice-cancellation/",
+    "title": "Elevate Your Contact Center Experience with Krisp Background Voice Cancellation (BVC)",
+    "date": "2024-06-19",
+    "modified": "2025-03-12",
+    "description": "Learn how Krisp’s Background Voice Cancellation (BVC) enhances contact center operations by eliminating background noise and improving customer satisfaction."
+  },
+  {
+    "url": "https://krisp.ai/blog/enhancing-browser-apps-experience/",
+    "title": "Enhancing Browser App Experiences: Krisp JS SDK Pioneers In-browser AI Voice Processing for Desktop and Mobile",
+    "date": "2024-05-15",
+    "modified": "2025-03-12",
+    "description": "Explore Krisp's JS SDK and its transformative impact on in-browser AI voice processing, offering noise cancellation for desktop and mobile platforms."
+  },
+  {
+    "url": "https://krisp.ai/blog/enhancing-contact-center-platforms-with-the-power-of-voice-productivity-ai/",
+    "title": "Enhancing Contact Center Platforms with the Power of Voice Productivity AI",
+    "date": "2023-08-31",
+    "modified": "2025-03-12",
+    "description": "Leveraging innovative Voice Productivity AI technology is both seamless and elevates the customer experience for CCaaS providers."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-change-name-in-google-meet/",
+    "title": "How To Change Name in Google Meet",
+    "date": "2024-10-09",
+    "modified": "2025-03-12",
+    "description": "Change your name in Google Meet with ease. Follow our step-by-step guide to update your display name for more personalized and professional meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-write-a-meeting-memo/",
+    "title": "How to Write a Meeting Memo Step by Step in 2025",
+    "date": "2025-01-16",
+    "modified": "2025-03-11",
+    "description": "Learning how to write a meeting memo makes your message impactful. Use the Krisp AI Meeting Assistant to improve meeting memo writing."
+  },
+  {
+    "url": "https://krisp.ai/blog/introducing-krisp-speech-to-text-api/",
+    "title": "Introducing Krisp Speech-to-Text API: 10x cheaper transcription for call centers and BPOs",
+    "date": "2024-08-27",
+    "modified": "2025-03-11",
+    "description": "Explore Krisp's Speech-to-Text API, offering developers a powerful tool to transcribe calls and meetings, enhancing accessibility and productivity in real time."
+  },
+  {
+    "url": "https://krisp.ai/blog/introducing-screen-recording-for-meetings/",
+    "title": "Introducing Screen Recording for Meetings",
+    "date": "2024-10-08",
+    "modified": "2025-03-11",
+    "description": "Learn about Krisp’s new screen recording feature for meetings which allows users to capture important moments and share them for clarity and precision."
+  },
+  {
+    "url": "https://krisp.ai/blog/introducing-video-recording-with-krisp-bot/",
+    "title": "Introducing Video Recording With Krisp Bot",
+    "date": "2024-04-02",
+    "modified": "2025-03-11",
+    "description": "Explore Krisp's video recording feature which allows users to record meetings with the Krisp Bot to make collaboration and communication more effective."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-and-8x8-partner-to-power-contact-centers-with-voice-ai/",
+    "title": "Krisp and 8×8 Partner to Power Contact Centers with Voice AI",
+    "date": "2024-11-21",
+    "modified": "2025-03-11",
+    "description": "Discover how Krisp and 8x8’s partnership powers contact centers with voice AI, improving customer service and communication through advanced noise cancellation."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-joins-nice-cxexchange-marketplace/",
+    "title": "Krisp Joins  NICE CXexchange marketplace",
+    "date": "2024-08-13",
+    "modified": "2025-03-11",
+    "description": "Learn about Krisp’s partnership with NICE CXexchange Marketplace, offering enhanced communication tools, including noise cancellation and AI-powered features."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-launches-on-device-transcription-sdks-for-app-integration/",
+    "title": "Krisp launches On-Device Transcription SDKs for Integration",
+    "date": "2024-05-29",
+    "modified": "2025-03-11",
+    "description": "Discover Krisp’s on-device transcription SDKs, enabling app integration for seamless transcription of calls and meetings, powered by AI-driven voice clarity."
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-meeting-tools/",
+    "title": "The Best Virtual Meeting Tools for 2025",
+    "date": "2025-02-05",
+    "modified": "2025-03-11",
+    "description": "Discover the best virtual meeting tools for 2025, from Zoom to Krisp, and find the perfect platform for smooth collaboration and productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/unveiling-multilingual-meeting-transcriptions-with-krisp/",
+    "title": "Unveiling Multilingual Meeting Transcriptions with Krisp",
+    "date": "2024-05-03",
+    "modified": "2025-03-11",
+    "description": "Discover Krisp's multilingual meeting transcriptions that enable global teams to communicate seamlessly with accurate and instant transcriptions."
+  },
+  {
+    "url": "https://krisp.ai/blog/top-10-meeting-recording-software-solutions-for-2024/",
+    "title": "Top 10 Meeting Recording Software Solutions for 2024",
+    "date": "2024-03-12",
+    "modified": "2025-03-11",
+    "description": "Discover the top 10 meeting recording software solutions of 2024, designed to elevate your virtual meetings and enhance collaboration."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-etiquette/",
+    "title": "Meeting Etiquette: Top Tips and Rules for Professional Success",
+    "date": "2025-02-01",
+    "modified": "2025-03-11",
+    "description": "Master meeting etiquette with essential rules for professionalism. Use Krisp to enhance meeting etiquette to make meetings productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-culture/",
+    "title": "Meeting Culture: Best Practices",
+    "date": "2024-12-13",
+    "modified": "2025-03-11",
+    "description": "Discover meeting culture best practices and AI tools like Krisp. Boost productivity, communication, and collaboration in every meeting."
+  },
+  {
+    "url": "https://krisp.ai/blog/action-items-template/",
+    "title": "Free Action Items Template | Krisp",
+    "date": "2024-08-23",
+    "modified": "2025-03-11",
+    "description": "Create efficient workflows with our action items template. Organize tasks, improve collaboration, and ensure seamless follow-ups with this practical tool."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-audio-recording-software/",
+    "title": "7+ Best Audio Recording Software (2024 List)",
+    "date": "2024-08-26",
+    "modified": "2025-03-11",
+    "description": "Find the best audio recording software tailored to your needs. Explore top tools for high-quality sound capture for podcasts, music, meetings, and more."
+  },
+  {
+    "url": "https://krisp.ai/blog/automatic-transcription-software/",
+    "title": "Best Automatic Transcription Software in 2024",
+    "date": "2024-09-26",
+    "modified": "2025-03-11",
+    "description": "Discover the top automatic transcription software of 2024 for fast, accurate, and reliable transcriptions."
+  },
+  {
+    "url": "https://krisp.ai/blog/cisco-webex-vs-slack/",
+    "title": "Cisco Webex vs Slack",
+    "date": "2024-09-02",
+    "modified": "2025-03-11",
+    "description": "Cisco Webex vs. Slack: Evaluate features and functionality to determine whether Cisco Webex or Slack is the right collaboration platform for your team."
+  },
+  {
+    "url": "https://krisp.ai/blog/colors-of-noise/",
+    "title": "Colors of Noise",
+    "date": "2024-08-29",
+    "modified": "2025-03-11",
+    "description": "Uncover the fascinating world of noise colors, including white, pink, and brown noise. Learn how each type impacts focus, relaxation, and productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/call-center-transcription-software/",
+    "title": "Call Center Transcription Software: Key Features to Look For in 2024",
+    "date": "2024-06-24",
+    "modified": "2025-03-11",
+    "description": "Call center transcription software transforms customer interactions into valuable insights. Explore top tools to boost efficiency and customer satisfaction."
+  },
+  {
+    "url": "https://krisp.ai/blog/elevate-teamwork-with-krisps-collaborative-meetings/",
+    "title": "Elevate Teamwork With Krisp’s Collaborative Meetings",
+    "date": "2024-04-23",
+    "modified": "2025-03-11",
+    "description": "Learn how Krisp's collaborative meetings feature elevates teamwork by enhancing communication with industry leading noise cancellation and transcription."
+  },
+  {
+    "url": "https://krisp.ai/blog/find-zoom-recordings/",
+    "title": "How to Find Zoom Recordings: A Step by Step Guide",
+    "date": "2024-03-20",
+    "modified": "2025-03-11",
+    "description": "Find Zoom recordings effortlessly with our guide. Learn tips to locate, access, and manage recorded meetings for better organization and productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/fireflies-vs-twine/",
+    "title": "Fireflies vs Twine",
+    "date": "2024-10-11",
+    "modified": "2025-03-11",
+    "description": "Fireflies vs. Twine: Compare transcription and collaboration features of these tools to select the ideal solution for improving team meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-add-zoom-to-google-calendar/",
+    "title": "How to Add Zoom to Google Calendar",
+    "date": "2024-10-07",
+    "modified": "2025-03-11",
+    "description": "Learn how to add Zoom to Google Calendar, set it as the default conferencing tool, and enhance meetings with Krisp’s AI meeting assistant."
+  },
+  {
+    "url": "https://krisp.ai/blog/good-morning-messages-for-work/",
+    "title": "Good Morning Messages for Work: Boost Positivity & Motivation",
+    "date": "2025-02-20",
+    "modified": "2025-02-25",
+    "description": "Discover uplifting good morning messages for work that inspire positivity and motivation. Enhance your workplace atmosphere today."
+  },
+  {
+    "url": "https://krisp.ai/blog/tuesday-motivational-quotes-for-work/",
+    "title": "Tuesday Motivational Quotes for Work: Stay Inspired",
+    "date": "2025-02-19",
+    "modified": "2025-02-24",
+    "description": "Check out this curated list of Tuesday Motivational Quotes for Work! Stay inspired, focused, and driven and make every Tuesday count."
+  },
+  {
+    "url": "https://krisp.ai/blog/skill-issue/",
+    "title": "Overcoming a Skill Issue: Practical Steps for Career Growth",
+    "date": "2025-02-19",
+    "modified": "2025-02-24",
+    "description": "Transform your career by overcoming a skill issue. Check out our practical tips for growth and new opportunities."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-confirmation-email/",
+    "title": "The Ultimate Guide to Crafting Effective Meeting Confirmation Emails",
+    "date": "2025-02-20",
+    "modified": "2025-02-24",
+    "description": "Learn how to write professional meeting confirmations. Explore templates and best practices to enhance communication and ensure productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/coworker-birthday-wishes/",
+    "title": "30 Best Coworker Birthday Wishes to Make Their Day Special",
+    "date": "2025-02-20",
+    "modified": "2025-02-24",
+    "description": "Celebrate your coworker with the best 30 coworker birthday wishes. Use Krisp for noise-free virtual celebrations and make their day special!"
+  },
+  {
+    "url": "https://krisp.ai/blog/the-role-of-accent-neutralization-call-centers/",
+    "title": "The Role of Accent Neutralization in Enhancing Call Center Communication",
+    "date": "2024-09-02",
+    "modified": "2025-02-20",
+    "description": "Learn how accent neutralization with AI enhances communication in global call centers, improving clarity, and customer satisfaction."
+  },
+  {
+    "url": "https://krisp.ai/blog/5-ways-accent-neutralization-software-enhances-call-center-efficiency/",
+    "title": "5 Ways Accent Neutralization Software Enhances Call Center Efficiency",
+    "date": "2024-09-12",
+    "modified": "2025-02-20",
+    "description": "Discover how accent-neutralization software boosts call center efficiency by improving communication and reducing training time."
+  },
+  {
+    "url": "https://krisp.ai/blog/accent-neutralization-software-in-call-centers/",
+    "title": "How Accent Neutralization Software Works in Modern Call Centers: Technical Insights",
+    "date": "2024-08-20",
+    "modified": "2025-02-20",
+    "description": "Discover how accent neutralization software enhances communication in diverse contact centers, improving clarity and customer satisfaction."
+  },
+  {
+    "url": "https://krisp.ai/blog/accent-neutralization-software-key-to-effective-call-center-operations/",
+    "title": "Accent Neutralization Software: Key to Effective Call Center Operations",
+    "date": "2024-09-12",
+    "modified": "2025-02-20",
+    "description": "Discover how accent neutralization software boosts call center efficiency, improves customer satisfaction, and enhances agent performance."
+  },
+  {
+    "url": "https://krisp.ai/blog/call-center-accent-training/",
+    "title": "Call Center Accent Training: Breaking The Language Barriers",
+    "date": "2024-04-11",
+    "modified": "2025-02-20",
+    "description": "Learn about the benefits of adopting AI over traditional call center accent training, including instant implementation and cost reduction."
+  },
+  {
+    "url": "https://krisp.ai/blog/accent-neutralization-software-and-enhanced-communication/",
+    "title": "Accent Neutralization Software and Enhanced Communication: The Future of Call Centers",
+    "date": "2024-09-06",
+    "modified": "2025-02-18",
+    "description": "Discover how accent neutralization and advanced communication tools are transforming call centers, and boosting customer satisfaction."
+  },
+  {
+    "url": "https://krisp.ai/blog/work-anniversary-messages/",
+    "title": "Best 50 Work Anniversary Messages, Wishes and Quotes",
+    "date": "2025-02-14",
+    "modified": "2025-02-17",
+    "description": "Celebrate your colleagues with work anniversary messages. Use Krisp for clear, noise-free virtual celebrations."
+  },
+  {
+    "url": "https://krisp.ai/blog/team-culture/",
+    "title": "Strong Team Culture: Building High-Performing Teams",
+    "date": "2025-02-15",
+    "modified": "2025-02-15",
+    "description": "Learn how to build a strong team culture to boost collaboration and engagement. Know how Krisp enhances communication for productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/workplace-culture/",
+    "title": "Workplace Culture: Tips for a Positive Environment",
+    "date": "2025-02-04",
+    "modified": "2025-02-13",
+    "description": "Learn how to build a positive workplace culture and create an engaging environment with actionable tips and tools like Krisp."
+  },
+  {
+    "url": "https://krisp.ai/blog/why-team-building-is-important/",
+    "title": "Why Team Building is Important in Business",
+    "date": "2025-02-04",
+    "modified": "2025-02-13",
+    "description": "Discover why team building is important in business. Learn its benefits, key strategies, and how tools like Krisp enhance collaboration."
+  },
+  {
+    "url": "https://krisp.ai/blog/toxic-work-environment/",
+    "title": "11 Signs of a Toxic Work Environment You Should Run From",
+    "date": "2025-02-13",
+    "modified": "2025-02-13",
+    "description": "Discover 11 key signs of a toxic work environment and learn why leaving might be the best decision for your well-being and career growth."
+  },
+  {
+    "url": "https://krisp.ai/blog/rapid-ideation/",
+    "title": "How To Master Rapid Ideation For Brainstorming?",
+    "date": "2025-02-07",
+    "modified": "2025-02-13",
+    "description": "Master rapid ideation for brainstorming with practical techniques and tools like Krisp to boost your creativity and collaboration."
+  },
+  {
+    "url": "https://krisp.ai/blog/positive-feedback-examples/",
+    "title": "50 Positive Feedback Examples You Can Use in 2025",
+    "date": "2025-02-09",
+    "modified": "2025-02-13",
+    "description": "Boost workplace morale with 50 positive feedback examples. Learn how to give constructive feedback with Krisp’s noise-free clarity."
+  },
+  {
+    "url": "https://krisp.ai/blog/organizational-structures/",
+    "title": "Organizational Structures: Which One Fits Your Business?",
+    "date": "2025-02-12",
+    "modified": "2025-02-13",
+    "description": "Discover the most common organizational structures. Find insights on selecting the right model to improve operations and achieve your goals."
+  },
+  {
+    "url": "https://krisp.ai/blog/new-hire-questionnaire/",
+    "title": "New Hire Questionnaire: 55 Questions for Employee Onboarding",
+    "date": "2025-02-05",
+    "modified": "2025-02-13",
+    "description": "Learn how a new hire questionnaire with key questions improves onboarding. Discover how Krisp streamlines hiring and makes it productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/maternity-leave-messages/",
+    "title": "Maternity Leave Messages: Best Practices and Tips",
+    "date": "2025-02-11",
+    "modified": "2025-02-13",
+    "description": "Explore effective maternity leave messages with our best practices and tips. Learn how to convey support and understanding."
+  },
+  {
+    "url": "https://krisp.ai/blog/instant-meeting-insights-with-krisp-ai-chat/",
+    "title": "Instant Meeting Insights with Krisp AI Chat",
+    "date": "2025-02-10",
+    "modified": "2025-02-10",
+    "description": null
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-launches-ai-live-interpreter-transforming-multilingual-support-worldwide/",
+    "title": "Krisp Launches AI Live Interpreter, Transforming Multilingual Support Worldwide",
+    "date": "2025-02-05",
+    "modified": "2025-02-05",
+    "description": null
+  },
+  {
+    "url": "https://krisp.ai/blog/zoho-voice-adds-krisps-noise-cancellation-technology/",
+    "title": "Experience Krisp’s Noise Cancellation technology in Zoho Voice",
+    "date": "2023-12-27",
+    "modified": "2025-02-04",
+    "description": "Zoho adds Krisp's AI-powered technology to Zoho’s audio capabilities for users working in an office, contact center or at home."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-live-translation/",
+    "title": "AI Live Translation: Unlocking New Markets for B2B Companies",
+    "date": "2024-11-21",
+    "modified": "2025-02-04",
+    "description": "Discover how AI live translation helps B2B companies break language barriers, reach global markets, and enhance customer communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/working-from-home-burnout/",
+    "title": "How to Avoid Burnout During Working from Home",
+    "date": "2021-06-17",
+    "modified": "2025-02-03",
+    "description": "Working from home burnout is real, very real. With these tips, you know what to fix so you can maintain your overall health."
+  },
+  {
+    "url": "https://krisp.ai/blog/sprint-planning/",
+    "title": "Sprint Planning: What It Is and How to Do It Effectively?",
+    "date": "2025-02-01",
+    "modified": "2025-02-01",
+    "description": "Discover the essentials of sprint planning, its purpose, and step-by-step strategies to run it effectively for a successful Agile workflow."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-edit-a-zoom-recording/",
+    "title": "How to Edit a Zoom Recording",
+    "date": "2024-03-13",
+    "modified": "2025-01-30",
+    "description": "Learn how to edit a Zoom recording with our simple, step-by-step guide. Enhance your videos for a polished, professional look."
+  },
+  {
+    "url": "https://krisp.ai/blog/where-do-screen-recordings-go-on-mac/",
+    "title": "Where Do Screen Recordings Go on Mac? Ultimate Guide 2025",
+    "date": "2025-01-21",
+    "modified": "2025-01-30",
+    "description": "Find the answer to \"Where do screen recordings go on Mac?\" to access recordings seamlessly. Krisp records the screen with unmatched quality."
+  },
+  {
+    "url": "https://krisp.ai/blog/webex-test-meeting/",
+    "title": "Webex Test Meeting: A Step-by-Step Guide for a Smooth Call",
+    "date": "2025-01-30",
+    "modified": "2025-01-30",
+    "description": "Prepare for your Webex Test Meeting with our essential guide. Follow our step-by-step instructions to ensure smooth and successful calls."
+  },
+  {
+    "url": "https://krisp.ai/blog/otter-ai-pricing/",
+    "title": "Otter.ai Pricing: Which Plan Offers the Best Value?",
+    "date": "2025-01-30",
+    "modified": "2025-01-30",
+    "description": "Discover the best value for your needs with Otter.ai pricing. Compare plans and features to find the perfect transcription solution."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-connect-airpods-to-mac/",
+    "title": "How to Connect Airpods to Mac",
+    "date": "2025-01-20",
+    "modified": "2025-01-30",
+    "description": "Learn how to connect your AirPods to your Mac. Follow our comprehensive instructions for a smooth and enjoyable audio experience"
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-create-a-slack-poll/",
+    "title": "How to Create a Slack Poll",
+    "date": "2025-01-12",
+    "modified": "2025-01-30",
+    "description": "Learn how to create Slack polls using built-in features & apps like Polly. Boost team decisions with quick, engaging, and anonymous polls!"
+  },
+  {
+    "url": "https://krisp.ai/blog/why-speech-to-text-apis-are-essential-for-2024/",
+    "title": "Why Speech-to-Text APIs Are Essential for 2024",
+    "date": "2024-08-21",
+    "modified": "2025-01-29",
+    "description": "Learn why Speech-to-Text APIs are vital in 2024 for boosting productivity, enhancing accessibility, and driving innovation across industries."
+  },
+  {
+    "url": "https://krisp.ai/blog/live-transcription-software/",
+    "title": "Live Transcription Software",
+    "date": "2024-03-27",
+    "modified": "2025-01-29",
+    "description": "Explore how live transcription software revolutionizes digital communication, making meetings accessible and engaging for all."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-are-examples-of-effective-team-dynamics/",
+    "title": "What Are Examples of Effective Team Dynamics That Work?",
+    "date": "2024-10-28",
+    "modified": "2025-01-29",
+    "description": "Learning about what are examples of effective team dynamics is easy with real-life examples and proven strategies."
+  },
+  {
+    "url": "https://krisp.ai/blog/wfh-meaning/",
+    "title": "WFH Meaning Explained + 7 Tips for Improved Productivity",
+    "date": "2024-05-16",
+    "modified": "2025-01-29",
+    "description": "The WFH meaning implies that you work from home and manage your routines independently. Visit to learn how to do it effectively!"
+  },
+  {
+    "url": "https://krisp.ai/blog/web-meeting/",
+    "title": "What is a Web Meeting? Everything You Need to Know About Web Meetings",
+    "date": "2023-10-12",
+    "modified": "2025-01-29",
+    "description": "Get a low down on web meetings and explore why this digital communication tool is crucial to the modern business, academic, and social landscape."
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-icebreakers/",
+    "title": "12 Actually Not Awkward Virtual Ice Breakers for Remote Meetings",
+    "date": "2024-04-23",
+    "modified": "2025-01-29",
+    "description": "Virtual ice breakers strengthen team bonds and boost engagement. Eliminate background noise for productive ice breakers for virtual meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-call-center-software/",
+    "title": "The 8 Best Virtual Call Center Software to Use in 2024",
+    "date": "2021-07-29",
+    "modified": "2025-01-29",
+    "description": "Here’s what to look for in contact center solutions, along with a list of the best virtual call center software you can find in 2024."
+  },
+  {
+    "url": "https://krisp.ai/blog/user-experience-with-voice-activated-speech-to-text-software/",
+    "title": "Enhancing User Experience with Voice-Activated Speech-to-Text Software",
+    "date": "2024-08-26",
+    "modified": "2025-01-29",
+    "description": "Enhance user experience with voice-activated Speech-to-Text technology. Discover its benefits in accessibility, productivity and more."
+  },
+  {
+    "url": "https://krisp.ai/blog/touchpoint-meeting/",
+    "title": "Touchpoint Meeting: All You Need to Know",
+    "date": "2024-06-14",
+    "modified": "2025-01-29",
+    "description": "Touchpoint meetings are regular check-ins to discuss project updates, address challenges, and ensure team alignment and productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/top-relaxing-sounds-to-increase-focus/",
+    "title": "Top 5 Relaxing Sounds To Help You Focus",
+    "date": "2019-08-22",
+    "modified": "2025-01-29",
+    "description": "Trying to get work done, or just to relax for a couple of seconds? Here are the most relaxing sounds that might help you relieve stress and feel better."
+  },
+  {
+    "url": "https://krisp.ai/blog/time-anxiety/",
+    "title": "Is Time Anxiety a Thing? How to Recognize and Resolve It",
+    "date": "2024-11-21",
+    "modified": "2025-01-29",
+    "description": "Time anxiety may feel like a constant weight, but you can manage it with intentional habits, mindful choices, and focus on what matters most."
+  },
+  {
+    "url": "https://krisp.ai/blog/skip-level-meeting/",
+    "title": "Skip Level Meeting: Your 2024 Guide to Effective Preparation",
+    "date": "2024-05-09",
+    "modified": "2025-01-29",
+    "description": "A skip level meeting fosters organizational communication and culture if every participant is well-prepared. Visit to learn how!"
+  },
+  {
+    "url": "https://krisp.ai/blog/scrum-meeting-types/",
+    "title": "Scrum Meeting Types: Explained for Remote Teams",
+    "date": "2024-10-03",
+    "modified": "2025-01-29",
+    "description": "Learn about the types of Scrum meetings, their importance, and how to run them effectively for remote teams to boost productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/scaling-webrtc-voice-quality-across-platforms/",
+    "title": "Scaling WebRTC Voice Quality Across Platforms",
+    "date": "2023-05-17",
+    "modified": "2025-01-29",
+    "description": "Explore WebRTC for iOS and unlock real-time communication capabilities for your applications. Harness the power of audio and video streaming with ease"
+  },
+  {
+    "url": "https://krisp.ai/blog/role-of-ai-in-automated-sales-call-transcription/",
+    "title": "The Role of AI in Automated Sales Call Transcription",
+    "date": "2023-11-28",
+    "modified": "2025-01-29",
+    "description": "Discover the role of AI in automated sales call transcription to streamline the analysis of conversations, optimize your sales strategies, and drive success."
+  },
+  {
+    "url": "https://krisp.ai/blog/productive-meeting-agenda/",
+    "title": "How to Develop a Productive Virtual Meeting Agenda",
+    "date": "2023-07-18",
+    "modified": "2025-01-29",
+    "description": "Discover effective strategies for crafting a productive virtual meeting agenda that maximizes engagement and achieves desired outcomes."
+  },
+  {
+    "url": "https://krisp.ai/blog/prepare-for-remote-conference/",
+    "title": "How To Prepare For an Important Remote Conference",
+    "date": "2019-05-12",
+    "modified": "2025-01-29",
+    "description": "Have an important remote conference coming up? No worries, we have a list of useful tips that will help prepare for remote conference and ensure success!"
+  },
+  {
+    "url": "https://krisp.ai/blog/nvidia-rtx-voice-krisp/",
+    "title": "Nvidia RTX Voice vs Krisp – Noise Cancellation Review | Which Works Better?",
+    "date": "2024-03-20",
+    "modified": "2025-01-29",
+    "description": "Nvidia RTX Voice and Krisp side-by-side review to test their performance and features. Find out which noise cancellation tool is better."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-software/",
+    "title": "8 Reasons Why You Need a Noise Canceling Software",
+    "date": "2020-12-01",
+    "modified": "2025-01-29",
+    "description": "A noise cancelling software is one of those things that, once you add it to your life, you’ll wonder how you ever got along without it."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-transcription-for-deaf/",
+    "title": "Meeting Transcription for the Deaf and Hard of Hearing",
+    "date": "2023-10-13",
+    "modified": "2025-01-29",
+    "description": "Discover the power of meeting transcription for the deaf and hard of hearing and explore how accessibility is enhanced through accurate transcriptions."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-transcription-benefits/",
+    "title": "The Benefits of Automated Meeting Transcription for Remote Teams",
+    "date": "2023-10-10",
+    "modified": "2025-01-29",
+    "description": "Discover meeting transcription benefits for remote teams and learn how transcribing meetings enhances productivity and improves communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-recap-email/",
+    "title": "How to Write a Virtual Meeting Summary Email",
+    "date": "2023-07-19",
+    "modified": "2025-01-29",
+    "description": "Discover the secrets and essential tips for writing meeting recap emails that can streamline your communication and boost the productivity of your meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-minutes-template/",
+    "title": "Best Free Meeting Minutes Templates",
+    "date": "2024-05-23",
+    "modified": "2025-01-29",
+    "description": "Learn how you can maximize your meetings using a meeting minutes template and combining it with Krisp's AI Meeting Assistant."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-invitation-email/",
+    "title": "How to Write a Meeting Invitation Email: Tips & Free Templates",
+    "date": "2024-08-22",
+    "modified": "2025-01-29",
+    "description": "Learn how to craft a perfect meeting invitation email. See how Meeting Assistant Krisp makes your remote team gatherings far more productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-put-airpods-in-pairing-mode/",
+    "title": "How to Put AirPods in Pairing Mode: Troubleshoot And Connect",
+    "date": "2024-07-30",
+    "modified": "2025-01-28",
+    "description": "Knowing how to put AirPods in pairing mode is essential in everyday and professional situations and comes down to a few simple steps."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-record-webex-meeting/",
+    "title": "How to Record a Webex Meeting: A Comprehensive Guide",
+    "date": "2024-03-16",
+    "modified": "2025-01-28",
+    "description": "Learn how to record a Webex meeting with ease: A simple, step-by-step guide for seamless meeting recordings."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-reset-airpods/",
+    "title": "How to Reset AirPods in 2024: A Complete Guide",
+    "date": "2024-07-16",
+    "modified": "2025-01-28",
+    "description": "Knowing how to reset AirPods will assist you in many situations, and doing it right is essential. Visit to find out how."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-record-podcast-remotely/",
+    "title": "How to Record a Podcast Remotely: 10 Tips That’ll Make Your Show Shine",
+    "date": "2021-03-03",
+    "modified": "2025-01-28",
+    "description": "Once you know how to record a podcast remotely, you can interview anyone anywhere in the world. Here are some tips for podcasting success."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-run-stand-up-meeting/",
+    "title": "How to Run an Effective Stand-up Meeting with AI",
+    "date": "2023-09-28",
+    "modified": "2025-01-28",
+    "description": "Discover the power of AI in stand-up meetings and learn how to run a stand-up meeting efficiently and harness technology for better team communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-share-a-zoom-recording/",
+    "title": "How to Share a Zoom Recording",
+    "date": "2024-03-12",
+    "modified": "2025-01-28",
+    "description": "Learn how to share a Zoom recording easily with step-by-step instructions. Make your meetings accessible and secure for everyone involved."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-transcribe-in-gotomeeting/",
+    "title": "How to Transcribe GoToMeeting Meetings: A Comprehensive Guide",
+    "date": "2023-09-05",
+    "modified": "2025-01-28",
+    "description": "Do you want to learn how to transcribe in GoToMeeting? Discover the best ways to get accurate meeting transcriptions when using the GoToMeeting platform."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-transcribe-retrospective-meeting/",
+    "title": "How to Transcribe a Retrospective Meeting in Real-Time",
+    "date": "2023-10-17",
+    "modified": "2025-01-28",
+    "description": "Get to know how to transcribe a retrospective meeting in real time, master the process, and discover the right tools to enhance communication and collaboration."
+  },
+  {
+    "url": "https://krisp.ai/blog/hybrid-work-communication-tools/",
+    "title": "10 Best Hybrid Workplace Communication Tools in 2024",
+    "date": "2022-06-27",
+    "modified": "2025-01-28",
+    "description": "Explore our blog post to discover the best hybrid workplace communication tools. Elevate collaboration, and redefine your team's communication effortlessly!"
+  },
+  {
+    "url": "https://krisp.ai/blog/improve-zoom-audio-quality/",
+    "title": "How to improve Zoom audio quality",
+    "date": "2021-06-07",
+    "modified": "2025-01-28",
+    "description": "Poor Zoom audio quality is often the most neglected aspect of a video call. We go over some ways to improve Zoom audio quality."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-set-up-conference-call/",
+    "title": "How to Set Up a Conference Call",
+    "date": "2020-06-11",
+    "modified": "2025-01-28",
+    "description": "Let’s look at some of the important aspects you’ll need to set up for your conference call so it goes smoother and more productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/iphone-noise-cancelling-apps/",
+    "title": "10 Best Android and iPhone Noise Cancelling Apps (2024 Update)",
+    "date": "2024-01-22",
+    "modified": "2025-01-28",
+    "description": "Looking for a noise cancelling app for iPhone and android? Here are 10 of the best apps for iPhone and android noise cancellation on the market."
+  },
+  {
+    "url": "https://krisp.ai/blog/conference-call-background-noise/",
+    "title": "How to Remove All Background Noises During a Conference Call",
+    "date": "2021-07-01",
+    "modified": "2025-01-27",
+    "description": "Conference call background noise negatively affects our productivity, so here's how to remove all background noises from your call."
+  },
+  {
+    "url": "https://krisp.ai/blog/conferencing-apps-2022/",
+    "title": "5 Best Audio and Video Conferencing Apps for 2022",
+    "date": "2019-03-26",
+    "modified": "2025-01-27",
+    "description": "Having frequent remote conferences and meetings? Here are 5 video conferencing apps that will take conferencing to the next level!"
+  },
+  {
+    "url": "https://krisp.ai/blog/convert-mp3-to-text/",
+    "title": "How to Convert MP3 to Text for Free?",
+    "date": "2024-11-16",
+    "modified": "2025-01-27",
+    "description": "Easily convert MP3 files to text for free, live or online. Quick and easy transcription, live or pre-recorded, with no effort required."
+  },
+  {
+    "url": "https://krisp.ai/blog/employee-feedback-examples/",
+    "title": "Employee Feedback Examples: How to Encourage Growth and Improvement",
+    "date": "2024-09-16",
+    "modified": "2025-01-27",
+    "description": "Discover effective employee feedback examples to inspire growth, improve performance, and foster a positive work environment."
+  },
+  {
+    "url": "https://krisp.ai/blog/distributed-team/",
+    "title": "What Is a Distributed Team (and How to Manage One)",
+    "date": "2020-05-06",
+    "modified": "2025-01-27",
+    "description": "Are you looking to learn what a distributed team is and how to manage it? Keep reading to find more information and tips about distributed team management."
+  },
+  {
+    "url": "https://krisp.ai/blog/free-transcription-software-for-mac/",
+    "title": "20 Best Free Transcription Software for Mac in 2025",
+    "date": "2024-12-05",
+    "modified": "2025-01-27",
+    "description": "Free transcription software for Mac simplifies audio-to-text conversion. Use Krisp AI Meeting Assistant for accuracy & productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-does-noise-cancelling-work/",
+    "title": "How Does Noise Cancelling Work?",
+    "date": "2024-03-01",
+    "modified": "2025-01-27",
+    "description": "What is noise cancelling and how does it work? Explore what noise cancellation types are available and how to reduce background noise."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-connect-airpods/",
+    "title": "How to Connect AirPods to Any Device in 2024",
+    "date": "2024-07-20",
+    "modified": "2025-01-27",
+    "description": "Understanding how to connect AirPods to different devices can give you flexibility and clarity with your audio experience."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-download-a-zoom-recording/",
+    "title": "How to Download a Zoom Recording",
+    "date": "2024-03-12",
+    "modified": "2025-01-27",
+    "description": "Learn how to download Zoom recordings easily, whether from cloud storage or via shared links, with our straightforward, step-by-step guide."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-find-airpod-case/",
+    "title": "How To Find AirPod Case: A Complete Guide",
+    "date": "2024-09-05",
+    "modified": "2025-01-27",
+    "description": "Learn 5 effective ways to find your lost AirPod case, including using the \"Find My\" app and Bluetooth trackers, plus prevention tips."
+  },
+  {
+    "url": "https://krisp.ai/blog/coaching-session/",
+    "title": "How to Run Effective Coaching Session 2025: Tips & Template",
+    "date": "2025-01-19",
+    "modified": "2025-01-25",
+    "description": "A coaching session unlocks the client's potential to help them overcome challenges and grow. Krisp makes coaching sessions more productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/communicating-in-noisy-environment/",
+    "title": "How to Communicate in a Noisy Environment",
+    "date": "2019-01-25",
+    "modified": "2025-01-24",
+    "description": "Noisy environments can potentially damage your ears. It's best to take frequent silence breaks or use noise cancelling headphones to preserve your hearing."
+  },
+  {
+    "url": "https://krisp.ai/blog/communication-styles/",
+    "title": "Communication Styles: What is Your  and How To Improve It",
+    "date": "2024-10-23",
+    "modified": "2025-01-24",
+    "description": "Discover the 4 main communication styles and learn how to identify and improve yours for better interactions in work and personal life."
+  },
+  {
+    "url": "https://krisp.ai/blog/google-calendar-vs-apple-calendar/",
+    "title": "Google Calendar vs Apple Calendar: Which one to choose?",
+    "date": "2025-01-23",
+    "modified": "2025-01-23",
+    "description": "Google Calendar vs Apple Calendar? Find out which calendar app best suits your lifestyle and productivity requirements."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-reset-airpods-pro/",
+    "title": "How to Reset AirPods Pro",
+    "date": "2024-10-26",
+    "modified": "2025-01-22",
+    "description": "Learn how to reset your AirPods Pro to fix common issues like connectivity, audio glitches, and battery drain with our quick and easy guide."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-see-deleted-events-on-google-calendar/",
+    "title": "How to See Deleted Events on Google Calendar: Ultimate Guide",
+    "date": "2024-12-07",
+    "modified": "2025-01-22",
+    "description": "Learn how to see deleted events on Google Calendar & recover them easily. See how Krisp elevates meetings scheduled on Google Calendar."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-test-audio-in-microsoft-teams/",
+    "title": "How to Test Audio in Microsoft Teams: Ultimate Guide",
+    "date": "2024-10-08",
+    "modified": "2025-01-22",
+    "description": "To test audio in Microsoft Teams, open Settings>Devices>Make a test call.  To enhance the Team's experience, use Krisp’s AI Meeting Assistant."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-transcribe-multilingual-meetings/",
+    "title": "How to Transcribe Multilingual Meetings: Overcoming Language Barriers",
+    "date": "2023-12-19",
+    "modified": "2025-01-22",
+    "description": "Discover how to transcribe multilingual meetings with practical tips to break down language barriers and enhance collaboration in diverse settings."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-transcribe-scrum-meetings/",
+    "title": "How to Transcribe Scrum Meetings in Real Time",
+    "date": "2023-11-16",
+    "modified": "2025-01-22",
+    "description": "Here’s a comprehensive guide to help you learn how to transcribe Scrum meetings to enhance collaboration and streamline your agile workflow."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-run-a-board-meeting/",
+    "title": "Step-by-Step Guide on How to Run a Board Meeting",
+    "date": "2024-09-20",
+    "modified": "2025-01-22",
+    "description": "Learn what a board meeting agenda is, why it's important, and how to create one that secures productive meetings with clear goals."
+  },
+  {
+    "url": "https://krisp.ai/blog/interview-template/",
+    "title": "Interview Template: Tips & Questions to Craft It Effectively",
+    "date": "2024-07-31",
+    "modified": "2025-01-22",
+    "description": "Unlock tips and questions to craft an effective interview template. See how Krisp Meeting Assistant can enhance your interviews."
+  },
+  {
+    "url": "https://krisp.ai/blog/management-tips/",
+    "title": "Top 10 Management Tips for Successful Team Leadership",
+    "date": "2024-11-04",
+    "modified": "2025-01-22",
+    "description": "Discover essential management tips to lead your team effectively, boost productivity, and foster a positive work culture. Read more now!"
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-whiteboard/",
+    "title": "How to Use Zoom Whiteboard in 2024: Ultimate Tutorial",
+    "date": "2024-10-27",
+    "modified": "2025-01-22",
+    "description": "Maximize collaboration around ideas and concepts with Zoom Whiteboard. Use Krisp AI Meeting Assistant to enhance the Zoom experience."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-interview-attire/",
+    "title": "Zoom Interview Attire: What to Wear for Virtual Interviews",
+    "date": "2024-10-13",
+    "modified": "2025-01-22",
+    "description": "Zoom interview attire suggests neat dresses without distracting patterns. Use Krisp’s AI Meeting Assistant to Cancel Background distractions."
+  },
+  {
+    "url": "https://krisp.ai/blog/work-trivia-questions/",
+    "title": "120 Work Trivia Questions to Spice Up Team Buildings",
+    "date": "2024-08-18",
+    "modified": "2025-01-22",
+    "description": "Discover great trivia questions for work. Unveil how Meeting Assistant Krisp makes your team buildings effective."
+  },
+  {
+    "url": "https://krisp.ai/blog/work-style/",
+    "title": "What Is Work Style? Types & Examples to Find Yours",
+    "date": "2024-07-21",
+    "modified": "2025-01-22",
+    "description": "Know how to identify a work style to add effectiveness to company culture. See how the Krisp Meeting Assistant helps increase productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-to-say-in-a-performance-review-as-an-employee/",
+    "title": "What to Say in a Performance Review as an Employee: A Complete Guide",
+    "date": "2024-10-22",
+    "modified": "2025-01-22",
+    "description": "Learn what to say in a performance review as an employee, how to highlight your achievements, address areas for growth, and set future goals."
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-team-building-activities/",
+    "title": "Top 70 Virtual Team Building Activities for Remote Teams",
+    "date": "2024-08-28",
+    "modified": "2025-01-22",
+    "description": "Virtual team building activities engage teams, boosting morale. AI Meeting Assistant Krisp can significantly enhance these activities."
+  },
+  {
+    "url": "https://krisp.ai/blog/top-strategic-interview-questions-to-ask-candidates/",
+    "title": "Top Strategic Interview Questions to Ask Candidates",
+    "date": "2024-09-22",
+    "modified": "2025-01-22",
+    "description": "Discover striking strategic interview questions to ask candidates. Learn how the Krisp Meeting Assistant can enhance online meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/team-norms/",
+    "title": "Team Norms That Work: Building a Strong Team Culture",
+    "date": "2024-07-25",
+    "modified": "2025-01-22",
+    "description": "Discover team norms for high-performing groups. Discover how the Krisp AI Assistant can help you enhance team performance."
+  },
+  {
+    "url": "https://krisp.ai/blog/team-morale/",
+    "title": "Proven Ways to Improve Team Morale and Productivity",
+    "date": "2024-07-17",
+    "modified": "2025-01-22",
+    "description": "What is team morale? How to boost it? Unveil how a Meeting Assistant with exceptional Recording & Note-Taking helps you boost team spirit."
+  },
+  {
+    "url": "https://krisp.ai/blog/one-on-one-meeting-template/",
+    "title": "One on One Meeting Template: Top Tips for Effective Meetings",
+    "date": "2024-11-06",
+    "modified": "2025-01-22",
+    "description": "A one on one meeting template guides discussions between managers and employees. Krisp helps cover key topics & track goals for productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/one-on-one-meeting-agenda/",
+    "title": "A Guide to Creating Great 1:1 Meeting Agendas",
+    "date": "2024-02-26",
+    "modified": "2025-01-22",
+    "description": "Need help planning your one-on-one meeting agenda? Find easy tips and templates here! Get organized and make your 1:1 meetings more productive with our guide."
+  },
+  {
+    "url": "https://krisp.ai/blog/objective-summary/",
+    "title": "Objective Summary: What It Is and How to Write One in 2024",
+    "date": "2024-06-05",
+    "modified": "2025-01-22",
+    "description": "Learn what an objective summary is. Discover the best way to write it. Know how an AI Assistant can help you summarise effectively."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-norms/",
+    "title": "Meeting Norms 101: Key Strategies for Productive Meetings",
+    "date": "2024-06-17",
+    "modified": "2025-01-22",
+    "description": "Meeting norms are guidelines that set clear expectations for behavior and participation, ensuring meetings are productive and engaging."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-fatigue/",
+    "title": "9 Ways to Combat Meeting Fatigue While Working Remotely",
+    "date": "2020-08-05",
+    "modified": "2025-01-22",
+    "description": "Video calls aren’t going anywhere anytime soon. Check the 9 best ways to beat meeting fatigue so you can do your best work."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-assisted-transcription-in-online-education/",
+    "title": "The Impact of AI-Assisted Transcription in Online Education",
+    "date": "2023-12-20",
+    "modified": "2025-01-22",
+    "description": "Explore the transformative power of AI-assisted transcription in online education and learn how this cutting-edge technology is reshaping the learning industry."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-legal-transcription/",
+    "title": "How to Transform Legal Transcription with the Power of AI",
+    "date": "2023-09-25",
+    "modified": "2025-01-22",
+    "description": "Harness the potential of AI legal transcriptions and discover how artificial intelligence is revolutionizing accuracy and efficiency in the legal industry."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-transcription-vs-human-transcription/",
+    "title": "Human vs. AI Transcription: Which One is Right for You?",
+    "date": "2023-10-11",
+    "modified": "2025-01-22",
+    "description": "Explore the key differences between AI transcription vs human transcription in this comprehensive guide to help you determine the best solution to consider."
+  },
+  {
+    "url": "https://krisp.ai/blog/asr-transcription/",
+    "title": "How does ASR Transcription Work?",
+    "date": "2023-09-29",
+    "modified": "2025-01-22",
+    "description": "Discover the inner workings of ASR transcription and learn how this cutting-edge technology converts spoken words into text, revolutionizing communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-conference-call-applications/",
+    "title": "These Are The Best Conference Call Applications",
+    "date": "2019-05-21",
+    "modified": "2025-01-22",
+    "description": "Looking for your ultimate conference call app? Here is the list of the best ones that can benefit you in your remote conferencing."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-transcribing-services/",
+    "title": "How AI Transcribing Services Boost Team’s Work?",
+    "date": "2023-11-21",
+    "modified": "2025-01-22",
+    "description": "Discover the transformative impact of AI transcribing services and how it revolutionizes workflows, saving time and boosting overall performance."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-noise-cancelling-earbuds/",
+    "title": "Best Noise Cancelling Earbuds For Every Occasion in 2024",
+    "date": "2024-08-07",
+    "modified": "2025-01-22",
+    "description": "The best noise cancelling earbuds stand out in strong noise-cancelation, size and fit, sound quality, and connectivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/board-meeting-agenda/",
+    "title": "What is a Board Meeting Agenda?",
+    "date": "2024-09-20",
+    "modified": "2025-01-22",
+    "description": "Learn what a board meeting agenda is, why it's important, and how to create one that secures productive meetings with clear goals."
+  },
+  {
+    "url": "https://krisp.ai/blog/choice-paralysis/",
+    "title": "What is Choice Paralysis? 5 Tips on How to Overcome it",
+    "date": "2024-11-10",
+    "modified": "2025-01-22",
+    "description": "Overcoming choice paralysis and making assured decisions is possible when you simplify choices, focus on values, and seek support."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-productivity-blogs/",
+    "title": "7 Best Productivity Blogs to Get Motivated",
+    "date": "2019-04-13",
+    "modified": "2025-01-22",
+    "description": "Looking for ways to increase your motivation? We have a useful liste of the best productivity blogs you'll ever need. Come get your own motivational boost!"
+  },
+  {
+    "url": "https://krisp.ai/blog/challenges-of-hybrid-workplace/",
+    "title": "6 Top Challenges of a Hybrid Workplace and How to Overcome Them",
+    "date": "2022-06-30",
+    "modified": "2025-01-22",
+    "description": "There’s 6 challenges of hybrid workplace that you can encounter. Here’s how to overcome them and prevent similar pains from reappearing."
+  },
+  {
+    "url": "https://krisp.ai/blog/feedback-management/",
+    "title": "Feedback Management: Step-by-Step Guide (+ Tools and Examples)",
+    "date": "2024-10-16",
+    "modified": "2025-01-22",
+    "description": "Master feedback management with our step-by-step guide and tools overview. Learn how to collect, analyze, and act on feedback effectively."
+  },
+  {
+    "url": "https://krisp.ai/blog/google-calendar-color-schemes/",
+    "title": "Google Calendar Color Schemes: Guide With Examples for 2024",
+    "date": "2024-09-15",
+    "modified": "2025-01-22",
+    "description": "Google Calendar color schemes organize your tasks and make them visually clear. Meeting Assistant Krisp further enhances online discussions."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-has-technology-affected-communication/",
+    "title": "How Has Technology Affected Communication? Key Insights",
+    "date": "2024-09-24",
+    "modified": "2025-01-22",
+    "description": "Want to know, “How has technology affected communication?” Learn how the Krisp AI Meeting Assistant makes virtual communication productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-build-trust-in-a-team/",
+    "title": "How To Build Trust In a Team: 10 Practical Tips",
+    "date": "2025-01-22",
+    "modified": "2025-01-22",
+    "description": "Learn 10 practical tips to build trust in a team and create a positive work environment, including strategies for virtual teams with Krisp."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-change-time-zone-in-teams/",
+    "title": "How to Change Time Zone in Teams: A Step-by-Step Guide",
+    "date": "2025-01-22",
+    "modified": "2025-01-22",
+    "description": "Find out how to change your time zone in Teams with our detailed guide. Ensure accurate scheduling and seamless communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-improve-streaming-quality/",
+    "title": "How to Improve Streaming Quality in Easy Steps",
+    "date": "2024-11-29",
+    "modified": "2025-01-22",
+    "description": "Learn how to improve streaming quality with steps like a stable and high-speed internet connection. Use Krisp to enhance streaming quality."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-join-a-zoom-meeting/",
+    "title": "How to Join a Zoom Meeting | Everything You Should Know",
+    "date": "2024-09-29",
+    "modified": "2025-01-22",
+    "description": "Learn how to join a Zoom meeting like a pro. Know how the Krisp AI Meeting Assistant can enhance your Zoom meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/5-minute-team-building-activities/",
+    "title": "50+ 5-Minute Team Building Activities: Virtual, Quick & Fun",
+    "date": "2024-09-01",
+    "modified": "2025-01-21",
+    "description": "5-minute team building activities bond teams quickly and easily. Meeting Assistant Krisp makes virtual icebreakers far more effective and fun."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-speech-to-text-solutions-in-2024/",
+    "title": "AI Speech-to-Text: The Best Solutions to Look For in 2024",
+    "date": "2024-08-27",
+    "modified": "2025-01-21",
+    "description": "Discover the top 10 AI speech-to-text solutions in 2024, comparing key features and benefits to find the best fit for your business needs."
+  },
+  {
+    "url": "https://krisp.ai/blog/airpods-noise-cancelling/",
+    "title": "Your Ultimate Guide to AirPods Noise Cancelling",
+    "date": "2024-06-18",
+    "modified": "2025-01-21",
+    "description": "AirPods noise cancelling technology lets you enjoy a clear sound paired with the robust AI Noise Cancellation feature Krisp offers."
+  },
+  {
+    "url": "https://krisp.ai/blog/are-airpods-waterproof/",
+    "title": "Are AirPods Waterproof? What You Need to Know and How to Protect Them",
+    "date": "2024-09-03",
+    "modified": "2025-01-21",
+    "description": "Are AirPods waterproof? Learn about their water resistance, how to protect them, and enhance your experience with Krisp's noise cancellation."
+  },
+  {
+    "url": "https://krisp.ai/blog/asynchronous-work/",
+    "title": "The Rise of Asynchronous Work: A Guide to Efficient Remote Collaboration",
+    "date": "2024-09-13",
+    "modified": "2025-01-21",
+    "description": "Discover the benefits of asynchronous work for remote teams, including flexibility, better focus, and improved global collaboration."
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-water-cooler/",
+    "title": "What Is a Virtual Water Cooler? Benefits and Tips",
+    "date": "2025-01-17",
+    "modified": "2025-01-20",
+    "description": "Learn what a virtual water cooler is, its benefits, and how tools like Krisp can enhance remote team bonding with noise-free chats."
+  },
+  {
+    "url": "https://krisp.ai/blog/screening-interview-questions/",
+    "title": "Screening Interview Questions to Get the Best Candidate",
+    "date": "2025-01-20",
+    "modified": "2025-01-20",
+    "description": "Discover essential screening interview questions designed to identify the best candidates for your organization."
+  },
+  {
+    "url": "https://krisp.ai/blog/teamwork-skills/",
+    "title": "10 Teamwork Skills You Need to Succeed at Work",
+    "date": "2025-01-13",
+    "modified": "2025-01-13",
+    "description": "Master these 10 essential teamwork skills to boost collaboration, productivity, and success—whether in-office, remote, or hybrid work."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-screen-record-on-windows/",
+    "title": "How to Screen Record On Windows 10 And 11",
+    "date": "2024-12-24",
+    "modified": "2025-01-07",
+    "description": "Understanding how to screen record on Windows is handy, whether with built-in tools or third-party technologies with Windows 10 and 11."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-is-audio-transcription/",
+    "title": "What is Audio Transcription: A Guide to Finding the Best Tool",
+    "date": "2024-09-20",
+    "modified": "2025-01-07",
+    "description": "Discover what is audio transcription and find out how to easily choose the best tool for converting speech to text."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-is-a-scrum-meeting/",
+    "title": "What is a Scrum Meeting? A Quick Guide to Effective Stand-Ups with Krisp",
+    "date": "2024-10-02",
+    "modified": "2025-01-07",
+    "description": "Learn what a Scrum meeting is, its key types, and how the Krisp AI meeting assistant can make your Agile meetings more productive and focused."
+  },
+  {
+    "url": "https://krisp.ai/blog/weekly-status-report/",
+    "title": "Top Weekly Status Report Tips With Effective Templates",
+    "date": "2024-11-10",
+    "modified": "2025-01-07",
+    "description": "Creating a weekly status report is doable with practical tips, simplifying updates, keeping teams aligned, and improving project alignment."
+  },
+  {
+    "url": "https://krisp.ai/blog/sales-meeting/",
+    "title": "Sales Meeting: Practical Tips, Agendas, and Best Practices",
+    "date": "2024-06-11",
+    "modified": "2025-01-07",
+    "description": "Optimize your sales meetings with practical tips, effective agendas, and best practices. Learn how Krisp enhances virtual sales meetings!"
+  },
+  {
+    "url": "https://krisp.ai/blog/30-interesting-facts-about-yourself-examples/",
+    "title": "30 Interesting Facts About Yourself Examples Worth Sharing",
+    "date": "2024-10-24",
+    "modified": "2025-01-07",
+    "description": "Having 30 interesting facts about yourself examples on hand can advance your introductions and create a lasting positive impression."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-record-a-presentation-on-zoom/",
+    "title": "How to Record a Presentation on Zoom | 6 Easy Steps",
+    "date": "2024-12-03",
+    "modified": "2025-01-03",
+    "description": "Explore how to record a presentation on Zoom with ease. Our step-by-step guide walks you through the process to ensure high-quality recordings every time."
+  },
+  {
+    "url": "https://krisp.ai/blog/ice-breaker-questions/",
+    "title": "200 Great Ice breaker Questions for Your Remote Team",
+    "date": "2024-11-12",
+    "modified": "2025-01-03",
+    "description": "Discover 200 great ice breaker questions that help remote teams connect. Learn how these questions can set a positive tone in online meetings"
+  },
+  {
+    "url": "https://krisp.ai/blog/why-one-airpod-is-not-working/",
+    "title": "Why Is Only One AirPod Working? Easy Fixes and Troubleshooting Guide",
+    "date": "2024-08-29",
+    "modified": "2025-01-03",
+    "description": "Find out why only one AirPod is working and how to fix it quickly. Follow our easy troubleshooting guide for simple solutions."
+  },
+  {
+    "url": "https://krisp.ai/blog/team-management/",
+    "title": "7 Must-Have Skills for Strong Team Management",
+    "date": "2024-10-28",
+    "modified": "2025-01-03",
+    "description": "Boost your team management skills with our guide, featuring effective strategies to build a cohesive, high-performing team"
+  },
+  {
+    "url": "https://krisp.ai/blog/scrum-meeting-template/",
+    "title": "Scrum Meeting Template for Agile Productivity",
+    "date": "2024-10-02",
+    "modified": "2025-01-03",
+    "description": "Discover how a Scrum meeting template can streamline your daily stand-ups, keep your team focused, and improve productivity effortlessly."
+  },
+  {
+    "url": "https://krisp.ai/blog/questions-to-ask-at-the-end-of-an-interview/",
+    "title": "Top 21 Questions to Ask at the End of a Job Interview",
+    "date": "2024-09-08",
+    "modified": "2025-01-03",
+    "description": "Discover the most effective questions to ask at the end of a job interview, including role-specific, culture-focused, and growth-oriented."
+  },
+  {
+    "url": "https://krisp.ai/blog/podcast-transcript/",
+    "title": "Podcast Transcripts: How to Get Them for Free – Quick Guide",
+    "date": "2024-05-30",
+    "modified": "2025-01-03",
+    "description": "To get a podcast transcript with Krisp, just set up your mic and speaker, record your podcast, and automatically generate the transcript."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-recording-software/",
+    "title": "Top AI-Powered Screen Recording Software in 2024",
+    "date": "2024-12-07",
+    "modified": "2025-01-03",
+    "description": "Discover the top AI-powered screen recording software of 2024, offering advanced features and productivity tools for all your recording needs."
+  },
+  {
+    "url": "https://krisp.ai/blog/employee-engagement-survey-questions/",
+    "title": "25 Effective Employee Engagement Survey Questions to Boost Workplace Satisfaction",
+    "date": "2024-09-30",
+    "modified": "2025-01-03",
+    "description": "Discover key employee engagement survey questions, how to categorize them, and tips for analyzing survey results to boost satisfaction."
+  },
+  {
+    "url": "https://krisp.ai/blog/follow-up-email-templates/",
+    "title": "Top Follow Up Email Templates To Secure Replies in 2025",
+    "date": "2025-01-03",
+    "modified": "2025-01-03",
+    "description": "Boost your response rates in 2025 with these 20 follow up email templates. Get replies faster with clear, professional, and AI-powered emails!"
+  },
+  {
+    "url": "https://krisp.ai/blog/exit-interview-questions/",
+    "title": "20 Exit Interview Questions To Gain Insight Into Employee Experience",
+    "date": "2024-10-01",
+    "modified": "2025-01-03",
+    "description": "Learn essential exit interview questions to gather valuable feedback and improve retention. Discover how AI can streamline processes."
+  },
+  {
+    "url": "https://krisp.ai/blog/team-meeting-questions/",
+    "title": "90+ Team Meeting Questions",
+    "date": "2024-12-26",
+    "modified": "2024-12-27",
+    "description": "Discover 90 + team meeting questions and learn how Krisp's tools can boost engagement and make your meetings productive and enjoyable."
+  },
+  {
+    "url": "https://krisp.ai/blog/ai-task-manager/",
+    "title": "Why an AI Task Manager Might Be the Tool You Need",
+    "date": "2024-12-20",
+    "modified": "2024-12-27",
+    "description": "Explore the potential of an AI Task Manager to revolutionize your productivity. Find out how it could help manage your tasks effectively."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-blur-background-in-teams/",
+    "title": "How to Blur Background in Teams in 2025",
+    "date": "2024-12-23",
+    "modified": "2024-12-27",
+    "description": "Knowing how to blur background in Teams makes meetings distraction-free. Using Krisp makes your virtual meetings productive & efficient."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-and-fixie-partner-to-bring-unparalleled-audio-for-voice-ai-conversations-to-ultravox/",
+    "title": "Krisp and Fixie Bring AI Noise Cancellation to Ultravox to Improve Bot-to-Human Communication",
+    "date": "2024-12-20",
+    "modified": "2024-12-23",
+    "description": null
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-earns-pci-dss-certification-meeting-the-highest-security-standards/",
+    "title": "Krisp Earns PCI-DSS Certification: Meeting the Highest Security Standards",
+    "date": "2024-12-23",
+    "modified": "2024-12-23",
+    "description": null
+  },
+  {
+    "url": "https://krisp.ai/blog/voice-recorder-with-transcription/",
+    "title": "How to Choose the Best Voice Recorder with Transcription?",
+    "date": "2024-12-13",
+    "modified": "2024-12-17",
+    "description": "Discover the key factors when choosing the best voice recorder with transcription. Compare features and benefits to find your perfect match"
+  },
+  {
+    "url": "https://krisp.ai/blog/townhall-meeting/",
+    "title": "What is a Townhall Meeting?",
+    "date": "2024-12-12",
+    "modified": "2024-12-17",
+    "description": "Discover the meaning, purpose, and benefits of townhall meetings. Learn how to plan, execute effective in-person and virtual townhalls."
+  },
+  {
+    "url": "https://krisp.ai/blog/active-listening-in-sales/",
+    "title": "Active Listening in Sales: Ultimate Guide 2025",
+    "date": "2024-12-14",
+    "modified": "2024-12-17",
+    "description": "Active listening transforms the sales approach and helps understand client needs. Krisp makes active listening more effective."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-voice-isolation/",
+    "title": "Zoom Voice Isolation: Enhancing Virtual Communications",
+    "date": "2024-11-25",
+    "modified": "2024-12-02",
+    "description": "Learn how Zoom Voice Isolation transforms virtual communications by eliminating unwanted noise, allowing for more productive conversations."
+  },
+  {
+    "url": "https://krisp.ai/blog/meeting-cancellation-email/",
+    "title": "How To Write A Meeting Cancellation Email (Tips & Examples)",
+    "date": "2024-12-01",
+    "modified": "2024-12-02",
+    "description": "Write a meeting cancellation email with examples and tips. Discover key elements, and how tools like Krisp can enhance communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/google-meet-noise-cancellation/",
+    "title": "How to Remove Background Noise in Google Meet",
+    "date": "2024-11-15",
+    "modified": "2024-11-30",
+    "description": "Use Google Meet noise cancellation with Krisp for distraction-free meetings. Learn how noise cancellation can improve your remote work setup."
+  },
+  {
+    "url": "https://krisp.ai/blog/empathetic-listening/",
+    "title": "Empathetic Listening in the Digital Age",
+    "date": "2024-11-28",
+    "modified": "2024-11-29",
+    "description": "Master empathetic listening in the digital age with our insights to build authentic relationships despite the challenges."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-recover-from-burnout/",
+    "title": "How To Recover From Burnout | 10 Proven Methods That Work",
+    "date": "2024-11-26",
+    "modified": "2024-11-27",
+    "description": "Learn how to recover from burnout with 10 effective strategies that will help you find balance, boost your productivity, and feel like yourself again."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-does-voice-isolation-mean/",
+    "title": "What Does Voice Isolation Mean?",
+    "date": "2024-11-26",
+    "modified": "2024-11-26",
+    "description": "Explore the concept of voice isolation, its applications, and benefits. Understand how it improves sound quality in various environments."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-utilize-speech-analytics-to-grow-your-conversion-rate/",
+    "title": "How to Utilize Speech Analytics to Grow Your Conversion Rate",
+    "date": "2024-11-22",
+    "modified": "2024-11-22",
+    "description": "Boost conversions with speech analytics! Discover how sentiment analysis, churn prediction & issue resolution can help."
+  },
+  {
+    "url": "https://krisp.ai/blog/voice-translator-app/",
+    "title": "The 5 Best AI-Powered Voice Translator Apps in 2024",
+    "date": "2024-11-21",
+    "modified": "2024-11-22",
+    "description": "Explore the best voice translator apps of 2024. Best for accurate translations and real-time conversation support across multiple platforms."
+  },
+  {
+    "url": "https://krisp.ai/blog/reducing-wait-times-through-call-center-automation/",
+    "title": "Reducing Wait Times Through Call Center Automation",
+    "date": "2024-11-22",
+    "modified": "2024-11-22",
+    "description": "Time is more than just money. It's customer satisfaction, employee effectiveness, and more. Reduce wait times with call center automation using this guide."
+  },
+  {
+    "url": "https://krisp.ai/blog/effective-workplace-communication/",
+    "title": "Effective Workplace Communication: 7 Tips",
+    "date": "2024-11-21",
+    "modified": "2024-11-21",
+    "description": "Discover 7 tips for effective workplace communication to boost productivity and collaboration and create a noise-free environment with Krisp."
+  },
+  {
+    "url": "https://krisp.ai/blog/miscommunication/",
+    "title": "How to Avoid Miscommunication at Work",
+    "date": "2024-10-28",
+    "modified": "2024-11-20",
+    "description": "Learn how to avoid miscommunication at work with practical advice and techniques. Foster a more productive environment for your team today."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-screen-record-on-teams/",
+    "title": "How To Screen Record in Microsoft Teams",
+    "date": "2024-11-18",
+    "modified": "2024-11-18",
+    "description": "Learn how to screen record on Microsoft Teams, explore built-in features, tools like Krisp, and enhance your virtual meetings with ease."
+  },
+  {
+    "url": "https://krisp.ai/blog/is-it-illegal-to-record-someone-without-their-permission/",
+    "title": "Is it Illegal to Record Someone Without their Permission?",
+    "date": "2024-10-31",
+    "modified": "2024-11-07",
+    "description": "Is it illegal to record someone without their permission? Explore the legalities and state laws regarding recording without consent."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-check-airpods-battery/",
+    "title": "How to Check AirPods Battery: Step-by-Step Guide",
+    "date": "2024-08-30",
+    "modified": "2024-11-05",
+    "description": "Learn how to check your AirPods battery on iPhone, iPad, Mac, and Apple Watch. Find out tips to optimize battery life and fix common issues."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-decline-a-job-offer/",
+    "title": "How To Decline A Job Offer (Tips and Examples)",
+    "date": "2024-11-05",
+    "modified": "2024-11-05",
+    "description": "Learn how to politely decline a job offer with tips and examples, including email templates and advice for various scenarios."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-rename-airpods/",
+    "title": "How to Rename Your AirPods in a Few Simple Steps",
+    "date": "2024-07-29",
+    "modified": "2024-11-04",
+    "description": "Learn how to rename your AirPods in a few simple steps. Customize your AirPods for easy identification and avoid Bluetooth confusion with our guide."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-turn-off-airpods/",
+    "title": "How to Turn Off AirPods: A Step-by-Step Guide",
+    "date": "2024-10-26",
+    "modified": "2024-11-04",
+    "description": "Learn how to turn off, disconnect, and save battery on your AirPods with simple steps. Get troubleshooting tips for common AirPods issues."
+  },
+  {
+    "url": "https://krisp.ai/blog/why-are-my-airods-so-quiet/",
+    "title": "Why Are My AirPods So Quiet? Here’s What You Can Do",
+    "date": "2024-09-08",
+    "modified": "2024-11-03",
+    "description": "Struggling with low volume on your AirPods? Discover why your AirPods are so quiet and learn easy steps to increase the volume."
+  },
+  {
+    "url": "https://krisp.ai/blog/teams-for-mac/",
+    "title": "Getting the Most Out of Microsoft Teams for Mac",
+    "date": "2024-10-31",
+    "modified": "2024-11-01",
+    "description": "Unlock the full potential of Microsoft Teams on your Mac. Learn essential tips and tricks to improve your workflow"
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-time-limit/",
+    "title": "Zoom Time Limit in 2024: Practical Ways to Extend Your Meetings",
+    "date": "2024-10-30",
+    "modified": "2024-10-31",
+    "description": "Explore practical methods to extend your Zoom time limit in 2024. Maximize your virtual interactions with our comprehensive guide."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-screenshot/",
+    "title": "How to Take Zoom Screenshot: Step-by-Step Guide",
+    "date": "2024-10-30",
+    "modified": "2024-10-31",
+    "description": "Discover the ultimate guide on how to take a Zoom screenshot with our step-by-step guide. Capture your meetings effortlessly and efficiently."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-is-cold-calling/",
+    "title": "What is Cold Calling? A Comprehensive Guide",
+    "date": "2024-10-30",
+    "modified": "2024-10-31",
+    "description": "From techniques and strategies to leveraging noise-canceling tools like Krisp, learn how to boost your success and conversion rates in sales."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-is-a-podcast/",
+    "title": "What is a Podcast: All You Need to Know",
+    "date": "2024-10-30",
+    "modified": "2024-10-31",
+    "description": "What is a podcast? how it works, popular types, and what are the benefits. Learn the details and start your own podcast in high quality."
+  },
+  {
+    "url": "https://krisp.ai/blog/project-management-styles/",
+    "title": "5 Project Management Styles: Pros and Cons",
+    "date": "2024-10-30",
+    "modified": "2024-10-31",
+    "description": "Explore the pros and cons of top project management styles—Waterfall, Agile, Scrum, Kanban, and Lean—to find the best fit for your project."
+  },
+  {
+    "url": "https://krisp.ai/blog/pomodoro-technique/",
+    "title": "Tips to Maximize Your Productivity with the Pomodoro Technique",
+    "date": "2024-10-30",
+    "modified": "2024-10-31",
+    "description": "Discover how the Pomodoro Technique can help you stay focused, and achieve more in less time. Learn effective tips to maximize your work"
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-mute-teams/",
+    "title": "Your Guide on How to Mute Teams as a Participant or a Host",
+    "date": "2024-10-30",
+    "modified": "2024-10-31",
+    "description": "Knowing how to mute Teams as an attendee or a host is straightforward and beneficial for the quality of your calls."
+  },
+  {
+    "url": "https://krisp.ai/blog/teamwork-quotes/",
+    "title": "105+ Teamwork Quotes to Strengthen Your Team Spirit",
+    "date": "2024-10-28",
+    "modified": "2024-10-29",
+    "description": "Explore our collection of 105+ teamwork quotes designed to strengthen your team spirit. Find the perfect words to inspire unity and collaboration!"
+  },
+  {
+    "url": "https://krisp.ai/blog/screening-interview/",
+    "title": "How to Prepare for a Successful Screening Interview",
+    "date": "2024-10-28",
+    "modified": "2024-10-29",
+    "description": "Discover essential tips and strategies to excel in your screening interview. Increase your chances of success with our expert guidance."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-reset-airpods-max/",
+    "title": "How to Reset AirPods Max: The Ultimate Guide",
+    "date": "2024-10-26",
+    "modified": "2024-10-28",
+    "description": "Learn how to reset your AirPods Max with this step-by-step guide, covering soft and factory resets for optimal performance and connectivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/waterfall-vs-agile-methodology/",
+    "title": "Waterfall vs. Agile Methodology: What’s The Difference",
+    "date": "2024-10-28",
+    "modified": "2024-10-28",
+    "description": "Compare Waterfall vs. Agile methodologies to discover their differences, advantages, and when to use each. Learn how Krisp enhances virtual communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-factory-reset-airpods/",
+    "title": "How to Factory Reset AirPods: A Step-by-Step Guide",
+    "date": "2024-10-26",
+    "modified": "2024-10-28",
+    "description": "Learn how to factory reset your AirPods, unlink from Apple ID, and improve your experience with Krisp’s noise cancellation."
+  },
+  {
+    "url": "https://krisp.ai/blog/types-of-employees/",
+    "title": "10 Types of Employees And How To Lead Them",
+    "date": "2024-10-24",
+    "modified": "2024-10-25",
+    "description": "Explore 10 types of employees and effective leadership strategies to motivate, support, and engage a diverse team for success."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-record-zoom-meeting-as-a-participant/",
+    "title": "How To Record Zoom Meetings As a Participant",
+    "date": "2024-10-21",
+    "modified": "2024-10-21",
+    "description": "Learn how to easily record Zoom meetings as a participant, with or without permission, and enhance the experience with Krisp’s AI features."
+  },
+  {
+    "url": "https://krisp.ai/blog/collaborative-decision-making/",
+    "title": "What Is Collaborative Decision Making? Ultimate Guide",
+    "date": "2024-10-20",
+    "modified": "2024-10-21",
+    "description": "Collaborative decision making helps people work together to reach a consensus. Use Krisp’s AI Meeting Assistant to enhance this process."
+  },
+  {
+    "url": "https://krisp.ai/blog/google-meet-companion-mode/",
+    "title": "A Complete Guide to Using Google Meet Companion Mode",
+    "date": "2024-10-18",
+    "modified": "2024-10-18",
+    "description": "Unlock the full potential of Google Meet Companion Mode with our guide. Explore features and tips for effective virtual communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/zapier-integrations/",
+    "title": "The 25 Best Zapier Integrations for Easy Automation",
+    "date": "2024-10-15",
+    "modified": "2024-10-17",
+    "description": "Explore 25 best Zapier integrations to automate tasks and simplify your workflows. Get powerful app connections for productivity, communication, and more."
+  },
+  {
+    "url": "https://krisp.ai/blog/comprehensive-listening/",
+    "title": "Comprehensive Listening: Definition & Examples",
+    "date": "2024-10-17",
+    "modified": "2024-10-17",
+    "description": "Explore the importance of comprehensive listening and how it can improve communication with examples and tips for mastering the skill."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-download-teams-recording/",
+    "title": "How to Download A Teams Recording: A Step-by-Step Guide",
+    "date": "2024-10-14",
+    "modified": "2024-10-15",
+    "description": "Learn how to download Teams recordings, whether yours or others, with this easy step-by-step guide, including how to grant download permissions."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-set-working-hours-in-google-calendar/",
+    "title": "How to Set Working Hours in Google Calendar",
+    "date": "2024-10-07",
+    "modified": "2024-10-08",
+    "description": "Discover how to set working hours in Google Calendar to manage your availability, prevent after-hours meetings, and improve work-life balance."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-noise-cancellation-comparison/",
+    "title": "Krisp Noise Cancellation Comparison vs Zoom, MS Teams, Meet & Webex",
+    "date": "2022-01-22",
+    "modified": "2024-10-04",
+    "description": "Objective comparative evaluations of Krisp's noise cancellation with top competitors in the market - Zoom, MS Teams, Google Meet and Webex."
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-meeting-etiquette/",
+    "title": "Virtual Meeting Etiquette Guide 2022 | 33 Tips to Show You’re a Pro",
+    "date": "2020-12-15",
+    "modified": "2024-10-04",
+    "description": "What are virtual meeting etiquette rules in 2022? We walk you through 33 tips to ensure that you’re considerate on your next work call."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancellation-solutions/",
+    "title": "Remove Meeting Distractions With These 10 Noise Cancellation Solutions",
+    "date": "2021-12-17",
+    "modified": "2024-10-04",
+    "description": "If you’re searching for noise cancellation solutions for meetings, here's our detailed guide of the best solutions available in the market."
+  },
+  {
+    "url": "https://krisp.ai/blog/accountability-in-the-workplace/",
+    "title": "10 Effective Ways to Foster Accountability in the Workplace",
+    "date": "2024-09-30",
+    "modified": "2024-10-02",
+    "description": "Learn strategies to improve accountability in the workplace and build a culture of responsibility that boosts team performance"
+  },
+  {
+    "url": "https://krisp.ai/blog/where-do-google-meet-recordings-go/",
+    "title": "Where Do Google Meet Recordings Go | How To Find Them",
+    "date": "2024-09-23",
+    "modified": "2024-10-01",
+    "description": "Discover where Google Meet recordings go and how to easily find, download, and share them! Never miss important details again with our simple guide."
+  },
+  {
+    "url": "https://krisp.ai/blog/check-in-questions/",
+    "title": "160 Check-in Questions for Meetings in 2024",
+    "date": "2024-09-30",
+    "modified": "2024-10-01",
+    "description": "Engage your team with 160 check-in questions for meetings in 2024. Boost productivity and connection with creative and thoughtful prompts!"
+  },
+  {
+    "url": "https://krisp.ai/blog/call-center-quality-management/",
+    "title": "Call Center Quality Management: A Complete Guide",
+    "date": "2024-09-17",
+    "modified": "2024-09-27",
+    "description": "We have rounded up some of the best practices for call center quality management that’ll help you perform at your best."
+  },
+  {
+    "url": "https://krisp.ai/blog/time-management-skills/",
+    "title": "Top Time Management Skills for Productivity: Complete Guide",
+    "date": "2024-09-26",
+    "modified": "2024-09-26",
+    "description": "Learn the top time management skills and how to improve them. Reveal how Krisp’s Meeting Assistant helps make your day productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/hybrid-meetings/",
+    "title": "What are Hybrid Meetings and How to Run One Effectively?",
+    "date": "2024-09-24",
+    "modified": "2024-09-25",
+    "description": "Learn what hybrid meetings are and how to execute them effectively. Improve your team's collaboration with our expert advice."
+  },
+  {
+    "url": "https://krisp.ai/blog/google-meet-time-limit/",
+    "title": "Google Meet Time Limit: How Long for Free?",
+    "date": "2024-09-24",
+    "modified": "2024-09-24",
+    "description": "Curious about Google Meet's free version time limit? Find out how long your calls can last and get tips for seamless virtual meetings!C"
+  },
+  {
+    "url": "https://krisp.ai/blog/team-building-questions/",
+    "title": "100+ Icebreaker Team Building Questions",
+    "date": "2024-09-18",
+    "modified": "2024-09-19",
+    "description": "Explore 100+ fun icebreaker team building questions to enhance communication, trust, and teamwork in both in-person and virtual meetings using tools like Krisp."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-is-hybrid-remote-work/",
+    "title": "What is Hybrid Remote Work | Models, Benefits, and Challenges in 2024",
+    "date": "2024-09-17",
+    "modified": "2024-09-18",
+    "description": "Explore what hybrid remote work is and how it combines office benefits with remote flexibility. Learn how it boosts productivity and work-life balance."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-etiquette/",
+    "title": "Zoom Etiquette: Do’s and Don’ts You Should Know",
+    "date": "2024-09-16",
+    "modified": "2024-09-16",
+    "description": "Master Zoom etiquette with key do's and don'ts for virtual meetings. Enhance your experience with tools like Krisp for noise-free communication."
+  },
+  {
+    "url": "https://krisp.ai/blog/voice-technology-transformation-with-speech-to-text-apis/",
+    "title": "How Voice Technology is Transformed by Speech-to-Text APIs",
+    "date": "2024-09-16",
+    "modified": "2024-09-16",
+    "description": "Discover how Speech-to-Text APIs, like Krisp’s, are transforming voice technology with real-time transcription and accent localization."
+  },
+  {
+    "url": "https://krisp.ai/blog/speech-to-text-apis-key-players-and-innovations-in-2024/",
+    "title": "Speech-to-Text APIs: Key Players and Innovations in 2024",
+    "date": "2024-09-16",
+    "modified": "2024-09-16",
+    "description": "Discover the top Speech-to-Text API providers in 2024, key innovations, and how Krisp's accent localization leads the market."
+  },
+  {
+    "url": "https://krisp.ai/blog/professional-communication/",
+    "title": "Top Techniques to Improve Professional Communication",
+    "date": "2024-09-11",
+    "modified": "2024-09-12",
+    "description": "Learn key professional communication techniques to boost your career success and enhance interactions with clients and colleagues, both in person and online."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-schedule-a-google-meet/",
+    "title": "How to Schedule a Google Meet: A Step-by-Step Guide for Desktop and Mobile",
+    "date": "2024-09-09",
+    "modified": "2024-09-10",
+    "description": "​Learn how to schedule a Google Meet on desktop, Android, and iOS with step-by-step instructions for easy and effective video conferencing."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-send-a-google-calendar-invite/",
+    "title": "How to Send a Google Calendar Invite | From Setup to Send",
+    "date": "2024-09-02",
+    "modified": "2024-09-03",
+    "description": "Learn how to send a Google Calendar invite with our quick and easy guide. Explore detailed instructions for efficient scheduling and managing your events."
+  },
+  {
+    "url": "https://krisp.ai/blog/why-do-my-airpods-keep-pausing/",
+    "title": "Why Do My AirPods Keep Pausing? Causes and Easy Fixes",
+    "date": "2024-08-30",
+    "modified": "2024-09-03",
+    "description": "Learn why your AirPods keep pausing and explore straightforward solutions to keep your listening experience uninterrupted."
+  },
+  {
+    "url": "https://krisp.ai/blog/ultimate-guide-best-noise-cancelling-headphones/",
+    "title": "Ultimate Guide to Choosing Best Noise Cancelling Headphones (2022)",
+    "date": "2018-11-15",
+    "modified": "2024-09-02",
+    "description": "How to choose the right headphones for great noise cancellation? This article covers everything you need to know when buying noise cancelling headphones."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-headphones-pros-cons/",
+    "title": "Pros and Cons of Active Noise-Cancelling Headphones",
+    "date": "2019-07-08",
+    "modified": "2024-09-02",
+    "description": "Thinking of investing in active noise-cancelling headphones? Here's everything you need to know about the pros and cons to make your decision."
+  },
+  {
+    "url": "https://krisp.ai/blog/choose-noise-cancelling-headphones/",
+    "title": "Noise Cancelling Headphones and How to Choose Them",
+    "date": "2024-01-29",
+    "modified": "2024-09-02",
+    "description": "Get rid of annoying background noise with Krisp noise cancelling headphones. Enjoy clear, uninterrupted audio and distraction-free conversations!"
+  },
+  {
+    "url": "https://krisp.ai/blog/headphones-cheat-sheet/",
+    "title": "Easy Headphone Guide and Cheat Sheet",
+    "date": "2019-03-01",
+    "modified": "2024-09-02",
+    "description": "Here is a full headphone guide which includes all the headphone types, slangs, features and recommendations that you need to know."
+  },
+  {
+    "url": "https://krisp.ai/blog/speech-to-text-api-evolution/",
+    "title": "From Voice to Text: The Evolution of Speech-to-Text APIs",
+    "date": "2024-08-29",
+    "modified": "2024-08-29",
+    "description": "Explore the evolution of Speech-to-Text APIs, key technological advancements, and how Krisp leads with cutting-edge STT solutions."
+  },
+  {
+    "url": "https://krisp.ai/blog/what-is-one-benefit-to-working-collaboratively-on-a-team/",
+    "title": "What is One Benefit To Working Collaboratively on a Team?",
+    "date": "2024-08-26",
+    "modified": "2024-08-26",
+    "description": "Explore what is one benefit of working collaboratively on a team and see how technology can support and improve your teamwork for better project outcomes."
+  },
+  {
+    "url": "https://krisp.ai/blog/get-to-know-you-games/",
+    "title": "85 Best Get to Know You Games for Any Group",
+    "date": "2024-08-04",
+    "modified": "2024-08-26",
+    "description": "Find the best games to get to know each other for ice breakers. See how Meeting Assistant Krisp enhances your virtual get to know games."
+  },
+  {
+    "url": "https://krisp.ai/blog/innovative-speech-to-text-apis-of-2024/",
+    "title": "The Most Innovative Speech-to-Text APIs of 2024",
+    "date": "2024-08-23",
+    "modified": "2024-08-25",
+    "description": "Discover the most innovative Speech-to-Text APIs of 2024, including Krisp's cutting-edge solution for accurate transcriptions."
+  },
+  {
+    "url": "https://krisp.ai/blog/airpod-replacement/",
+    "title": "AirPod Replacement Guide: How to Replace Lost or Damaged AirPods",
+    "date": "2024-08-20",
+    "modified": "2024-08-20",
+    "description": "Lost or damaged AirPods? Find out how to check replacement eligibility and choose between Apple or third-party services to restore your AirPods quickly."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-over-the-ear-headphones/",
+    "title": "10 Best Over the Ear Headphones of 2024: Expert Reviews",
+    "date": "2024-08-14",
+    "modified": "2024-08-14",
+    "description": "Discover the best over-the-ear headphones of 2024 with reviews and comprehensive buying guide. Find the perfect pair for you!"
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-know-if-airpods-are-charging/",
+    "title": "How To Know If Airpods Are Charging? | Battery Life and More",
+    "date": "2024-07-25",
+    "modified": "2024-07-25",
+    "description": "Find out how to know if your AirPods are charging with our simple guide. Avoid low-battery issues and ensure your AirPods are always ready for use."
+  },
+  {
+    "url": "https://krisp.ai/blog/sony-vs-bose-vs-bowerswilkins/",
+    "title": "Sony XM3 vs Bose QC 35 II vs Bowers & Wilkins PX?",
+    "date": "2019-02-21",
+    "modified": "2024-07-19",
+    "description": "Having a tough time choosing between Bose vs Sony vs Bowers and Wilkins? We have a detailed review for all their features to help you choose easier."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-reduce-background-noise-microphone/",
+    "title": "How to Reduce Background Noise on Microphone",
+    "date": "2020-05-20",
+    "modified": "2024-07-08",
+    "description": "Wondering how to reduce background noise on microphone? Check out these easy tips that will help you have high quality audio without noise."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-work-from-home-with-kids/",
+    "title": "How to Work From Home With Kids and Stay Productive",
+    "date": "2020-05-07",
+    "modified": "2024-07-04",
+    "description": "How to work from home with kids without going completely crazy? It's possible to work from home and stay productive! Here are some tips that will help."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-hit-an-all-time-record-launching-on-appsumo/",
+    "title": "Appsumo Deals: Krisp Hit a Record Launching on Appsumo",
+    "date": "2019-10-02",
+    "modified": "2024-07-04",
+    "description": "Krisp launched on Appsumo deals and made $214,500 in sales, 1,000 product purchases and had a rating of 4.7 out of 5 and that's not even half of cool news!"
+  },
+  {
+    "url": "https://krisp.ai/blog/irritating-noises-at-work/",
+    "title": "Top #5 Irritating Noises at Work You Might Relate to",
+    "date": "2019-08-31",
+    "modified": "2024-07-04",
+    "description": "We're all busy with work and what's the worst that can happen when we're at it? Irritating noises! Let's see which ones will you relate to."
+  },
+  {
+    "url": "https://krisp.ai/blog/zoom-cloud-recording-ultimate-guide/",
+    "title": "Zoom Cloud Recording: The Ultimate Guide",
+    "date": "2024-04-25",
+    "modified": "2024-07-04",
+    "description": "Discover Zoom Cloud Recording. Learn how to enable, record, and manage your meetings effectively for seamless sharing and reviewing."
+  },
+  {
+    "url": "https://krisp.ai/blog/workplace-burnout/",
+    "title": "Effectively Tackling Workplace Burnout During the Great Resignation",
+    "date": "2022-03-09",
+    "modified": "2024-07-04",
+    "description": "Workplace burnout can have a significant impact on business growth. Learn the main causes of burnout and how to effectively manage it."
+  },
+  {
+    "url": "https://krisp.ai/blog/working-from-home-tips/",
+    "title": "Top 6 Working from Home Tips (Beginner Guide 2022)",
+    "date": "2020-04-07",
+    "modified": "2024-07-04",
+    "description": "Working from home is on the rise but it is harder than it sounds. Here are top working from home tips that can help you face unexpected challenges."
+  },
+  {
+    "url": "https://krisp.ai/blog/work-from-home-schedule/",
+    "title": "How to Create a Work From Home Schedule That Works for You",
+    "date": "2020-05-05",
+    "modified": "2024-07-04",
+    "description": "Want to plan your day for maximum productivity? Here's how to create your optimal work from home schedule, according to a seasoned WFH professional!"
+  },
+  {
+    "url": "https://krisp.ai/blog/voice-recording-software/",
+    "title": "15 Best Voice Recording Software in 2022",
+    "date": "2021-05-14",
+    "modified": "2024-07-04",
+    "description": "If you’re looking for the best voice recording software to use, check 15 best options (both free and paid) you’ll find in 2021."
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-team-communication/",
+    "title": "How to Avoid Miscommunication While Managing a Remote Team",
+    "date": "2020-10-23",
+    "modified": "2024-07-04",
+    "description": "Let’s take a look at the six key virtual team communication tips necessary to avoid miscommunication while managing a remote team."
+  },
+  {
+    "url": "https://krisp.ai/blog/types-of-procrastination/",
+    "title": "How to Deal With Procrastination? 4 Main Types of Procrastinators",
+    "date": "2019-12-16",
+    "modified": "2024-07-04",
+    "description": "A deadline looms on the horizon, the to-do list item never disappears, and it hits you. Find out which procrastinator type you are."
+  },
+  {
+    "url": "https://krisp.ai/blog/transition-to-remote-work/",
+    "title": "Remote Work: Should You Become a Part of It?",
+    "date": "2019-07-01",
+    "modified": "2024-07-04",
+    "description": "More people transition to remote work and become successful. If you think of transitioning as well, here are some interesting thoughts from remote workers."
+  },
+  {
+    "url": "https://krisp.ai/blog/top-17-cx-thought-leaders-to-follow-in-2024/",
+    "title": "Top 17 CX Thought Leaders to Follow in 2024",
+    "date": "2024-02-20",
+    "modified": "2024-07-04",
+    "description": "This highly curated shortlist of top CX thought leaders is guaranteed to keep you ahead of industry trends, challenges, and emerging innovations"
+  },
+  {
+    "url": "https://krisp.ai/blog/small-remote-team-vs-small-office-team/",
+    "title": "Small Remote Teams VS Small Teams In Office?",
+    "date": "2019-08-26",
+    "modified": "2024-07-04",
+    "description": "Wondering if small remote teams are more effective than traditional small teams in office? Here's everything you need to know!"
+  },
+  {
+    "url": "https://krisp.ai/blog/skype-for-mac-guide/",
+    "title": "Detailed Guide on How to Use Skype for Mac",
+    "date": "2019-02-26",
+    "modified": "2024-07-04",
+    "description": "New to using Skype? We have a detailed Skype for Mac guide to help you make calls, write instant messages and share files with your friends!"
+  },
+  {
+    "url": "https://krisp.ai/blog/remote-work-distraction-tips/",
+    "title": "Remote Work Distraction: How to Deal With It?",
+    "date": "2019-06-15",
+    "modified": "2024-07-04",
+    "description": "Distraction is real and challenging when it comes to remote work. Here are the top 8 remote work distractions that we will help you to avoid."
+  },
+  {
+    "url": "https://krisp.ai/blog/remote-team-culture/",
+    "title": "Remote team culture | 6 steps to build a strong culture in 2022",
+    "date": "2020-09-14",
+    "modified": "2024-07-04",
+    "description": "How to build and maintain a strong remote team culture? Try this 6-step roadmap as a guide to build a remarkable remote team culture."
+  },
+  {
+    "url": "https://krisp.ai/blog/remote-team-conflict/",
+    "title": "6 Tips For Resolving Conflict Within Remote Teams",
+    "date": "2020-08-24",
+    "modified": "2024-07-04",
+    "description": "Conflict can have a big impact on a team’s productivity and morale. Learn how to identify and deal with conflicts when managing a remote team."
+  },
+  {
+    "url": "https://krisp.ai/blog/recording-interviews/",
+    "title": "How to Record an Interview (2022 Guide)",
+    "date": "2021-04-14",
+    "modified": "2024-07-04",
+    "description": "In this guide, you will find the tools to maintain studio-like audio quality and techniques to improve your process of recording interviews."
+  },
+  {
+    "url": "https://krisp.ai/blog/project-management-tools-for-virtual-teams/",
+    "title": "21 Project Management Resources & Tools for Virtual Teams",
+    "date": "2019-12-08",
+    "modified": "2024-07-04",
+    "description": "Virtual teamwork can be challenging, but using the right tools for virtual teams makes overcoming these problems a breeze. Take a look yourself."
+  },
+  {
+    "url": "https://krisp.ai/blog/remote-working-statistics/",
+    "title": "Remote Work Statistics: 15 Stats You Need to Know in 2022",
+    "date": "2020-03-03",
+    "modified": "2024-07-04",
+    "description": "Do you want to learn about the state of remote work and how it's changing the workforce? Here are the top 15 remote work statistics you should know in 2020."
+  },
+  {
+    "url": "https://krisp.ai/blog/productivity-apps-for-easier-life/",
+    "title": "26 Productivity Apps for a Better Life (2023)",
+    "date": "2019-07-06",
+    "modified": "2024-07-04",
+    "description": "We all have trouble staying productive at times. So here are 25 cool productivity apps to boost your efficiency and make your life easier!"
+  },
+  {
+    "url": "https://krisp.ai/blog/remote-productivity-remote-work/",
+    "title": "Remote Productivity: Next “Big Thing” in Remote Work",
+    "date": "2020-01-23",
+    "modified": "2024-07-04",
+    "description": "We all know the never-ending productivity tips, right? Well, in the new era of remote work, remote productivity is the real thing - it's time to explore it."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-gate/",
+    "title": "The Impact of Noise Gate on Sound Clarity",
+    "date": "2024-06-21",
+    "modified": "2024-07-04",
+    "description": "Noise gate enhances sound clarity by eliminating background noise. Learn how Krisp’s AI-driven solutions revolutionize sound quality."
+  },
+  {
+    "url": "https://krisp.ai/blog/productive-remote-meeting/",
+    "title": "7 Tips to Running a Productive Remote Meeting",
+    "date": "2020-05-18",
+    "modified": "2024-07-04",
+    "description": "If you're managing a remote team or hosting a video call, then here are 7 ways to get the most from your sessions and have productive remote meeting."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-headphones-arent-enough/",
+    "title": "Why Noise Cancelling Headphones Aren’t Enough?",
+    "date": "2019-10-23",
+    "modified": "2024-07-04",
+    "description": "Noise cancelling headphones do a great job at noise removal, but there are situations when they are not enough. Here are some of them:"
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-damage-hearing/",
+    "title": "Is Noise Cancelling Bad for Your Ears? [Spoiler Alert: Maybe]",
+    "date": "2022-01-22",
+    "modified": "2024-07-04",
+    "description": "Can noise cancelling damage hearing? There are some safety factors that you need to take into account for using noise cancelling headphones.."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancellation-types/",
+    "title": "Noise Cancellation Basics, Types, Headphones and More",
+    "date": "2019-05-17",
+    "modified": "2024-07-04",
+    "description": "There are 3 types of noise cancellation - passive, active and adaptive. The way the noise cancelling works varies between the types. Here is how:"
+  },
+  {
+    "url": "https://krisp.ai/blog/most-annoying-noises-remote-work/",
+    "title": "Most Annoying Noises in Remote Work (+Solutions)",
+    "date": "2019-07-16",
+    "modified": "2024-07-04",
+    "description": "Remote professionals can work from anywhere, but there's always a struggle of dealing with noise, here are the most annoying noises in remote work."
+  },
+  {
+    "url": "https://krisp.ai/blog/microsoft-teams-noise-suppression/",
+    "title": "How to Suppress Background Noise in Microsoft Teams?",
+    "date": "2020-05-22",
+    "modified": "2024-07-04",
+    "description": "Wonder how to suppress background noise in Microsoft Teams? Here's a tutorial on how to reduce background noise from your calls in MS Teams."
+  },
+  {
+    "url": "https://krisp.ai/blog/messaging-etiquette-tips/",
+    "title": "10 Messaging Etiquette Tips for Work-From-Home Professionals",
+    "date": "2020-07-28",
+    "modified": "2024-07-04",
+    "description": "Lack of messaging etiquette can raise unnecessary issues that may reflect on your business. Learn all the basics of professional messaging."
+  },
+  {
+    "url": "https://krisp.ai/blog/podcast-software/",
+    "title": "11+ Best Podcast Software for Mac & PC in 2022",
+    "date": "2021-03-19",
+    "modified": "2024-07-04",
+    "description": "Choosing the tech stack for your first podcast sure can be a hassle, right? Here are over 11+ podcast tools, each for a different use case."
+  },
+  {
+    "url": "https://krisp.ai/blog/asynchronous-communication-benefits/",
+    "title": "6 Reasons Why Asynchronous Communication Benefits Remote Teams",
+    "date": "2021-06-22",
+    "modified": "2024-07-04",
+    "description": "Asynchronous communication has started to gain traction amongst remote teams. Here's how to use the power of async communication in your team"
+  },
+  {
+    "url": "https://krisp.ai/blog/audacity-voice-quality/",
+    "title": "8 easy steps to improve voice quality in Audacity",
+    "date": "2024-02-20",
+    "modified": "2024-07-04",
+    "description": "Do you want to improve your audio quality on your next recording? We've put together a a comprehensive and helpful guide on improving voice quality in Audacity."
+  },
+  {
+    "url": "https://krisp.ai/blog/avoid-virtual-team-miscommunication/",
+    "title": "How to Improve Virtual Team Communication",
+    "date": "2020-11-19",
+    "modified": "2024-07-04",
+    "description": "We’ve prepared a step-by-step guide to improve your virtual team communication plan and ensure it’s a good fit for everyone in your team."
+  },
+  {
+    "url": "https://krisp.ai/blog/background-noise-and-productivity/",
+    "title": "How Background Noise Affects Productivity",
+    "date": "2019-04-28",
+    "modified": "2024-07-04",
+    "description": "We all know what affects productivity can be background noise. But did you know that background noise also helps productivity?"
+  },
+  {
+    "url": "https://krisp.ai/blog/avoiding-procrastination/",
+    "title": "Avoid Procrastination: Prevent Production Roadblocks",
+    "date": "2019-04-19",
+    "modified": "2024-07-04",
+    "description": "Procrastination happens to the best of us and it's difficult to fight against it. Which is why we have collected a list of tips to avoid procrastination."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-podcasts-remote-work/",
+    "title": "16 Best Podcasts for Remote Workers in 2022",
+    "date": "2021-05-05",
+    "modified": "2024-07-04",
+    "description": "Whether you’re a remote employee or an entrepreneur, check out the curated list of the best podcasts for remote work."
+  },
+  {
+    "url": "https://krisp.ai/blog/better-sound-quality-conference-calls/",
+    "title": "8 Steps for Better Sound Quality in Conference Calls",
+    "date": "2019-01-29",
+    "modified": "2024-07-04",
+    "description": "Are you struggling with sound quality in your conference calls? We have a bunch of tips that can help you have better sound quality. Come see!"
+  },
+  {
+    "url": "https://krisp.ai/blog/conference-call-etiquette-guide/",
+    "title": "Quick Guide to Conference Call Etiquette",
+    "date": "2020-01-23",
+    "modified": "2024-07-04",
+    "description": "Knowing and maintaining conference call etiquette is very important, so here are the best tips to help you have better conference calls."
+  },
+  {
+    "url": "https://krisp.ai/blog/cubicle-noise-reduction/",
+    "title": "20 Cubicle Noise Reduction Strategies",
+    "date": "2024-02-26",
+    "modified": "2024-07-04",
+    "description": "From squeaky chairs to chatty colleagues, the workplace can be a hard place to work. These 20 cubicle noise reduction strategies can help."
+  },
+  {
+    "url": "https://krisp.ai/blog/daily-standup-tools/",
+    "title": "8+ best daily standup tools for hassle-free meetings",
+    "date": "2021-07-20",
+    "modified": "2024-07-04",
+    "description": "Here are the top 8+ core daily standup tools and adjacent helper apps that you can use to make your standup meetings better."
+  },
+  {
+    "url": "https://krisp.ai/blog/conference-call-hosting-tips/",
+    "title": "9 Quick and Easy Tips for Conference Calls Hosts",
+    "date": "2019-03-13",
+    "modified": "2024-07-04",
+    "description": "Some tips for conference calls for hosts. Start off with scheduling the right timing for every remote working participant. Next, send invites to.."
+  },
+  {
+    "url": "https://krisp.ai/blog/digital-nomad-tools/",
+    "title": "15 Must-Have Tools for Digital Nomads",
+    "date": "2019-02-18",
+    "modified": "2024-07-04",
+    "description": "There are many platforms and apps that can aid the work and travel of digital nomads. Here is the list of 15 most important ones."
+  },
+  {
+    "url": "https://krisp.ai/blog/effective-meeting-agenda/",
+    "title": "How to Create Effective Meeting Agendas for Online Calls",
+    "date": "2022-02-03",
+    "modified": "2024-07-04",
+    "description": "Having an effective meeting agenda is a gamechanger for your productivity. Check 14 tips for crafting an agenda to keep your meetings efficient."
+  },
+  {
+    "url": "https://krisp.ai/blog/effective-remote-team-working-tips/",
+    "title": "5 Useful Tips for Effective Remote Team Working",
+    "date": "2020-04-17",
+    "modified": "2024-07-04",
+    "description": "If you work with a remote team, we have a handful of tips that will help you make your remote team productive and improve effective remote team working"
+  },
+  {
+    "url": "https://krisp.ai/blog/effective-virtual-meetings/",
+    "title": "How to Communicate Effectively in Virtual Meetings",
+    "date": "2019-11-10",
+    "modified": "2024-07-04",
+    "description": "To help you run effective virtual meetings, here are the changes you need to make to ensure your team is having effective virtual meetings."
+  },
+  {
+    "url": "https://krisp.ai/blog/communication-tools/",
+    "title": "Best 21 Communication Tools for Remote Teams",
+    "date": "2020-04-28",
+    "modified": "2024-07-04",
+    "description": "Picking the right communication tools is vital for your team's success. Here is the list of online communication tools to increase your team's productivity."
+  },
+  {
+    "url": "https://krisp.ai/blog/engaging-remote-employees/",
+    "title": "6 Strategies for Engaging Remote Employees",
+    "date": "2020-08-10",
+    "modified": "2024-07-04",
+    "description": "It's important to increase employee engagement, so let’s take a look at some ideas for engaging remote employees you can apply at any time."
+  },
+  {
+    "url": "https://krisp.ai/blog/facetime-noise/",
+    "title": "How to Remove Background Noise in Facetime",
+    "date": "2021-06-29",
+    "modified": "2024-07-04",
+    "description": "Wondering how to cancel out background noise in Facetime calls? Then keep reading to learn more about Facetime noise cancellation."
+  },
+  {
+    "url": "https://krisp.ai/blog/effects-of-noise-pollution-globalwarming/",
+    "title": "Noise Pollution & Global Warming? [What Science Says]",
+    "date": "2019-06-28",
+    "modified": "2024-07-04",
+    "description": "Noise pollution is becoming a real threat. But are the effects of noise pollution related to global warming? This article discusses the possibilities..."
+  },
+  {
+    "url": "https://krisp.ai/blog/future-of-productivity/",
+    "title": "The Key to the Future Of Productivity Is Teamwork And Collaboration",
+    "date": "2021-01-25",
+    "modified": "2024-07-04",
+    "description": "Fact: 97% of employees believe a lack of alignment within a team impacts the outcome of a project. Thus, the future of productivity: teamwork and collaboration."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-change-name-on-zoom/",
+    "title": "How to Change Name on Zoom: Assuming a Fresh Identity",
+    "date": "2024-05-23",
+    "modified": "2024-07-04",
+    "description": "Check out this blog from Krisp on how to change name on Zoom easily before and after your Zoom meeting starts."
+  },
+  {
+    "url": "https://krisp.ai/blog/human-resource-meetings/",
+    "title": "Human Resource Meetings: Everything You Need to Know + Helpful Tips",
+    "date": "2024-06-11",
+    "modified": "2024-07-03",
+    "description": "Learn everything you need to know about human resource meetings. Discover helpful strategies to approach HR meetings confidently."
+  },
+  {
+    "url": "https://krisp.ai/blog/key-takeaways/",
+    "title": "Key Takeaways: Getting to the Bottom Line of Your Meetings",
+    "date": "2024-05-30",
+    "modified": "2024-07-03",
+    "description": "Elevate your meeting skills by learning to extract valuable insights with powerful key takeaways that are concise and easy to understand."
+  },
+  {
+    "url": "https://krisp.ai/blog/all-hands-meeting-guide/",
+    "title": "All Hands Meeting: A Step-by-Step Guide",
+    "date": "2024-05-25",
+    "modified": "2024-07-03",
+    "description": "Discover what an all hands meeting is and how to hold it effectively. See how an AI meeting assistant makes meetings productive."
+  },
+  {
+    "url": "https://krisp.ai/blog/transcription-software-for-call-centers/",
+    "title": "Call Center Transcription Software: The Ultimate Guide",
+    "date": "2024-04-11",
+    "modified": "2024-05-21",
+    "description": "Discover How Call Center Transcription Software Can Transform and Streamline Call Center Operations with Precise and Swift Transcription."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-software-for-pc-to-remove-background-noise/",
+    "title": "6 Best Audio Noise Cancelling Software to Remove Noise",
+    "date": "2024-01-15",
+    "modified": "2024-03-29",
+    "description": "Achieve better call clarity with noise cancelling software, reducing unwanted sounds during your conversations. Block out distractions and boost productivity!"
+  },
+  {
+    "url": "https://krisp.ai/blog/covid19-response/",
+    "title": "COVID-19 Response: New free plan and dropped prices",
+    "date": "2020-03-17",
+    "modified": "2024-03-29",
+    "description": "What’s happening in the world these days is scary. We are stepping up and making the following changes to help people in this situation."
+  },
+  {
+    "url": "https://krisp.ai/blog/digital-transformation-challenges/",
+    "title": "Why Do Digital Transformations Fail? 7 Common Challenges to Tackle",
+    "date": "2022-06-10",
+    "modified": "2024-03-29",
+    "description": "Knowing the digital transformation challenges can help you overcome them. If you’re curious about why digital transformation fails, read on."
+  },
+  {
+    "url": "https://krisp.ai/blog/virtual-phone-system-customer-service/",
+    "title": "How to Improve Customer Service Using a Virtual Phone System",
+    "date": "2020-04-15",
+    "modified": "2024-03-22",
+    "description": "Read on to know how having a virtual phone system offers you lot of benefits, helping you meet customer expectations and provide a personalized experience."
+  },
+  {
+    "url": "https://krisp.ai/blog/can-you-hear-a-room/",
+    "title": "Can You Hear a Room?",
+    "date": "2023-07-06",
+    "modified": "2024-03-18",
+    "description": "Discover the characteristics of any space with room impulse response, essential for audio professionals to analyze sound quality in different environments."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-headphones-vs-earbuds/",
+    "title": "What’s Better: Noise Cancelling Headphones or Earbuds?",
+    "date": "2019-02-27",
+    "modified": "2023-10-04",
+    "description": "Can't choose between noise cancelling headphones and earbuds? This blog post discusses pros and cons of both to help you make up your mind."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancellation-quality-evaluation/",
+    "title": "Noise Cancellation Quality Evaluation: How We Test Krisp’s Technology",
+    "date": "2022-09-23",
+    "modified": "2023-07-23",
+    "description": "Peek inside the Krisp Research Team’s noise cancellation quality evaluation. We’ll show you how we conduct speech quality testing on our NC algorithm."
+  },
+  {
+    "url": "https://krisp.ai/blog/speech-recognition-testing/",
+    "title": "On-Device Meeting Transcription and Speech Recognition Testing",
+    "date": "2022-09-12",
+    "modified": "2022-09-25",
+    "description": "We’re analyzing the technologies needed for on-device meeting transcription, including speaker diarization and speech recognition testing."
+  },
+  {
+    "url": "https://krisp.ai/blog/how-to-increase-customer-service-team-productivity/",
+    "title": "10 Effective Hacks to Increase Customer Service Team Productivity",
+    "date": "2021-10-09",
+    "modified": "2022-08-26",
+    "description": "How to maximize your customer service team productivity? These ten actionable strategies can help you achieve the best performance."
+  },
+  {
+    "url": "https://krisp.ai/blog/talk-time/",
+    "title": "Improving Communication with Krisp’s Talk Time",
+    "date": "2022-05-20",
+    "modified": "2022-08-26",
+    "description": "Krisp’s Talk Time allows users to visually keep track of how much time they spend talking in relation to other participants on a call."
+  },
+  {
+    "url": "https://krisp.ai/blog/krisp-updates-improvements/",
+    "title": "What’s New in Krisp: Important Updates and Improvements",
+    "date": "2021-10-12",
+    "modified": "2022-08-16",
+    "description": "Here are some of the recent and exciting updates and improvements to make sure that your experience with Krisp is at its best."
+  },
+  {
+    "url": "https://krisp.ai/blog/working-at-krisp/",
+    "title": "What’s it like to work at Krisp?",
+    "date": "2021-09-20",
+    "modified": "2022-08-10",
+    "description": "If you’ve ever wondered what it’s like working at Krisp, you’ve come to the right place. Here's a snapshot of what we do and how we do it."
+  },
+  {
+    "url": "https://krisp.ai/blog/hiring-process/",
+    "title": "How We Hire at Krisp",
+    "date": "2022-01-27",
+    "modified": "2022-07-21",
+    "description": "Wonder how we hire at Krisp? Here's a brief overview of the 5 primary steps that make up Krisp's hiring process."
+  },
+  {
+    "url": "https://krisp.ai/blog/digital-transformation-strategy/",
+    "title": "9 Key Steps to Digital Transformation Strategy That You Cannot Ignore",
+    "date": "2022-06-08",
+    "modified": "2022-07-06",
+    "description": "What are the key steps to developing digital transformation strategy that you just can’t skip over? Let’s find out together."
+  },
+  {
+    "url": "https://krisp.ai/blog/digital-transformation-covid/",
+    "title": "7 Ways Covid and Hybrid Work Changed Digital Transformation",
+    "date": "2022-06-20",
+    "modified": "2022-07-04",
+    "description": "How Covid and a hybrid workforce have affected digital transformation around the world? Here's how your company can get a competitive edge."
+  },
+  {
+    "url": "https://krisp.ai/blog/remote-leadership-tools/",
+    "title": "18 Best Leadership Tools for Remote Teams",
+    "date": "2021-11-24",
+    "modified": "2022-05-20",
+    "description": "We’ve rounded up 20 essential leadership tools that can help anyone better manage and inspire their teams."
+  },
+  {
+    "url": "https://krisp.ai/blog/customer-service-call-center/",
+    "title": "18 Customer Service Tips for Call Centers That’ll Make Your Job Easier",
+    "date": "2021-10-25",
+    "modified": "2022-03-14",
+    "description": "Below, we’ve rounded up the best customer service tips for call centers to help you do your best work at the call center."
+  },
+  {
+    "url": "https://krisp.ai/blog/7-best-in-ear-noise-cancelling-headphones-or-earphones/",
+    "title": "7 In-Ear Noise Cancelling Headphones or Earphones",
+    "date": "2019-10-11",
+    "modified": "2021-11-17",
+    "description": "Looking for some peace and quiet? Here are the best in-ear noise cancelling headphones that will provide you with a great NC and listening experience."
+  },
+  {
+    "url": "https://krisp.ai/blog/noise-cancelling-headphones-productivity/",
+    "title": "Do Noise Cancelling Headphones Make You Productive?",
+    "date": "2019-05-28",
+    "modified": "2021-09-09",
+    "description": "Noise cancelling headphones inevitably make you more productive. Read about the reasons why and pick yourself a good pair of work headphones!"
+  },
+  {
+    "url": "https://krisp.ai/blog/best-on-ear-noise-cancelling-headphones/",
+    "title": "7 On-Ear Noise Cancelling Headphones [+Bonus]",
+    "date": "2019-08-20",
+    "modified": "2021-09-09",
+    "description": "Looking for a comfy pair of on-ear noise cancelling headphones? Here's a list that will help you choose the best pair for yourself."
+  },
+  {
+    "url": "https://krisp.ai/blog/best-budget-noise-cancelling-headphones/",
+    "title": "Best Budget Noise Cancelling Headphones [Under $100]",
+    "date": "2019-05-22",
+    "modified": "2021-09-09",
+    "description": "Want to get a pair of good ANC headphones? Here's a whole list of the best budget noise cancelling headphones which will do the deed and save you money."
+  }
+]

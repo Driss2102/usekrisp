@@ -1,0 +1,49 @@
+# Krisp Guide
+
+> Krisp Guide is an independent review-and-setup guide for Krisp, the voice AI app for noise cancellation and AI meeting notes. It is not affiliated with Krisp Technologies Inc. Content is independent and may contain affiliate links.
+
+Krisp Guide helps people set up Krisp on any calling app, decide whether it is worth it, understand the free plan and pricing, and compare Krisp with alternatives. Facts are checked against Krisp's own product information and dated sources.
+
+## Start here
+- [What is Krisp?](https://usekrisp.com/docs/what-is-krisp): Plain-English explainer of the app, whether it is free, and which devices it runs on.
+- [Krisp Review (2026)](https://usekrisp.com/docs/review/): Independent review with rating, pros and cons, and who it is for.
+- [Is Krisp worth it?](https://usekrisp.com/docs/review/is-krisp-worth-it): When Krisp is worth paying for and when the free plan is enough.
+- [How to download Krisp](https://usekrisp.com/docs/guides/how-to-download-krisp): Install on Windows, Mac, and mobile.
+
+## Pricing and plans
+- [Krisp pricing](https://usekrisp.com/docs/review/krisp-pricing): Free vs Pro, described qualitatively (links to Krisp for current prices).
+- [Krisp free plan](https://usekrisp.com/docs/review/krisp-free-plan): 60 minutes of noise cancellation per day, unlimited transcription, no credit card.
+- [Is Krisp Pro worth it?](https://usekrisp.com/docs/review/krisp-pro): What Pro unlocks.
+
+## Setup guides (per app)
+- [Krisp on Zoom](https://usekrisp.com/docs/use/zoom)
+- [Krisp on Microsoft Teams](https://usekrisp.com/docs/use/microsoft-teams)
+- [Krisp on Google Meet](https://usekrisp.com/docs/use/google-meet)
+- [Krisp on Discord](https://usekrisp.com/docs/use/discord)
+- [Krisp on Slack](https://usekrisp.com/docs/use/slack)
+- [Krisp on Webex](https://usekrisp.com/docs/use/webex)
+- [Krisp on phone and VoIP calls](https://usekrisp.com/docs/use/phone-calls)
+
+## Comparisons (Krisp alternatives)
+- [Krisp alternatives overview](https://usekrisp.com/docs/compare/)
+- [Krisp vs Otter](https://usekrisp.com/docs/compare/krisp-vs-otter)
+- [Krisp vs NVIDIA Broadcast](https://usekrisp.com/docs/compare/krisp-vs-nvidia-broadcast)
+- [Krisp vs Fireflies](https://usekrisp.com/docs/compare/krisp-vs-fireflies)
+- [Krisp vs Fathom](https://usekrisp.com/docs/compare/krisp-vs-fathom)
+- [Krisp vs tl;dv](https://usekrisp.com/docs/compare/krisp-vs-tldv)
+- [Krisp vs Notta](https://usekrisp.com/docs/compare/krisp-vs-notta)
+- [Krisp vs Jamie](https://usekrisp.com/docs/compare/krisp-vs-jamie)
+- [Krisp vs Fellow](https://usekrisp.com/docs/compare/krisp-vs-fellow)
+- [Krisp vs Plaud](https://usekrisp.com/docs/compare/krisp-vs-plaud)
+
+## How-to guides
+- [How to remove background noise from any call](https://usekrisp.com/docs/guides/how-to-remove-background-noise)
+- [Noise suppression vs noise cancellation](https://usekrisp.com/docs/guides/noise-suppression-vs-noise-cancellation)
+- [AI meeting notes explained](https://usekrisp.com/docs/guides/ai-meeting-notes)
+- [How to transcribe a meeting](https://usekrisp.com/docs/guides/how-to-transcribe-meetings)
+- [What is accent conversion?](https://usekrisp.com/docs/guides/what-is-accent-conversion)
+
+## More
+- [What's new in Krisp (changelog)](https://usekrisp.com/docs/changelog)
+- [Blog](https://usekrisp.com/blog): practical tips on calls, noise, and meetings.
+- [Affiliate disclosure](https://usekrisp.com/legal/affiliate-disclosure)

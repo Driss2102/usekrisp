@@ -1,0 +1,64 @@
+---
+title: "What Is the Krisp Microphone (and How to Use It)"
+description: What the Krisp Microphone and Krisp Speaker are, how to select them in any app, and how to fix them when they do not appear.
+sidebar_label: Krisp Microphone
+sidebar_position: 10
+keywords: [krisp microphone, krisp speaker, krisp virtual microphone, select krisp microphone]
+last_update:
+  date: 2026-08-21
+---
+
+import { PricingCTA, FAQAccordion, DisclosureNotice } from '@site/src/components';
+
+# What is the Krisp Microphone?
+
+<DisclosureNotice />
+
+**The Krisp Microphone is a virtual device Krisp creates, so any app can get your cleaned-up audio.** Instead of changing settings in every app, you pick "Krisp Microphone" once, and Krisp cleans your sound before it reaches the call.
+
+## How it works
+
+When you install Krisp, it adds two virtual devices: a **Krisp Microphone** and a **Krisp Speaker**. Your real mic feeds into Krisp, Krisp removes the noise, and the clean signal comes out of the Krisp Microphone that your apps then use. The Krisp Speaker does the same for incoming audio.
+
+## How to select it
+
+In any calling app's audio settings:
+
+1. Set **Microphone** to **Krisp Microphone**.
+2. Set **Speaker** to **Krisp Speaker** if you also want to clean incoming audio.
+
+That is all. See per-app steps for [Zoom](/docs/use/zoom), [Microsoft Teams](/docs/use/microsoft-teams), [Google Meet](/docs/use/google-meet), and [Discord](/docs/use/discord).
+
+## If the Krisp Microphone does not show up
+
+- Make sure the Krisp app is open and running.
+- On Mac, grant microphone permission in System Settings. See [Krisp for Mac](/docs/guides/krisp-for-mac).
+- Restart the calling app so it re-reads the device list.
+
+<PricingCTA
+  title="Get the Krisp Microphone"
+  subtitle="Install the free plan, no card, and select Krisp Microphone in your next call."
+  location="microphone-mid"
+/>
+
+## FAQ
+
+<FAQAccordion
+  items={[
+    {
+      q: 'What is the Krisp Microphone?',
+      a: 'It is a virtual microphone Krisp creates. You select it in your calling app, and it delivers your audio with the background noise already removed.',
+    },
+    {
+      q: 'Why can I not see the Krisp Microphone in my app?',
+      a: 'Make sure the Krisp app is running, grant microphone permission on Mac, and restart your calling app so it refreshes the list of audio devices.',
+    },
+  ]}
+/>
+
+## Related guides
+
+- [All how-to guides](/docs/guides/): the full library.
+- [Remove background noise](/docs/guides/how-to-remove-background-noise/): the core cleanup workflow.
+- [Krisp for Mac](/docs/guides/krisp-for-mac/): input setup on macOS.
+- [Is Krisp worth it?](/docs/review/is-krisp-worth-it/): our full verdict.

@@ -1,0 +1,63 @@
+---
+title: "Krisp for Mac: Setup and Microphone Permissions (2026)"
+description: How to set up Krisp on a Mac, including the macOS microphone permissions that trip people up.
+sidebar_label: Krisp for Mac
+sidebar_position: 9
+keywords: [krisp mac, krisp for mac, krisp macos, krisp microphone permission mac]
+last_update:
+  date: 2026-08-21
+---
+
+import { PricingCTA, FAQAccordion, DisclosureNotice } from '@site/src/components';
+
+# Krisp for Mac
+
+<DisclosureNotice />
+
+**Krisp runs natively on Mac, and setup is quick, but there is one macOS step that catches people out: microphone permissions.** Here is the full setup, including the part Apple hides in System Settings.
+
+## Install and sign in
+
+1. Download the Krisp app for Mac from the official site and open the installer. See our [download guide](/docs/guides/how-to-download-krisp) for the general steps.
+2. Sign in or create a free account.
+3. Krisp adds a virtual microphone and speaker that your calling apps can use.
+
+## Grant microphone permission (the step people miss)
+
+macOS blocks apps from using the mic until you allow it. If Krisp is not cleaning your audio, this is almost always why.
+
+1. Open **System Settings**, then **Privacy and Security**, then **Microphone**.
+2. Turn on the toggle for **Krisp**.
+3. Restart Krisp if it was already open.
+
+## Select Krisp in your calling app
+
+In your app's audio settings, choose **Krisp Microphone** and **Krisp Speaker**. We have per-app guides for [Zoom](/docs/use/zoom), [Teams](/docs/use/microsoft-teams), and [Google Meet](/docs/use/google-meet).
+
+<PricingCTA
+  title="Set up Krisp on your Mac"
+  subtitle="The free plan needs no card, so you can test it on a real call right away."
+  location="mac-mid"
+/>
+
+## FAQ
+
+<FAQAccordion
+  items={[
+    {
+      q: 'Does Krisp work on Mac?',
+      a: 'Yes. Krisp has a native Mac app, alongside Windows and mobile apps. Just remember to grant microphone permission in System Settings under Privacy and Security.',
+    },
+    {
+      q: 'Why is Krisp not working on my Mac?',
+      a: 'The most common cause is that macOS has not been given microphone permission for Krisp. Enable it in System Settings, Privacy and Security, Microphone, then restart Krisp.',
+    },
+  ]}
+/>
+
+## Related guides
+
+- [All how-to guides](/docs/guides/): the full library.
+- [Download and install Krisp](/docs/guides/how-to-download-krisp/): the full install steps.
+- [Set up your microphone](/docs/guides/krisp-microphone/): pick the right input on macOS.
+- [Is Krisp worth it?](/docs/review/is-krisp-worth-it/): our full verdict.

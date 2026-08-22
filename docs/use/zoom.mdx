@@ -1,0 +1,57 @@
+---
+title: "How to Remove Background Noise on Zoom with Krisp (2026)"
+description: A step-by-step guide to setting up Krisp noise cancellation on Zoom, plus the one Zoom setting to change.
+sidebar_label: Krisp on Zoom
+sidebar_position: 1
+keywords: [krisp zoom, zoom background noise, zoom noise cancellation, remove noise zoom]
+last_update:
+  date: 2026-08-21
+---
+
+import { FAQAccordion, PricingCTA, DisclosureNotice } from '@site/src/components';
+
+# Krisp on Zoom
+
+<DisclosureNotice />
+
+Zoom has its own noise suppression, but it is limited and only cleans your outgoing audio. Krisp cleans both directions and works far more aggressively on background noise. Here is how to set it up.
+
+## Step by step
+
+1. Download and install Krisp, then open it.
+2. In Krisp, set your real microphone and speaker as the input and output devices, and toggle noise cancellation on.
+3. Open Zoom, go to **Settings > Audio**.
+4. Under **Microphone**, choose **Krisp Microphone**. Under **Speaker**, choose **Krisp Speaker**.
+5. Set Zoom's own **Background noise suppression** to **Low**. This stops Zoom from fighting Krisp, so Krisp does the heavy lifting.
+
+That is it. Krisp now removes keyboard noise, fans, traffic, and background chatter from your calls.
+
+<PricingCTA
+  title="Set it up before your next Zoom call"
+  subtitle="The free plan covers 60 minutes a day with no card, enough to test it live."
+  location="zoom-mid"
+/>
+
+## FAQ
+
+<FAQAccordion
+  items={[
+    {
+      q: 'Should I turn off Zoom noise suppression when using Krisp?',
+      a: 'Set Zoom noise suppression to Low rather than off. Low does not interfere with Krisp, while higher settings can double-process and hurt quality.',
+    },
+    {
+      q: 'Does Krisp on Zoom clean the other person\'s noise too?',
+      a: 'Yes. Krisp is bidirectional, so it can remove noise from incoming audio as well, which helps when someone else on the call is in a noisy place.',
+    },
+  ]}
+/>
+
+Next: see the full [Krisp review](/docs/review/) or compare it with [built-in and rival tools](/docs/compare/).
+
+## Related setup guides
+
+- [Use Krisp on all your apps](/docs/use/): the full list of setup guides.
+- [Krisp on Microsoft Teams](/docs/use/microsoft-teams/): same steps, inside Teams.
+- [Krisp on Google Meet](/docs/use/google-meet/): clean audio in the browser.
+- [Is Krisp worth it?](/docs/review/is-krisp-worth-it/): our full verdict.

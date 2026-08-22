@@ -1,0 +1,61 @@
+---
+title: "Krisp for Streamers and Gamers (2026): Clean Voice, No Bulky Setup"
+description: How streamers and gamers use Krisp for clean voice in Discord and OBS, and when NVIDIA Broadcast is the better fit.
+sidebar_label: Krisp for streamers
+sidebar_position: 2
+keywords: [krisp for streamers, krisp obs, krisp discord streaming, noise cancellation for streaming]
+last_update:
+  date: 2026-08-21
+---
+
+import { PricingCTA, FAQAccordion, DisclosureNotice } from '@site/src/components';
+
+# Krisp for streamers and gamers
+
+<DisclosureNotice />
+
+Mechanical keyboards, fans, and a mic close to your face are a recipe for a noisy stream. Krisp strips that out in real time before it hits Discord, OBS, or your capture software, without a hardware chain or a treated room.
+
+## Why streamers use Krisp
+
+- **Removes keyboard clatter and fan noise** while you talk, so your voice stays front and center.
+- **Works across your whole setup:** the same clean audio flows into Discord, OBS, and any recording tool, because Krisp sits at the system level.
+- **No special hardware required.** It runs on a normal laptop or PC.
+
+## Quick setup
+
+1. Install and open Krisp, set your real mic and speaker, and enable noise cancellation.
+2. In **Discord**, set your input device to **Krisp Microphone**.
+3. In **OBS**, add an Audio Input Capture using **Krisp Microphone**.
+
+## When NVIDIA Broadcast is the better pick
+
+If you have an NVIDIA RTX graphics card and only need to clean your outgoing voice, NVIDIA Broadcast is a strong free option. Krisp wins when you are on a laptop, do not have an RTX card, or want the same clean audio on calls too. See our [Krisp vs NVIDIA Broadcast](/docs/compare/krisp-vs-nvidia-broadcast) comparison.
+
+<PricingCTA
+  title="Clean up your stream audio"
+  subtitle="The free plan covers 60 minutes a day with no card, enough to test it on a stream or a Discord call."
+  location="streamers-mid"
+/>
+
+## FAQ
+
+<FAQAccordion
+  items={[
+    {
+      q: 'Does Krisp work with OBS?',
+      a: 'Yes. Because Krisp adds a virtual microphone, you select Krisp Microphone as an Audio Input Capture in OBS, and your voice is filtered before it hits the stream.',
+    },
+    {
+      q: 'Krisp or NVIDIA Broadcast for streaming?',
+      a: 'NVIDIA Broadcast is great if you have an RTX card and only need outgoing cleanup. Krisp is more flexible: it runs on any machine, cleans both directions, and works on calls too.',
+    },
+  ]}
+/>
+
+## Related reading
+
+- [Krisp for your use case](/docs/for/): all the roles we cover.
+- [Krisp for podcasters](/docs/for/podcasters/): the recording-focused setup.
+- [Set up your microphone](/docs/guides/krisp-microphone/): clean input for your stream.
+- [Is Krisp worth it?](/docs/review/is-krisp-worth-it/): our full verdict.

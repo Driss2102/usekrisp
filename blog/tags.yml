@@ -1,0 +1,39 @@
+krisp:
+  label: Krisp
+  permalink: /krisp
+  description: Posts about the Krisp app and its features.
+
+announcements:
+  label: Announcements
+  permalink: /announcements
+  description: News and updates from Krisp Guide.
+
+meetings:
+  label: Meetings
+  permalink: /meetings
+  description: Getting more out of your meetings and calls.
+
+remote-work:
+  label: Remote work
+  permalink: /remote-work
+  description: Working clearly from home and hybrid setups.
+
+noise-cancellation:
+  label: Noise cancellation
+  permalink: /noise-cancellation
+  description: Removing background noise from calls and recordings.
+
+productivity:
+  label: Productivity
+  permalink: /productivity
+  description: Working smarter on calls and meetings.
+
+transcription:
+  label: Transcription
+  permalink: /transcription
+  description: Turning speech into text and notes.
+
+audio-quality:
+  label: Audio quality
+  permalink: /audio-quality
+  description: Sounding clear and professional on calls.

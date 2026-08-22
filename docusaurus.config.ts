@@ -114,7 +114,7 @@ const config: Config = {
       tagName: 'meta',
       attributes: {
         name: 'impact-site-verification',
-        value: '3a6bb663-4aba-4885-af96-d7db3a097020',
+        value: 'd572395c-a2e5-45d3-b4f6-8d301a7fefad',
       },
     },
     { tagName: 'link', attributes: { rel: 'preconnect', href: 'https://fonts.googleapis.com' } },

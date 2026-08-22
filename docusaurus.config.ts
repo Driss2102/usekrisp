@@ -109,6 +109,14 @@ const config: Config = {
         ],
       }),
     },
+    // Impact.com website ownership verification (uses `value`, not `content`).
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'impact-site-verification',
+        value: '3a6bb663-4aba-4885-af96-d7db3a097020',
+      },
+    },
     { tagName: 'link', attributes: { rel: 'preconnect', href: 'https://fonts.googleapis.com' } },
     { tagName: 'link', attributes: { rel: 'preconnect', href: 'https://fonts.gstatic.com', crossorigin: 'anonymous' } },
     {

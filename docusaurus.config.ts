@@ -170,7 +170,9 @@ const config: Config = {
   themeConfig: {
     image: 'img/social-card.jpg',
     colorMode: {
-      respectPrefersColorScheme: true,
+      defaultMode: 'light',
+      disableSwitch: true,
+      respectPrefersColorScheme: false,
     },
     metadata: [
       { name: 'keywords', content: 'krisp, krisp review, krisp ai, noise cancellation, ai meeting notes, krisp alternatives, krisp pricing, krisp zoom' },
@@ -179,8 +181,9 @@ const config: Config = {
     navbar: {
       title: '',
       logo: {
-        alt: 'Krisp Guide - independent guide to Krisp noise cancellation and AI notes',
+        alt: 'Use Krisp - independent guide to Krisp noise cancellation and AI meeting notes',
         src: 'img/logo.png',
+        srcDark: 'img/logo-dark.png',
       },
       items: [
         {

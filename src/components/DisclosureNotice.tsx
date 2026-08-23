@@ -27,9 +27,8 @@ export default function DisclosureNotice(): React.ReactElement | null {
   return (
     <div className="disclosure-notice" data-nosnippet>
       <p>
-        <strong>Transparency:</strong> We may earn a commission if you buy through our links.
-        This helps support our work at no extra cost to you.{' '}
-        <Link to="/legal/affiliate-disclosure">Read our full disclosure</Link>.
+        Contains affiliate links.{' '}
+        <Link to="/legal/affiliate-disclosure/">Disclosure</Link>.
       </p>
     </div>
   );

@@ -310,12 +310,9 @@
 
 /* --------------------------------------------------------- Disclosure notice */
 .disclosure-notice {
-  font-size: 0.85rem;
-  background: var(--kg-surface-alt);
-  border: 1px solid var(--kg-border);
-  border-radius: var(--ifm-global-radius);
-  padding: 0.6rem 1rem;
-  margin: 1.5rem 0;
+  font-size: 0.8rem;
+  color: var(--ifm-color-emphasis-600);
+  margin: 0.75rem 0 1.5rem;
 }
 .disclosure-notice p {
   margin: 0;

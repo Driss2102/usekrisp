@@ -55,6 +55,11 @@ const config: Config = {
         theme: {
           customCss: './src/css/custom.css',
         },
+        sitemap: {
+          // Keep utility/thin routes out of the sitemap: the /search page is
+          // noindex, and blog tag archives are thin aggregations we noindex.
+          ignorePatterns: ['/search/', '/blog/tags/**'],
+        },
         // Once you have a Google Analytics 4 property, add its id here:
         // gtag: { trackingID: 'G-XXXXXXX' },
       } satisfies Preset.Options,
@@ -74,6 +79,40 @@ const config: Config = {
         highlightSearchTermsOnTargetPage: true,
       },
     ],
+  ],
+
+  plugins: [
+    // Strip the " | Krisp Guide" site-title suffix from <title> and social
+    // titles in the built HTML, so page titles fit fully in search results.
+    () => ({
+      name: 'strip-site-title-suffix',
+      async postBuild({outDir}: {outDir: string}) {
+        const {readdir, readFile, writeFile} = require('fs/promises');
+        const {join} = require('path');
+        const suffix = ' | Krisp Guide';
+        const walk = async (dir: string): Promise<void> => {
+          for (const entry of await readdir(dir, {withFileTypes: true})) {
+            const full = join(dir, entry.name);
+            if (entry.isDirectory()) {
+              await walk(full);
+            } else if (entry.name.endsWith('.html')) {
+              const html: string = await readFile(full, 'utf8');
+              const next = html
+                .split(`${suffix}</title>`)
+                .join('</title>')
+                .split(`${suffix}"/>`)
+                .join('"/>')
+                .split(`${suffix}" />`)
+                .join('" />');
+              if (next !== html) {
+                await writeFile(full, next);
+              }
+            }
+          }
+        };
+        await walk(outDir);
+      },
+    }),
   ],
 
   headTags: [

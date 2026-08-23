@@ -60,8 +60,10 @@ const config: Config = {
           // noindex, and blog tag archives are thin aggregations we noindex.
           ignorePatterns: ['/search/', '/blog/tags/**'],
         },
-        // Once you have a Google Analytics 4 property, add its id here:
-        // gtag: { trackingID: 'G-XXXXXXX' },
+        gtag: {
+          trackingID: 'G-0SD8D7SZ9F',
+          anonymizeIP: true,
+        },
       } satisfies Preset.Options,
     ],
   ],

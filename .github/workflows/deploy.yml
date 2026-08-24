@@ -46,3 +46,19 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v5
+
+  indexnow:
+    runs-on: ubuntu-latest
+    needs: deploy
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+
+      - name: Wait for the GitHub Pages CDN to propagate
+        run: sleep 60
+
+      - name: Ping IndexNow (Bing, Yandex)
+        run: node scripts/submit-indexnow.mjs

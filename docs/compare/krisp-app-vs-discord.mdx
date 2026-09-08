@@ -1,0 +1,99 @@
+---
+title: "Discord Krisp vs Standard: Which to Pick, and Do You Need the App?"
+description: Discord's Krisp noise suppression versus Standard, and whether you still need the standalone Krisp app if you mostly talk on Discord.
+sidebar_label: Krisp on Discord vs the app
+sidebar_position: 11
+keywords: [discord krisp vs standard, krisp or standard discord, discord krisp, do i need krisp app discord, krisp vs standard noise suppression discord, what is krisp on discord]
+last_update:
+  date: 2026-09-08
+---
+
+import { ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+
+# Discord Krisp vs Standard, and do you need the app?
+
+<DisclosureNotice />
+
+In Discord's voice settings, **pick Krisp over Standard**: it removes more background noise. But Discord's built-in Krisp only cleans your microphone, inside Discord. If you also take calls in other apps, want the noise gone from what you hear, or want meeting notes, the standalone Krisp app does more.
+
+## Discord Krisp vs Standard: which should you pick?
+
+Pick **Krisp**. Discord's Voice and Video settings give two noise-suppression options, Standard and Krisp. Krisp is the more advanced AI model, and it is the same technology Discord licenses: Krisp's Voice AI powers audio on more than 200 million devices and is used by companies including Discord (per Krisp's own product summary, 2026). It strips more keyboard, fan, and room noise than Standard.
+
+When Standard makes sense: Krisp's AI uses more of your CPU. On an older or low-powered machine, or if your own voice starts sounding clipped, switch to Standard.
+
+## What Discord's built-in Krisp does, and does not do
+
+Discord's built-in Krisp runs on your **microphone, inside Discord**. It cleans the noise you send into a channel. It does not:
+
+- work in other apps (Zoom, Teams, Google Meet, your browser, or games outside Discord)
+- clean the audio you hear from other people
+- record, transcribe, or take notes
+
+## When the standalone Krisp app is worth it
+
+The standalone Krisp app adds three things the built-in version cannot:
+
+- It adds a virtual microphone and speaker, so the same noise removal works on top of Zoom, Teams, Meet, Webex, and any other calling app, not just Discord.
+- It is **bidirectional**: it removes background noise from your microphone and from the other person's incoming audio.
+- It includes an AI Note Taker that records without a bot joining, then generates transcripts, summaries, and action items.
+
+<ComparisonTable
+  competitorName="Discord's built-in Krisp"
+  competitorUrl="https://discord.com/"
+  rows={[
+    { feature: 'Where it works', krisp: 'Any calling app, via a virtual mic', competitor: 'Inside Discord only' },
+    { feature: 'Direction', krisp: 'Both ways (your mic and incoming audio)', competitor: 'Your microphone only' },
+    { feature: 'AI notes and transcription', krisp: 'Yes, bot-free', competitor: 'No' },
+    { feature: 'Setup', krisp: 'Install the app once', competitor: 'A setting in Discord' },
+    { feature: 'Cost', krisp: 'Free plan, 60 min/day noise cancellation', competitor: 'Free, inside Discord' },
+  ]}
+/>
+
+## Who should use which
+
+- **Only chat and game on Discord, and only need your own mic cleaned:** Discord's built-in Krisp is enough, and it is free. Set noise suppression to Krisp and move on.
+- **Take calls in other apps too, want cleaner incoming audio, or want meeting notes:** the standalone Krisp app is the better fit. Its free plan gives you 60 minutes of noise cancellation per day, with no credit card.
+
+<VerdictBox
+  rating="Discord-only: use the built-in. Beyond Discord: the app."
+  verdict="If Discord is the only place you talk and you just need your own mic cleaned, Discord's built-in Krisp is all you need, and it is free. The moment you take calls in other apps, want the noise gone from what you hear, or want notes, the standalone Krisp app does more."
+  pros={[
+    'Discord built-in Krisp: free, no install, strong microphone noise removal inside Discord',
+  ]}
+  cons={[
+    'Built-in is Discord-only, one direction, and takes no notes; the standalone app covers all three',
+  ]}
+  ctaText="Try Krisp free"
+  location="discord-verdict"
+/>
+
+## FAQ
+
+<FAQAccordion
+  items={[
+    {
+      q: 'Is Discord\'s Krisp the same as the Krisp app?',
+      a: 'It is the same underlying Krisp technology, but the built-in version only cleans your microphone inside Discord. The standalone app is bidirectional, works across every calling app, and adds AI notes.',
+    },
+    {
+      q: 'Should I use Standard or Krisp in Discord?',
+      a: 'Krisp, in almost all cases: it removes more background noise. Switch to Standard only if your computer struggles with the extra CPU load or your voice sounds clipped.',
+    },
+    {
+      q: 'Do I need to pay for Krisp if I use Discord?',
+      a: 'No. Discord\'s built-in Krisp is free. The standalone app also has a free plan (60 minutes of noise cancellation per day, no card); you only pay if you want unlimited use across every app, cleaner incoming audio, and AI notes.',
+    },
+    {
+      q: 'Does Discord\'s Krisp remove noise from people I hear?',
+      a: 'No. Discord\'s built-in Krisp cleans your outgoing microphone. To remove noise from the incoming audio too, you need the standalone Krisp app, which works in both directions.',
+    },
+  ]}
+/>
+
+## Related
+
+- [Set up Krisp on Discord](/docs/use/discord/): the step-by-step for the app.
+- [All Krisp alternatives](/docs/compare/): how Krisp compares to other tools.
+- [Krisp free plan explained](/docs/review/krisp-free-plan/): what you get at no cost.
+- [Is Krisp worth it?](/docs/review/is-krisp-worth-it/): our full verdict.

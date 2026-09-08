@@ -1,0 +1,73 @@
+---
+title: "Is Krisp Safe and Private? Does It Record Your Calls?"
+description: A straight answer on Krisp's privacy, what runs on your device versus the cloud, whether it records your calls, and its security certifications.
+sidebar_label: Is Krisp safe?
+sidebar_position: 12
+keywords: [is krisp safe, does krisp record calls, krisp privacy, is krisp safe to use, krisp data privacy, is krisp secure]
+last_update:
+  date: 2026-09-08
+---
+
+import { PricingCTA, FAQAccordion, DisclosureNotice } from '@site/src/components';
+
+# Is Krisp safe and private?
+
+<DisclosureNotice />
+
+Krisp is safe for most professional calls, and the answer comes down to one distinction: **noise cancellation runs on your device**, while the AI notes and transcription are separate cloud features you choose to turn on. If you only use noise removal, your raw audio is cleaned locally and never uploaded for that step.
+
+## Does Krisp record your calls?
+
+Not by default. Recording and transcription only happen when you turn on the **AI Note Taker**, which records without a bot joining and then generates transcripts, summaries, and action items. Noise cancellation on its own does not record anything.
+
+## What stays on your device, and what goes to the cloud
+
+This is the part worth understanding before you decide:
+
+- **On your device:** noise cancellation. Krisp processes noise removal locally, so your raw audio is cleaned on your machine rather than uploaded for that step.
+- **In the cloud, only if you enable it:** the AI Note Taker and transcription. Like any AI note-taker, these process your meeting audio on Krisp's servers to produce the transcript and summary.
+
+So if privacy is your main concern and you only want cleaner audio, you can run just the noise cancellation and keep the AI notes off.
+
+## Security and compliance
+
+Krisp supports **SOC 2, PCI DSS, and HIPAA**, with encryption in transit and at rest (availability depends on your plan and configuration, per Krisp's own product summary, 2026). That covers most workplace requirements, but if you work in a regulated field like healthcare or finance, confirm the specific compliance configuration and check your organization's own policy before turning on recording.
+
+## Who this is fine for, and who should check first
+
+- **Fine for:** most professional and personal calls, especially if you use noise cancellation on its own.
+- **Check first:** highly sensitive or regulated environments. Verify the compliance setup (HIPAA, PCI DSS) and whether your employer allows AI note-taking on internal calls.
+
+If you mainly want the on-device noise removal, Krisp's free plan gives you 60 minutes per day with no credit card, so you can try it without committing anything.
+
+<PricingCTA location="is-krisp-safe-cta" />
+
+## FAQ
+
+<FAQAccordion
+  items={[
+    {
+      q: 'Does Krisp record my calls?',
+      a: 'Not unless you turn on the AI Note Taker. Noise cancellation by itself does not record. Recording and transcripts only happen when you enable that feature.',
+    },
+    {
+      q: 'Does Krisp send my audio to the cloud?',
+      a: 'The noise-cancellation step runs on your device, so raw audio is cleaned locally. The AI notes and transcription are separate cloud features: if you use them, your meeting audio is processed on Krisp\'s servers, like any AI note-taker.',
+    },
+    {
+      q: 'Is Krisp secure enough for work?',
+      a: 'Krisp supports SOC 2, PCI DSS, and HIPAA with encryption in transit and at rest, though availability depends on your plan and configuration. For regulated fields, confirm the exact compliance setup and your organization\'s policy.',
+    },
+    {
+      q: 'Can I use Krisp without any cloud features?',
+      a: 'Yes. If you only run noise cancellation and leave the AI Note Taker off, the audio cleanup stays on your device.',
+    },
+  ]}
+/>
+
+## Related
+
+- [What is Krisp?](/docs/what-is-krisp/): the full feature overview.
+- [AI meeting notes with Krisp](/docs/guides/ai-meeting-notes/): how the cloud note-taking works.
+- [Is Krisp worth it?](/docs/review/is-krisp-worth-it/): our full verdict.
+- [Krisp free plan explained](/docs/review/krisp-free-plan/): what you get at no cost.

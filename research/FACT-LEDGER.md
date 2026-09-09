@@ -17,29 +17,30 @@ Last verified: 2026-08-21.
 
 ## Affiliate program
 
-### Krisp affiliate program: 30% recurring for 12 months, via Dub.co, 90-day cookie, 7-day trial.
-- Verdict: CONFIRMED (corrected 2026-08-22)
-- Figure: 30% recurring commission for 12 months on every paid subscription a referral starts (any plan, monthly or annual). Runs on **Dub.co** (partners.dub.co/marketplace/krisp), NOT Impact.com. **90-day cookie window.** Referrals get a **7-day free trial**. Krisp cites ~$8/month and 800,000+ professionals.
-- Source: Krisp program page on Dub.co (partners.dub.co/marketplace/krisp), provided by user 2026-08-22.
-- Program rules to respect: **No bidding on Krisp branded keywords in paid search (PPC).** Our organic-SEO strategy is fine. No misleading claims, no incentivized/artificial traffic, no spam.
-- Note: Business model, not site content. The `KRISP_AFFILIATE_URL` constant should be set to the Dub.co referral link once approved.
-- Usable site content: the **7-day free trial** is a great CTA line ("Try Krisp free, 7-day trial") and can be added to CTAs.
+### Krisp affiliate program: APPROVED via Impact.com. 30% paid + 30% recurring, 30-day cookie, 7-day trial.
+- Verdict: CONFIRMED (corrected 2026-09-09 — program is on Impact.com, NOT Dub.co; Dub Partner rejected the application)
+- Figure: Approved 2026-09-09. **30% commission on paid subscriptions + 30% on recurring subscriptions (USD).** Last-click attribution. **30-day click cookie window.** 400-day parent-action window for recurring. Action locking 27 days after month end, payout 20 days after lock. Referrals get Krisp's **7-day free trial**.
+- Live tracking link: `https://krisp.pxf.io/jR4eQP` (Impact domain krisp.pxf.io). Set in `KRISP_AFFILIATE_URL` in src/constants.ts on 2026-09-09.
+- Source: Impact.com contract acceptance email + Impact link builder, 2026-09-09.
+- Program rules to respect (all currently satisfied by the site): **Direct Linking NOT allowed** (CTAs go via our site, not direct-to-krisp). **No branded terms ("Krisp" + variants/misspellings) in paid search** — we do organic only. **No Krisp-branded social accounts.** No "official site / authorized wholesaler" claims. Only affiliate-program-provided coupons. No political/violent/hate/adult content. Advertiser does NOT allow a media-partner tracking pixel.
+- Usable site content: the **7-day free trial** is the honest CTA line ("Try Krisp free for 7 days, no card").
 
 ---
 
 ## Pricing and plans
 
-### Free plan: 60 minutes/day of noise cancellation, unlimited transcription, a small number of AI notes/day, no card.
-- Verdict: CONFIRMED
-- Figure: Free plan includes 60 minutes per day of noise cancellation, unlimited transcription, and about 2 AI meeting notes per day. No credit card required.
-- Source: Multiple 2026 reviews (aiproductivity.ai/tools/krisp, hamsterstack.com/pricing/krisp), cross-checked 2026-08-21.
-- Approved wording: Krisp's free plan gives you 60 minutes of noise cancellation per day, unlimited transcription, and a couple of AI notes per day, with no credit card.
+### No permanent free plan. Krisp offers a 7-day free trial, then paid plans (Core / Advanced / Enterprise).
+- Verdict: CONFIRMED (CORRECTED 2026-09-09 — supersedes the old "60 min/day permanent free plan")
+- Figure: The only no-cost option is a **7-day Free Trial** ($0, no credit card, full access to premium features including unlimited noise cancellation and unlimited AI notes for the trial period). After 7 days it converts to a paid plan. There is NO permanent free tier and NO separate noise-cancellation-only plan (noise cancellation is bundled into every plan).
+- Source: krisp.ai/pricing, verified in-browser (rendered JS) 2026-09-09. Krisp's own pricing FAQ: "No separate plan, because Noise Cancellation is built into every Krisp plan."
+- ⚠️ HISTORY: Krisp previously offered a permanent free plan (60 min/day noise cancellation, unlimited transcription, ~2 AI notes/day, no card). That plan was discontinued. Do NOT claim a permanent free plan anywhere. The honest CTA is the **7-day free trial** ("Try Krisp free for 7 days, no card").
+- Approved wording: Krisp does not have a permanent free plan. It offers a 7-day free trial with full access and no credit card, after which you pick a paid plan.
 
-### Pro plan removes the limits; billed monthly or annually (annual is cheaper).
+### Paid plans: Core, Advanced, Enterprise (do NOT quote exact prices in body copy).
 - Verdict: CONFIRMED (do NOT quote the exact price in content)
-- Figure: Pro unlocks unlimited noise cancellation, unlimited AI summaries and action items, meeting history, recording, and compliance features. Around 8 USD/month on annual billing at time of writing, but this drifts and varies by region.
-- Source: G2 pricing, top50aitools.com/pricing/krisp, 2026.
-- Approved wording: Krisp Pro removes the daily limits and adds unlimited AI notes, recording, and compliance features. Prices change, so we link to Krisp's pricing page rather than quote a number.
+- Figure: **Core** (best for individuals/small teams): unlimited AI note-taker, unlimited noise cancellation, integrations, mobile app, multilingual transcript, ~1 hr/day accent conversion, 10 GB storage — ~$8/mo/user on annual. **Advanced**: unlimited accent conversion, advanced admin controls, more integrations, 60 GB storage — ~$15/mo/user on annual. **Enterprise**: SSO/SCIM, advanced security, on-device private transcription, HIPAA, unlimited storage — custom pricing. Annual billing ~50% cheaper than monthly.
+- Source: krisp.ai/pricing, verified in-browser 2026-09-09.
+- Approved wording: Krisp's paid plans are Core, Advanced, and Enterprise. Core suits individuals and small teams; Advanced adds unlimited accent conversion and admin controls; Enterprise adds security and compliance. Prices change, so we link to Krisp's pricing page rather than quote a number.
 
 ---
 

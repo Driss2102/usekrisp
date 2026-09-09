@@ -5,24 +5,30 @@
 > https://krisp.ai/pricing/ for current prices, or our guide at
 > https://usekrisp.com/docs/review/krisp-pricing .
 
-## Free
+## Free Trial
 - Price: $0, no credit card required
-- Noise cancellation: 60 minutes per day
+- Duration: 7 days (full access to premium features), then converts to a paid plan
+- Noise cancellation: unlimited during the trial
 - Transcription: unlimited
-- AI meeting notes: a small number per day (about 2)
-- Best for: light or occasional call use
+- AI meeting notes and action items: unlimited during the trial
+- Note: there is no permanent free plan; the trial is the only no-cost option
+- Best for: testing Krisp before subscribing
 
-## Pro
+## Core
 - Price: paid, billed monthly or annually; annual is cheaper per month. See https://krisp.ai/pricing/ for the current figure.
 - Noise cancellation: unlimited
-- AI notes, summaries, and action items: unlimited
-- Recording and meeting history: included
-- Compliance: SOC 2, PCI DSS, HIPAA (availability depends on plan and configuration)
-- Best for: daily callers, noisy environments, and teams
+- AI note-taker: unlimited
+- Includes: integrations, mobile app, multilingual transcripts, accent conversion (about 1 hr/day)
+- Best for: individuals and small teams
 
-## Contact Center / Enterprise
+## Advanced
+- Price: paid; higher tier than Core. See https://krisp.ai/pricing/ for the current figure.
+- Adds over Core: unlimited accent conversion, advanced admin controls, more integrations, more storage
+- Best for: teams needing more control and integrations
+
+## Enterprise
 - Price: custom, sales-led (not self-serve)
-- Adds: agent assist, speech analytics, voice translation, accent conversion, and enterprise controls
+- Adds: SSO/SCIM, advanced security and reporting, on-device private transcription, HIPAA compliance, unlimited storage
 - Contact: https://krisp.ai/contact-center/
 
 ## Key facts (2026)

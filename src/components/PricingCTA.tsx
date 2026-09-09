@@ -18,7 +18,7 @@ interface PricingCTAProps {
  *  ready to act. Links to the single KRISP_AFFILIATE_URL constant. */
 export default function PricingCTA({
   title = 'Ready to try Krisp?',
-  subtitle = 'Krisp works on top of Zoom, Teams, Meet, Discord and any calling app. The free plan needs no card.',
+  subtitle = 'Krisp works on top of Zoom, Teams, Meet, Discord and any calling app. The 7-day free trial needs no card.',
   buttonText = 'Try Krisp free',
   variant = 'inline',
   headingLevel = 2,
@@ -42,7 +42,7 @@ export default function PricingCTA({
         {buttonText}
       </AffiliateLink>
       {riskReversal && (
-        <p className="pricing-cta__risk-reversal">Free plan, no credit card required.</p>
+        <p className="pricing-cta__risk-reversal">7-day free trial, no credit card required.</p>
       )}
     </div>
   );

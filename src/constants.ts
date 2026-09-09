@@ -10,14 +10,14 @@
 export const SITE_ORIGIN = 'https://usekrisp.com';
 
 /**
- * Krisp affiliate link (via Krisp's program on Dub.co).
+ * Krisp affiliate link (via Krisp's program on Impact.com).
  *
- * ⚠️ PLACEHOLDER — this currently points to krisp.ai directly (no commission).
- * Once your application to Krisp's affiliate program on Dub.co is approved,
- * replace this with your real Dub.co referral link (from your partner dashboard).
+ * Live Impact tracking link. `krisp.pxf.io` is Krisp's Impact tracking domain,
+ * so every click on this URL is attributed to our partner account (30% recurring,
+ * 30-day click window). Empty landing page = it resolves to krisp.ai's home.
  * Every CTA on the site reads this one constant, so you only change it here.
  */
-export const KRISP_AFFILIATE_URL = 'https://krisp.ai/';
+export const KRISP_AFFILIATE_URL = 'https://krisp.pxf.io/jR4eQP';
 
 /** Krisp's public site, for non-commission reference links (docs, help centre). */
 export const KRISP_HOME = 'https://krisp.ai/';

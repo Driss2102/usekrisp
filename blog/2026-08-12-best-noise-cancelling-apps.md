@@ -15,11 +15,11 @@ date: 2026-08-12
 - **Bidirectional cleaning:** does it clean only your mic, or also the incoming audio?
 - **Works on any app:** a system-level tool beats one locked to a single platform.
 - **Hardware needs:** some options require a specific GPU.
-- **A real free tier:** so you can test it on your own calls.
+- **A free trial or free tier:** so you can test it on your own calls before paying.
 
 ## The options
 
-**Krisp.** The best plug-and-play choice for most people. It cleans both directions, works on top of any calling app, and has a generous free plan. It also adds AI notes. See our full [Krisp review](/docs/review/).
+**Krisp.** The best plug-and-play choice for most people. It cleans both directions, works on top of any calling app, and offers a full-featured 7-day free trial. It also adds AI notes. See our full [Krisp review](/docs/review/).
 
 **NVIDIA Broadcast.** Excellent if you own an NVIDIA RTX graphics card and mainly want to clean your outgoing voice. Free with the hardware, but not bidirectional. We compare them in [Krisp vs NVIDIA Broadcast](/docs/compare/krisp-vs-nvidia-broadcast).
 
@@ -33,4 +33,4 @@ date: 2026-08-12
 
 ## The short version
 
-For most people on a lot of calls, a system-level tool with a free tier is the right call, because it works everywhere and cleans both sides. Test it on a real, noisy meeting and you will know within one call whether it earns a place in your setup.
+For most people on a lot of calls, a system-level tool you can trial first is the right call, because it works everywhere and cleans both sides. Test it on a real, noisy meeting and you will know within one call whether it earns a place in your setup.

@@ -2,18 +2,18 @@
 
 > Krisp Guide is an independent review-and-setup guide for Krisp, the voice AI app for noise cancellation and AI meeting notes. It is not affiliated with Krisp Technologies Inc. Content is independent and may contain affiliate links.
 
-Krisp Guide helps people set up Krisp on any calling app, decide whether it is worth it, understand the free plan and pricing, and compare Krisp with alternatives. Facts are checked against Krisp's own product information and dated sources.
+Krisp Guide helps people set up Krisp on any calling app, decide whether it is worth it, understand the 7-day free trial and pricing, and compare Krisp with alternatives. Facts are checked against Krisp's own product information and dated sources.
 
 ## Start here
 - [What is Krisp?](https://usekrisp.com/docs/what-is-krisp): Plain-English explainer of the app, whether it is free, and which devices it runs on.
 - [Krisp Review (2026)](https://usekrisp.com/docs/review/): Independent review with rating, pros and cons, and who it is for.
-- [Is Krisp worth it?](https://usekrisp.com/docs/review/is-krisp-worth-it): When Krisp is worth paying for and when the free plan is enough.
+- [Is Krisp worth it?](https://usekrisp.com/docs/review/is-krisp-worth-it): When Krisp is worth paying for and when free built-in filters are enough.
 - [How to download Krisp](https://usekrisp.com/docs/guides/how-to-download-krisp): Install on Windows, Mac, and mobile.
 
 ## Pricing and plans
-- [Krisp pricing](https://usekrisp.com/docs/review/krisp-pricing): Free vs Pro, described qualitatively (links to Krisp for current prices).
-- [Krisp free plan](https://usekrisp.com/docs/review/krisp-free-plan): 60 minutes of noise cancellation per day, unlimited transcription, no credit card.
-- [Is Krisp Pro worth it?](https://usekrisp.com/docs/review/krisp-pro): What Pro unlocks.
+- [Krisp pricing](https://usekrisp.com/docs/review/krisp-pricing): 7-day free trial then paid plans (Core, Advanced, Enterprise), described qualitatively (links to Krisp for current prices).
+- [Krisp free plan](https://usekrisp.com/docs/review/krisp-free-plan): the honest 2026 answer. No permanent free plan; a 7-day free trial with full access and no credit card.
+- [Is Krisp Pro worth it?](https://usekrisp.com/docs/review/krisp-pro): what the paid plans unlock after the trial.
 
 ## Setup guides (per app)
 - [Krisp on Zoom](https://usekrisp.com/docs/use/zoom)

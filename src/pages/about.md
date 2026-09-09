@@ -26,7 +26,7 @@ I care about two things here: getting the facts right, and being honest about wh
 ## What this site covers
 
 - Setting up Krisp on Zoom, Teams, Google Meet, Discord, and more.
-- Whether Krisp is worth it, the free plan, and pricing.
+- Whether Krisp is worth it, the free trial, and pricing.
 - Honest comparisons with Otter, Fireflies, NVIDIA Broadcast, and other alternatives.
 - How-to guides on noise cancellation, AI meeting notes, and transcription.
 

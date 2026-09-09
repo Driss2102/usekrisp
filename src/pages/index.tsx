@@ -28,7 +28,7 @@ function HeroSection(): React.ReactElement {
             Read the review
           </Link>
         </div>
-        <p className="hero-section__cta-note">Free plan, no credit card, plus a 7-day free trial of Pro. A real test takes one call.</p>
+        <p className="hero-section__cta-note">7-day free trial, no credit card, full access. A real test takes one call.</p>
         <ul className="hero-section__proof">
           <li>Voice AI on <strong>200M+ devices</strong></li>
           <li>Used by <strong>Discord, Twilio, VMware</strong></li>
@@ -205,15 +205,15 @@ function FreePlanSection(): React.ReactElement {
       <div className="home-shell">
         <div className="home-pricing">
           <p className="home-eyebrow">Pricing</p>
-          <h2>Free to try. Pro when you need more.</h2>
+          <h2>Free to try. Paid when you need more.</h2>
           <p className="home-section__subtitle" style={{ margin: '0.5rem auto 0' }}>
-            The free plan includes 60 minutes of noise cancellation a day and unlimited transcription,
-            with no credit card. Pro removes the caps and starts with a 7-day free trial. Prices vary by
+            The 7-day free trial includes full access to noise cancellation, transcription, and AI notes,
+            with no credit card. After the trial you pick a paid plan. Prices vary by
             region, so we link rather than quote.
           </p>
           <div className="home-pricing__buttons">
             <Link className="cta-link cta-link--button home-pricing__outline-btn" to="/docs/review/krisp-pricing">
-              See what Pro includes
+              See the plans
             </Link>
             <AffiliateLink href={KRISP_AFFILIATE_URL} variant="button" location="home-pricing">
               Try Krisp free
@@ -226,9 +226,9 @@ function FreePlanSection(): React.ReactElement {
 }
 
 const faqs = [
-  { q: 'Is Krisp free?', a: 'Yes. The free plan gives you 60 minutes of noise cancellation per day, unlimited transcription, and a couple of AI notes per day, with no credit card.' },
+  { q: 'Is Krisp free?', a: 'Krisp has a 7-day free trial with full access and no credit card, but no permanent free plan. After the trial you pick a paid plan.' },
   { q: 'Does Krisp work on Zoom and Teams?', a: 'Yes. Krisp adds a virtual microphone that works on top of Zoom, Teams, Google Meet, Discord, and any calling app.' },
-  { q: 'Is Krisp worth it?', a: 'If you are on calls in a noisy space, the bidirectional noise cancellation is the best plug-and-play fix, and the free plan makes it risk-free to try.' },
+  { q: 'Is Krisp worth it?', a: 'If you are on calls in a noisy space, the bidirectional noise cancellation is the best plug-and-play fix, and the 7-day free trial makes it risk-free to try.' },
   { q: 'Is Krisp safe?', a: 'Noise cancellation runs on your device, and Krisp supports SOC 2, PCI DSS, and HIPAA on the right plans.' },
 ];
 

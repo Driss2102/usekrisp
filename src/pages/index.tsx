@@ -8,7 +8,7 @@ function HeroSection(): React.ReactElement {
   const stats = [
     { value: '200M+', label: 'Devices powered' },
     { value: '17', label: 'Languages' },
-    { value: 'Free', label: 'Plan, no card' },
+    { value: '7-day', label: 'Free trial, no card' },
     { value: '4.5/5', label: 'Our rating' },
   ];
   return (

@@ -1,4 +1,5 @@
 export { default as AffiliateLink } from './AffiliateLink';
+export { default as CompareSelector } from './CompareSelector';
 export { default as ComparisonTable } from './ComparisonTable';
 export { default as FAQAccordion } from './FAQAccordion';
 export { default as PricingCTA } from './PricingCTA';

@@ -24,7 +24,6 @@ export default function ComparisonTable({
   krispLabel = 'Krisp',
   rows,
   krispUrl = KRISP_AFFILIATE_URL,
-  competitorUrl,
   ctaText = 'Try Krisp free',
 }: ComparisonTableProps): React.ReactElement {
   const captionId = useId();
@@ -65,12 +64,6 @@ export default function ComparisonTable({
         <AffiliateLink href={krispUrl} variant="button" location="comparison-table">
           {ctaText}
         </AffiliateLink>
-        {competitorUrl && (
-          <a href={competitorUrl} target="_blank" rel="nofollow noopener noreferrer" className="comparison-table__secondary-cta">
-            Visit {competitorName}
-            <span className="sr-only"> (opens in a new tab)</span>
-          </a>
-        )}
       </div>
     </div>
   );

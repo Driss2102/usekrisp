@@ -1,0 +1,84 @@
+---
+title: "Krisp Not Working? Fixes for 2026 (Mic, CPU, Crackling)"
+description: A step-by-step fix for when Krisp is not working, covering device selection, high CPU, crackling audio, Bluetooth, and permissions.
+sidebar_label: Krisp not working (fixes)
+sidebar_position: 21
+keywords: [krisp not working, krisp not working fix, krisp high cpu, krisp crackling, krisp microphone not working]
+last_update:
+  date: 2026-09-17
+---
+
+import { PricingCTA, FAQAccordion, DisclosureNotice } from '@site/src/components';
+
+# Krisp not working? Step-by-step fixes
+
+<DisclosureNotice />
+
+**Most Krisp problems come from three things: the wrong input device is selected, your CPU is overloaded, or an app does not have microphone permission. Work through the checklist below in order and it usually clears in a couple of minutes.**
+
+## Quick checklist
+
+1. Make sure Krisp is **running** and noise cancellation is toggled **on**.
+2. In Krisp, confirm your **real microphone and speaker** are set as the devices Krisp listens to.
+3. In your calling app, set the **input** to **Krisp Microphone** (and output to **Krisp Speaker**).
+4. Close heavy apps if your **CPU** is maxed out.
+
+## "Krisp Microphone" is missing or not detected
+
+If your calling app does not show Krisp Microphone:
+
+- Restart Krisp, then fully quit and reopen the calling app so it re-reads the device list.
+- Reconnect the device: if you switched headsets or docked your laptop, reselect your real mic inside Krisp, then reselect Krisp Microphone in the app.
+- On Windows, check **Settings > Privacy and security > Microphone** and make sure microphone access is on for your apps.
+
+## High CPU (Krisp cuts out)
+
+Krisp does its noise cleaning on your device, so under heavy load some apps will disable it to protect performance. If Krisp keeps dropping:
+
+- Close CPU-heavy apps (games, video editors, lots of browser tabs) and test again.
+- Lower other real-time effects running at the same time.
+- On older machines, expect Krisp to need more headroom than a basic mic passthrough.
+
+## Crackling, robotic, or distorted audio
+
+- **Update your audio drivers.** Outdated or corrupt drivers are the most common cause of crackling.
+- **Test wired instead of Bluetooth.** Bluetooth headsets can introduce artifacts; a wired connection tells you if Bluetooth is the culprit.
+- **Turn off duplicate processing.** If your OS or calling app is also applying its own noise suppression, disable one of them so they do not fight.
+
+## Still not working
+
+- Sign out and back in, or reinstall Krisp to reset its virtual devices.
+- Confirm your plan is active if a paid feature stopped, since the [free trial](/docs/review/krisp-free-plan/) reverts after 7 days.
+- Check Krisp's status page and help centre for a current outage.
+
+<PricingCTA
+  title="Set Krisp up cleanly from scratch"
+  subtitle="A fresh install on the 7-day free trial, no card, is often the fastest fix. Then reselect Krisp Microphone in your app."
+  location="krisp-not-working-final"
+/>
+
+## FAQ
+
+<FAQAccordion
+  items={[
+    {
+      q: 'Why is Krisp not removing background noise?',
+      a: 'Usually because your calling app is still using your real microphone instead of Krisp Microphone. Set the app input to Krisp Microphone, and confirm noise cancellation is toggled on inside Krisp.',
+    },
+    {
+      q: 'Why does Krisp use so much CPU?',
+      a: 'Krisp cleans audio in real time on your device, which needs processing power. If your CPU is already maxed out, close heavy apps so Krisp has headroom, and it should stop cutting out.',
+    },
+    {
+      q: 'Why does my audio crackle with Krisp on?',
+      a: 'The usual causes are outdated audio drivers or a Bluetooth headset. Update your drivers and test with a wired connection, and disable any duplicate noise suppression in your OS or app.',
+    },
+  ]}
+/>
+
+## Related reading
+
+- [Discord Krisp not working](/docs/guides/discord-krisp-not-working/): the Discord-specific fixes.
+- [How to use Krisp](/docs/guides/how-to-use-krisp/): the correct setup, start to finish.
+- [Set up your microphone with Krisp](/docs/guides/krisp-microphone/): device selection in detail.
+- [Is Krisp worth it?](/docs/review/is-krisp-worth-it/): our full verdict.

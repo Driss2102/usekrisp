@@ -1,0 +1,75 @@
+---
+title: "Discord Krisp Not Working? How to Fix It (2026)"
+description: Fixes for when Krisp noise suppression is not working in Discord, covering the setting, mic permissions, high CPU, and the standalone app.
+sidebar_label: Discord Krisp not working
+sidebar_position: 22
+keywords: [discord krisp not working, krisp not working discord, discord noise suppression not working, fix discord krisp]
+last_update:
+  date: 2026-09-17
+---
+
+import { PricingCTA, FAQAccordion, DisclosureNotice } from '@site/src/components';
+
+# Discord Krisp not working?
+
+<DisclosureNotice />
+
+**When Krisp stops working in Discord, it is almost always one of three things: Krisp is not selected in Voice and Video settings, Discord does not have microphone permission, or your CPU is overloaded so Discord disabled it. Here is the fix, in order.**
+
+## 1. Turn Krisp on in Discord
+
+1. Open Discord **User Settings > Voice and Video**.
+2. Scroll to **Noise Suppression** and select **Krisp** (not Standard or None).
+3. Set your **Input Device** to your real microphone.
+4. Test with the **"Let's Check"** mic test.
+
+## 2. Fix microphone permissions
+
+If Discord picks up nothing at all:
+
+- On **Windows**, go to **Settings > Privacy and security > Microphone**, turn on microphone access, and make sure Discord is allowed.
+- On **Mac**, go to **System Settings > Privacy and Security > Microphone** and enable Discord.
+- In Discord, confirm the input volume bar moves when you speak.
+
+## 3. High CPU (Discord turns Krisp off)
+
+Discord will automatically disable Krisp when your CPU is too busy, to keep the call stable. If Krisp keeps switching itself off:
+
+- Close CPU-heavy apps and games, then re-enable Krisp.
+- Lower Discord's other processing, and avoid running a second noise-suppression tool at the same time.
+
+## 4. When to use the standalone Krisp app instead
+
+Discord's built-in Krisp only cleans **your outgoing mic**, inside Discord. If it keeps failing, or you also want the noise gone from what **you hear** and clean audio in other apps, the standalone Krisp app is more capable and more reliable. Set your Discord input to **Krisp Microphone** after installing it. See [Discord: Krisp vs Standard](/docs/compare/krisp-app-vs-discord/).
+
+<PricingCTA
+  title="Get more reliable audio on Discord"
+  subtitle="The standalone Krisp app cleans both directions and works across every app. Try it free for 7 days, no card."
+  location="discord-not-working-final"
+/>
+
+## FAQ
+
+<FAQAccordion
+  items={[
+    {
+      q: 'Why is Krisp greyed out or missing in Discord?',
+      a: 'Discord disables Krisp when your CPU is overloaded. Close heavy apps and games, then reopen Discord Voice and Video settings and select Krisp under Noise Suppression again.',
+    },
+    {
+      q: 'Krisp is on in Discord but people still hear noise. Why?',
+      a: 'Check that your Input Device is your real microphone, not a virtual or wrong device, and that only one noise-suppression tool is active. If it still fails, the standalone Krisp app set as Krisp Microphone is more reliable.',
+    },
+    {
+      q: 'Is Discord\'s built-in Krisp the same as the app?',
+      a: 'No. Discord\'s built-in Krisp cleans only your outgoing mic inside Discord. The standalone app cleans both directions, works across every app, and adds AI notes.',
+    },
+  ]}
+/>
+
+## Related reading
+
+- [Discord: Krisp vs Standard](/docs/compare/krisp-app-vs-discord/): which setting to pick, and whether you need the app.
+- [Krisp not working (general fixes)](/docs/guides/krisp-not-working/): the full troubleshooting checklist.
+- [Krisp on Discord setup](/docs/use/discord/): the correct configuration.
+- [Is Krisp worth it?](/docs/review/is-krisp-worth-it/): our full verdict.

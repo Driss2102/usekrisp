@@ -4,6 +4,10 @@ import Link from '@docusaurus/Link';
 import { AffiliateLink } from '@site/src/components';
 import { KRISP_AFFILIATE_URL } from '@site/src/constants';
 
+// Deterministic soundwave bar heights (px) for the hero backdrop. Fixed values
+// keep server and client render identical (no hydration mismatch).
+const WAVE = [40, 90, 150, 70, 170, 110, 200, 80, 140, 60, 190, 100, 160, 50, 180, 120, 210, 90, 150, 70, 175, 110, 60, 195, 130, 80];
+
 function HeroSection(): React.ReactElement {
   const stats = [
     { value: '200M+', label: 'Devices powered' },
@@ -13,27 +17,50 @@ function HeroSection(): React.ReactElement {
   ];
   return (
     <section className="hero-section">
-      <div className="hero-section__inner">
-        <p className="hero-section__eyebrow">Independent · Tested · Updated 2026</p>
-        <h1>Get crystal-clear calls with Krisp</h1>
-        <p className="hero-section__lead">
-          The independent guide to Krisp: how to remove background noise on any app,
-          what it costs, and how it compares to Otter, Fireflies, and NVIDIA.
-        </p>
-        <div className="hero-buttons">
-          <AffiliateLink href={KRISP_AFFILIATE_URL} variant="button" location="home-hero">
-            Try Krisp free
-          </AffiliateLink>
-          <Link className="cta-link cta-link--button home-pricing__outline-btn" to="/docs/review/">
-            Read the review
-          </Link>
+      <div className="hero-section__wave" aria-hidden="true">
+        {WAVE.map((h, i) => (
+          <i key={i} style={{ height: `${h}px`, animationDelay: `${(i % 8) * 0.12}s` }} />
+        ))}
+      </div>
+      <div className="hero-section__inner hero-section__grid">
+        <div className="hero-section__copy">
+          <p className="hero-section__eyebrow">Independent · Tested · Updated 2026</p>
+          <h1>Get <span className="hero-section__grad">crystal-clear</span> calls with Krisp</h1>
+          <p className="hero-section__lead">
+            The independent guide to Krisp: how to remove background noise on any app,
+            what it costs, and how it compares to Otter, Fireflies, and NVIDIA.
+          </p>
+          <div className="hero-buttons">
+            <AffiliateLink href={KRISP_AFFILIATE_URL} variant="button" location="home-hero">
+              Try Krisp free
+            </AffiliateLink>
+            <Link className="cta-link cta-link--button home-pricing__outline-btn" to="/docs/review/">
+              Read the review
+            </Link>
+          </div>
+          <p className="hero-section__cta-note">7-day free trial, no credit card, full access. A real test takes one call.</p>
+          <ul className="hero-section__proof">
+            <li>Voice AI on <strong>200M+ devices</strong></li>
+            <li>Used by <strong>Discord, Twilio, VMware</strong></li>
+            <li className="hero-section__rating"><Stars /> <strong>4.5/5</strong></li>
+          </ul>
         </div>
-        <p className="hero-section__cta-note">7-day free trial, no credit card, full access. A real test takes one call.</p>
-        <ul className="hero-section__proof">
-          <li>Voice AI on <strong>200M+ devices</strong></li>
-          <li>Used by <strong>Discord, Twilio, VMware</strong></li>
-          <li className="hero-section__rating"><Stars /> <strong>4.5/5</strong></li>
-        </ul>
+        <div className="hero-device" aria-hidden="true">
+          <div className="hero-device__top">
+            <span className="hero-device__label">Krisp Microphone</span>
+            <span className="hero-device__chip">● Noise removed</span>
+          </div>
+          <div className="hero-device__band">
+            {Array.from({ length: 20 }).map((_, i) => (
+              <i key={i} style={{ animationDelay: `${i * 0.06}s` }} />
+            ))}
+          </div>
+          <ul className="hero-device__rows">
+            <li><span className="hero-device__tick">✓</span> Two-way noise cancellation</li>
+            <li><span className="hero-device__tick">✓</span> AI notes &amp; action items</li>
+            <li><span className="hero-device__tick">✓</span> Works on any calling app</li>
+          </ul>
+        </div>
       </div>
       <div className="hero-section__inner">
         <dl className="trust-bar">
@@ -49,61 +76,19 @@ function HeroSection(): React.ReactElement {
   );
 }
 
-const ICON = 36;
-const apps = [
-  {
-    name: 'Zoom', desc: 'Kill background noise on Zoom', to: '/docs/use/zoom',
-    icon: (
-      <svg viewBox="0 0 48 48" width={ICON} height={ICON} aria-hidden="true">
-        <rect width="48" height="48" rx="11" fill="#2D8CFF" />
-        <path d="M11 19a2 2 0 0 1 2-2h13a3 3 0 0 1 3 3v9a2 2 0 0 1-2 2H14a3 3 0 0 1-3-3v-9Zm20 3.2 6-3.4v10.4l-6-3.4v-3.6Z" fill="#fff" />
-      </svg>
-    ),
-  },
-  {
-    name: 'Microsoft Teams', desc: 'Clean audio on Teams calls', to: '/docs/use/microsoft-teams',
-    icon: (
-      <svg viewBox="0 0 48 48" width={ICON} height={ICON} aria-hidden="true">
-        <rect width="48" height="48" rx="11" fill="#5B5FC7" />
-        <text x="24" y="33" fontSize="22" fontWeight="700" fill="#fff" textAnchor="middle" fontFamily="Segoe UI, Arial, sans-serif">T</text>
-      </svg>
-    ),
-  },
-  {
-    name: 'Google Meet', desc: 'Clean audio on Meet', to: '/docs/use/google-meet',
-    icon: (
-      <svg viewBox="0 0 48 48" width={ICON} height={ICON} aria-hidden="true">
-        <rect width="48" height="48" rx="11" fill="#00832D" />
-        <path d="M12 19a2 2 0 0 1 2-2h11a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H14a2 2 0 0 1-2-2V19Zm17 3 7-3.5v11L29 26v-4Z" fill="#fff" />
-      </svg>
-    ),
-  },
-  {
-    name: 'Discord', desc: 'No keyboard clatter on Discord', to: '/docs/use/discord',
-    icon: (
-      <svg viewBox="0 0 48 48" width={ICON} height={ICON} aria-hidden="true">
-        <rect width="48" height="48" rx="11" fill="#5865F2" />
-        <circle cx="19.5" cy="25" r="2.4" fill="#fff" />
-        <circle cx="28.5" cy="25" r="2.4" fill="#fff" />
-        <path d="M17 18c3-1.4 11-1.4 14 0M17 31c3 1.4 11 1.4 14 0" stroke="#fff" strokeWidth="2" fill="none" strokeLinecap="round" />
-      </svg>
-    ),
-  },
-  {
-    name: 'Slack', desc: 'Clean Slack huddles', to: '/docs/use/slack',
-    icon: (
-      <svg viewBox="0 0 48 48" width={ICON} height={ICON} aria-hidden="true">
-        <rect width="48" height="48" rx="11" fill="#611F69" />
-        <text x="24" y="33" fontSize="23" fontWeight="800" fill="#fff" textAnchor="middle" fontFamily="Arial, sans-serif">#</text>
-      </svg>
-    ),
-  },
+// Real product logos live in static/img/brands/ (served from /img/brands/).
+type AppItem = { name: string; desc: string; to: string; logo?: string; phoneIcon?: React.ReactElement };
+const apps: AppItem[] = [
+  { name: 'Zoom', desc: 'Kill background noise on Zoom', to: '/docs/use/zoom', logo: '/img/brands/zoom.svg' },
+  { name: 'Microsoft Teams', desc: 'Clean audio on Teams calls', to: '/docs/use/microsoft-teams', logo: '/img/brands/teams.svg' },
+  { name: 'Google Meet', desc: 'Clean audio on Meet', to: '/docs/use/google-meet', logo: '/img/brands/google-meet.svg' },
+  { name: 'Discord', desc: 'No keyboard clatter on Discord', to: '/docs/use/discord', logo: '/img/brands/discord.svg' },
+  { name: 'Slack', desc: 'Clean Slack huddles', to: '/docs/use/slack', logo: '/img/brands/slack.svg' },
   {
     name: 'Phone & VoIP', desc: 'Clean audio on calls', to: '/docs/use/phone-calls',
-    icon: (
-      <svg viewBox="0 0 48 48" width={ICON} height={ICON} aria-hidden="true">
-        <rect width="48" height="48" rx="11" fill="#4F46E5" />
-        <path d="M18 14c-1.1 0-2 .9-2 2 0 8.8 7.2 16 16 16 1.1 0 2-.9 2-2v-3.3c0-.9-.6-1.6-1.4-1.9l-3.6-1.2c-.8-.3-1.7 0-2.2.7l-.8 1c-2.6-1.3-4.7-3.4-6-6l1-.8c.7-.5 1-1.4.7-2.2l-1.2-3.6c-.3-.8-1-1.4-1.9-1.4H18Z" fill="#fff" />
+    phoneIcon: (
+      <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true" fill="currentColor">
+        <path d="M6.6 3c-.9 0-1.6.7-1.6 1.6C5 12.9 11.1 19 19.4 19c.9 0 1.6-.7 1.6-1.6v-2.8c0-.7-.5-1.3-1.2-1.5l-2.9-.7c-.6-.1-1.3.1-1.7.6l-.7.9c-2.4-1.2-4.3-3.1-5.5-5.5l.9-.7c.5-.4.7-1.1.6-1.7l-.7-2.9C9.1 3.5 8.5 3 7.8 3H6.6Z" />
       </svg>
     ),
   },
@@ -120,7 +105,9 @@ function AppChooserSection(): React.ReactElement {
           {apps.map((app) => (
             <Link key={app.name} className="card-link" to={app.to}>
               <div className="section-card app-card">
-                <span className="app-card__icon">{app.icon}</span>
+                <span className={`app-card__icon${app.phoneIcon ? ' app-card__icon--phone' : ''}`}>
+                  {app.phoneIcon ?? <img src={app.logo} alt="" width="26" height="26" loading="lazy" />}
+                </span>
                 <span className="app-card__name">{app.name}</span>
                 <span className="app-card__desc">{app.desc}</span>
               </div>
@@ -136,9 +123,9 @@ function AppChooserSection(): React.ReactElement {
 }
 
 const comparisons = [
-  { opponent: 'Otter', subtitle: 'Noise cancellation vs deep AI notes', verdict: 'Pick Krisp if noise is the problem, not just notes', to: '/docs/compare/krisp-vs-otter' },
-  { opponent: 'NVIDIA Broadcast', subtitle: 'Any laptop vs RTX-only hardware', verdict: 'Pick Krisp if you are not on an RTX machine', to: '/docs/compare/krisp-vs-nvidia-broadcast' },
-  { opponent: 'Fireflies', subtitle: 'Bot-free audio vs a meeting bot', verdict: 'Pick Krisp if you dislike a bot in the call', to: '/docs/compare/krisp-vs-fireflies' },
+  { opponent: 'Otter', logo: '/img/logos/otter.png', subtitle: 'Noise cancellation vs deep AI notes', verdict: 'Pick Krisp if noise is the problem, not just notes', to: '/docs/compare/krisp-vs-otter' },
+  { opponent: 'NVIDIA Broadcast', logo: '/img/logos/nvidia-broadcast.png', subtitle: 'Any laptop vs RTX-only hardware', verdict: 'Pick Krisp if you are not on an RTX machine', to: '/docs/compare/krisp-vs-nvidia-broadcast' },
+  { opponent: 'Fireflies', logo: '/img/logos/fireflies.png', subtitle: 'Bot-free audio vs a meeting bot', verdict: 'Pick Krisp if you dislike a bot in the call', to: '/docs/compare/krisp-vs-fireflies' },
 ];
 
 function CompareSection(): React.ReactElement {
@@ -152,6 +139,11 @@ function CompareSection(): React.ReactElement {
           {comparisons.map((c) => (
             <Link key={c.opponent} className="card-link" to={c.to}>
               <div className="section-card compare-card">
+                <div className="compare-card__head" aria-hidden="true">
+                  <span className="compare-card__mark compare-card__mark--krisp">K</span>
+                  <span className="compare-card__x">vs</span>
+                  <span className="compare-card__mark"><img src={c.logo} alt="" loading="lazy" /></span>
+                </div>
                 <h3 className="compare-card__title">
                   Krisp<span className="compare-card__vs">vs</span>
                   <span className="compare-card__opponent">{c.opponent}</span>
@@ -208,8 +200,9 @@ function FreePlanSection(): React.ReactElement {
           <h2>Free to try. Paid when you need more.</h2>
           <p className="home-section__subtitle" style={{ margin: '0.5rem auto 0' }}>
             The 7-day free trial includes full access to noise cancellation, transcription, and AI notes,
-            with no credit card. After the trial you pick a paid plan. Prices vary by
-            region, so we link rather than quote.
+            with no credit card. After the trial you pick a paid plan. See the{' '}
+            <Link to="/docs/review/krisp-free-plan/">Krisp free plan breakdown</Link>; prices vary by
+            region, so we link rather than quote them.
           </p>
           <div className="home-pricing__buttons">
             <Link className="cta-link cta-link--button home-pricing__outline-btn" to="/docs/review/krisp-pricing">
@@ -339,15 +332,21 @@ function Stars(): React.ReactElement {
   );
 }
 
-const trustLogos = ['Discord', 'Twilio', 'VMware', 'Zoom', 'Slack'];
+const trustLogos = [
+  { name: 'Discord', logo: '/img/brands/discord.svg' },
+  { name: 'Twilio', logo: '/img/brands/twilio.svg' },
+  { name: 'VMware', logo: '/img/brands/vmware.svg' },
+  { name: 'Zoom', logo: '/img/brands/zoom.svg' },
+  { name: 'Slack', logo: '/img/brands/slack.svg' },
+];
 function TrustLogosSection(): React.ReactElement {
   return (
     <section className="home-section home-section--compact trust-logos-section">
       <div className="home-shell">
         <p className="trust-logos__label">Krisp's Voice AI powers audio on 200M+ devices, trusted by</p>
         <div className="trust-logos">
-          {trustLogos.map((n) => (
-            <span key={n} className="trust-logos__item">{n}</span>
+          {trustLogos.map((b) => (
+            <img key={b.name} className="trust-logos__logo" src={b.logo} alt={b.name} width="112" height="28" loading="lazy" />
           ))}
         </div>
       </div>
@@ -408,11 +407,13 @@ function MeetingWorkflowSection(): React.ReactElement {
   );
 }
 
+// `seal` marks a full-color emblem (rendered as an image); the rest are flat
+// wordmarks shown as a uniform monochrome silhouette via CSS mask.
 const awards = [
-  { issuer: 'Gartner', text: 'Cool Vendor in Digital Workplace Programs and Applications' },
-  { issuer: 'Forbes AI 50', text: "America's Most Promising AI Companies" },
-  { issuer: "People's Voice Award", text: 'Winner in Productivity & Collaboration' },
-  { issuer: 'G2', text: 'Leader in Noise Cancellation and Voice Recognition' },
+  { issuer: 'Gartner', logo: '/img/brands/gartner.svg', text: 'Cool Vendor in Digital Workplace Programs and Applications' },
+  { issuer: 'Forbes AI 50', logo: '/img/brands/forbes.svg', text: "AI 50: America's Most Promising AI Companies" },
+  { issuer: "The Webby Awards", logo: '/img/brands/webby.svg', seal: true, text: "People's Voice Award: Productivity & Collaboration" },
+  { issuer: 'G2', logo: '/img/brands/g2.svg', text: 'Leader in Noise Cancellation and Voice Recognition' },
 ];
 function AwardsSection(): React.ReactElement {
   return (
@@ -426,7 +427,16 @@ function AwardsSection(): React.ReactElement {
         <div className="section-grid section-grid--3col">
           {awards.map((a) => (
             <div key={a.issuer} className="section-card award-card">
-              <span className="award-card__issuer">{a.issuer}</span>
+              {a.seal ? (
+                <img className="award-card__seal" src={a.logo} alt={a.issuer} loading="lazy" />
+              ) : (
+                <span
+                  className="award-card__logo"
+                  role="img"
+                  aria-label={a.issuer}
+                  style={{ WebkitMaskImage: `url(${a.logo})`, maskImage: `url(${a.logo})` }}
+                />
+              )}
               <p className="award-card__text">{a.text}</p>
             </div>
           ))}

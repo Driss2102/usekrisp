@@ -90,6 +90,25 @@
   color: var(--ifm-color-primary);
   text-decoration: underline;
 }
+/* Inline affiliate link: the word "Krisp" as a natural in-sentence link. */
+.cta-link--inline {
+  display: inline;
+  gap: 0;
+  font-weight: 600;
+  color: var(--ifm-color-primary);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+  text-decoration-color: color-mix(in srgb, var(--ifm-color-primary) 45%, transparent);
+  transition: text-decoration-color 0.15s ease;
+}
+.cta-link--inline:hover {
+  color: var(--ifm-color-primary-dark);
+  text-decoration-color: var(--ifm-color-primary);
+}
+[data-theme='dark'] .cta-link--inline:hover {
+  color: var(--ifm-color-primary-light);
+}
 
 /* Navbar CTA button */
 .navbar-cta {
@@ -342,10 +361,11 @@
   display: inline-flex;
   align-items: center;
   gap: 0.55rem;
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: 0.78rem;
-  font-weight: 700;
+  letter-spacing: 0.12em;
+  font-size: 0.74rem;
+  font-weight: 600;
   color: var(--ifm-color-primary);
   margin-bottom: 0.6rem;
 }
@@ -439,9 +459,25 @@
   font-size: 1.7rem;
 }
 .app-card__icon {
+  width: 46px;
+  height: 46px;
+  border-radius: 12px;
+  background: var(--kg-surface);
+  border: 1px solid var(--kg-border);
   display: inline-flex;
-  line-height: 0;
-  margin-bottom: 0.15rem;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 0.5rem;
+  box-shadow: 0 1px 2px rgba(20, 20, 50, 0.05);
+}
+.app-card__icon img {
+  width: 26px;
+  height: 26px;
+  object-fit: contain;
+  display: block;
+}
+.app-card__icon--phone {
+  color: var(--ifm-color-primary);
 }
 .app-card__name {
   font-weight: 700;
@@ -452,6 +488,45 @@
 }
 
 /* Comparison cards */
+.compare-card__head {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  margin-bottom: 0.9rem;
+}
+.compare-card__mark {
+  width: 38px;
+  height: 38px;
+  border-radius: 10px;
+  background: var(--kg-surface);
+  border: 1px solid var(--kg-border);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  flex: 0 0 auto;
+}
+.compare-card__mark img {
+  width: 24px;
+  height: 24px;
+  object-fit: contain;
+  display: block;
+}
+.compare-card__mark--krisp {
+  background: var(--ifm-color-primary);
+  border-color: transparent;
+  color: #fff;
+  font-family: 'Sora', var(--ifm-font-family-base);
+  font-weight: 800;
+  font-size: 1.05rem;
+}
+.compare-card__x {
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  font-size: 0.7rem;
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-500);
+  text-transform: uppercase;
+}
 .compare-card__title {
   display: flex;
   align-items: center;
@@ -475,63 +550,216 @@
 
 /* Hero */
 .hero-section {
+  position: relative;
+  overflow: hidden;
   background:
     radial-gradient(120% 80% at 50% -10%, rgba(79, 70, 229, 0.14), transparent 60%),
     var(--kg-hero);
   border-bottom: 1px solid var(--kg-border);
-  padding: 3.5rem 0 2.75rem;
-  text-align: center;
+  padding: 3rem 0 2.75rem;
 }
 .hero-section__inner {
   max-width: 840px;
   margin: 0 auto;
   padding: 0 1.25rem;
 }
+
+/* Soundwave backdrop: the voice-AI signature, rising from the hero floor. */
+.hero-section__wave {
+  position: absolute;
+  inset: auto 0 0 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 6px;
+  height: 220px;
+  opacity: 0.38;
+  pointer-events: none;
+  z-index: 0;
+}
+.hero-section__wave i {
+  width: 11px;
+  border-radius: 6px 6px 0 0;
+  background: linear-gradient(rgba(79, 70, 229, 0.35), rgba(79, 70, 229, 0));
+  transform-origin: bottom;
+}
+[data-theme='dark'] .hero-section__wave i {
+  background: linear-gradient(rgba(165, 180, 252, 0.4), rgba(165, 180, 252, 0));
+}
+@media (prefers-reduced-motion: no-preference) {
+  .hero-section__wave i {
+    animation: kg-wave 2.6s ease-in-out infinite;
+  }
+}
+@keyframes kg-wave {
+  0%, 100% { transform: scaleY(0.4); }
+  50% { transform: scaleY(1); }
+}
+
+/* Two-column hero: copy on the left, a device demo card on the right. */
+.hero-section__grid {
+  position: relative;
+  z-index: 1;
+  max-width: 1120px;
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: 2.75rem;
+  align-items: center;
+  padding-block: 1rem 1.5rem;
+}
+.hero-section__copy {
+  text-align: left;
+}
 .hero-section__eyebrow {
   display: inline-block;
-  padding: 0.35rem 0.9rem;
-  border: 1px solid var(--kg-border);
-  border-radius: 999px;
-  background: var(--kg-surface);
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: 0.72rem;
-  font-weight: 700;
+  letter-spacing: 0.12em;
+  font-size: 0.75rem;
+  font-weight: 600;
   color: var(--ifm-color-primary);
 }
 .hero-section h1 {
-  font-size: clamp(2.1rem, 5vw, 3.4rem);
-  line-height: 1.08;
+  font-size: clamp(2.1rem, 4.4vw, 3.55rem);
+  line-height: 1.06;
   letter-spacing: -0.025em;
-  margin: 1rem 0;
+  margin: 0.85rem 0 1rem;
+}
+.hero-section__grad {
+  background: linear-gradient(100deg, var(--ifm-color-primary), var(--ifm-color-primary-light));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
 }
 .hero-section__lead {
-  font-size: 1.15rem;
+  font-size: 1.13rem;
   opacity: 0.85;
-  max-width: 660px;
-  margin: 0 auto 1.5rem;
+  max-width: 52ch;
+  margin: 0 0 1.5rem;
 }
 .hero-buttons {
   display: flex;
-  gap: 1rem;
-  justify-content: center;
+  gap: 0.9rem;
   flex-wrap: wrap;
 }
 .hero-section__cta-note {
-  font-size: 0.85rem;
-  opacity: 0.7;
-  margin-top: 0.75rem;
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  font-size: 0.8rem;
+  opacity: 0.65;
+  margin-top: 0.9rem;
 }
 .hero-section__proof {
   list-style: none;
   display: flex;
-  gap: 1.5rem;
-  justify-content: center;
+  gap: 1.4rem;
   flex-wrap: wrap;
   padding: 0;
-  margin: 1.5rem auto 0;
-  font-size: 0.92rem;
+  margin: 1.5rem 0 0;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}
+
+/* Hero device card: a tiny "Krisp Microphone" panel with a live meter. */
+.hero-device {
+  background: var(--kg-surface);
+  border: 1px solid var(--kg-border);
+  border-radius: 20px;
+  box-shadow: 0 1px 2px rgba(20, 20, 50, 0.05), 0 20px 46px -20px rgba(30, 25, 90, 0.28);
+  padding: 1.25rem;
+}
+.hero-device__top {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+}
+.hero-device__label {
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  font-size: 0.78rem;
+  color: var(--ifm-color-emphasis-700);
+}
+.hero-device__chip {
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  font-size: 0.68rem;
+  font-weight: 600;
+  padding: 0.3rem 0.7rem;
+  border-radius: 999px;
+  background: color-mix(in srgb, var(--kg-pro) 14%, var(--kg-surface));
+  color: var(--kg-pro);
+  white-space: nowrap;
+}
+.hero-device__band {
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+  height: 92px;
+  padding: 0.75rem;
+  background: var(--kg-band);
+  border-radius: 12px;
+  margin-top: 0.9rem;
+}
+.hero-device__band i {
+  flex: 1;
+  height: 100%;
+  border-radius: 4px;
+  background: var(--ifm-color-primary);
   opacity: 0.85;
+  transform-origin: bottom;
+  transform: scaleY(0.4);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .hero-device__band i {
+    animation: kg-wave 1.8s ease-in-out infinite;
+  }
+}
+.hero-device__rows {
+  list-style: none;
+  padding: 0;
+  margin: 0.95rem 0 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.hero-device__rows li {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 0.9rem;
+}
+.hero-device__tick {
+  flex: 0 0 auto;
+  width: 1.4rem;
+  height: 1.4rem;
+  border-radius: 7px;
+  background: color-mix(in srgb, var(--kg-pro) 14%, var(--kg-surface));
+  color: var(--kg-pro);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 800;
+  font-size: 0.75rem;
+}
+@media (max-width: 850px) {
+  .hero-section__grid {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+    text-align: center;
+  }
+  .hero-section__copy {
+    text-align: center;
+  }
+  .hero-section__lead {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .hero-buttons,
+  .hero-section__proof {
+    justify-content: center;
+  }
+  .hero-device {
+    max-width: 440px;
+    margin: 0 auto;
+  }
 }
 
 /* Trust / stats bar */
@@ -554,15 +782,18 @@
   text-align: center;
 }
 .trust-bar__value {
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
   font-size: 1.5rem;
-  font-weight: 800;
+  font-weight: 600;
   color: var(--ifm-color-primary);
   margin: 0;
   line-height: 1.1;
+  font-variant-numeric: tabular-nums;
 }
 .trust-bar__label {
-  font-size: 0.8rem;
-  opacity: 0.75;
+  font-family: 'IBM Plex Mono', ui-monospace, monospace;
+  font-size: 0.76rem;
+  opacity: 0.72;
 }
 
 /* Pricing + final CTA sections */
@@ -633,6 +864,23 @@
   letter-spacing: -0.01em;
   opacity: 0.5;
 }
+.trust-logos__logo {
+  height: 26px;
+  width: auto;
+  max-width: 120px;
+  object-fit: contain;
+  opacity: 0.82;
+  transition: opacity 0.15s ease;
+}
+.trust-logos__logo:hover {
+  opacity: 1;
+}
+/* Dark theme: some brand marks (e.g. VMware) are dark, so render them as
+   uniform light silhouettes to stay visible on the dark ground. */
+[data-theme='dark'] .trust-logos__logo {
+  filter: brightness(0) invert(1);
+  opacity: 0.72;
+}
 
 /* How-it-works step cards */
 .step-card {
@@ -653,6 +901,31 @@
 /* Award cards */
 .award-card {
   text-align: center;
+}
+/* Issuer logo rendered as a uniform monochrome silhouette (CSS mask), so
+   four very different brand marks read as one tidy "recognition" set and
+   adapt to light/dark automatically. */
+.award-card__logo {
+  display: block;
+  height: 32px;
+  width: 100%;
+  max-width: 128px;
+  margin: 0.15rem auto 0.9rem;
+  background-color: var(--ifm-color-emphasis-700);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-position: center;
+  mask-position: center;
+  -webkit-mask-size: contain;
+  mask-size: contain;
+}
+/* Full-color award seal (e.g. the Webby emblem), shown at the same footprint. */
+.award-card__seal {
+  display: block;
+  height: 42px;
+  width: auto;
+  margin: 0.15rem auto 0.85rem;
+  object-fit: contain;
 }
 .award-card__issuer {
   display: inline-block;

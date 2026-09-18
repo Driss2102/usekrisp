@@ -24,3 +24,9 @@ scraper/output
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Local MCP config (contains machine paths)
+.mcp.json
+
+# Claude Code local dev config
+.claude/

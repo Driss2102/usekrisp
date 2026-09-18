@@ -6,6 +6,9 @@ tags: [meetings, remote-work]
 date: 2026-08-20
 ---
 
+import { AffiliateLink } from '@site/src/components';
+import { KRISP_AFFILIATE_URL } from '@site/src/constants';
+
 **How you sound on a call shapes how people judge your work, often more than what is on your screen.** The good news is that sounding professional is mostly about a few small fixes, not expensive gear.
 
 {/* truncate */}
@@ -19,7 +22,7 @@ The single biggest upgrade is distance. A laptop mic across the desk picks up th
 Rooms are noisier than you think: fans, traffic, a fridge, a keyboard. Two ways to handle it:
 
 - Turn on your calling app's built-in noise suppression. It helps with light noise.
-- For heavy or constant noise, use dedicated software that cleans your audio in real time. This is where a tool like Krisp comes in, and it works on top of any app. See our guide on [how to remove background noise](/docs/guides/how-to-remove-background-noise).
+- For heavy or constant noise, use dedicated software that cleans your audio in real time. This is where a tool like <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-intro">Krisp</AffiliateLink> comes in, and it works on top of any app. See our guide on [how to remove background noise](/docs/guides/how-to-remove-background-noise).
 
 ## 3. Fix the echo
 

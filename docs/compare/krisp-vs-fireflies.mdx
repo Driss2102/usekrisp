@@ -8,7 +8,8 @@ last_update:
   date: 2026-08-21
 ---
 
-import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { AffiliateLink, CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { KRISP_AFFILIATE_URL } from '@site/src/constants';
 
 # Krisp vs Fireflies
 
@@ -16,7 +17,7 @@ import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureN
 
 <CompareSelector current="fireflies" />
 
-Krisp and Fireflies both sit in your meetings, but they were built for different jobs. Krisp is a noise-cancellation tool that also takes notes without a bot. Fireflies is a notes-first assistant that sends a bot to join, transcribe, and organize meetings across your team. Pick based on the problem you actually have.
+<AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-intro">Krisp</AffiliateLink> and Fireflies both sit in your meetings, but they were built for different jobs. Krisp is a noise-cancellation tool that also takes notes without a bot. Fireflies is a notes-first assistant that sends a bot to join, transcribe, and organize meetings across your team. Pick based on the problem you actually have.
 
 <ComparisonTable
   competitorName="Fireflies"
@@ -77,7 +78,7 @@ They do not conflict. Some teams run Krisp for audio quality and bot-free captur
 
 ## Related comparisons
 
-Weighing note-takers against Krisp? Keep reading:
+Weighing note-takers against <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-body">Krisp</AffiliateLink>? Keep reading:
 
 - [All Krisp alternatives](/docs/compare/): every option, sorted by use case.
 - [Krisp vs Otter](/docs/compare/krisp-vs-otter/): the other big meeting-notes tool.

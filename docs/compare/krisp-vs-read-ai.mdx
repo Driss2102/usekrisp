@@ -8,7 +8,8 @@ last_update:
   date: 2026-09-13
 ---
 
-import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { AffiliateLink, CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { KRISP_AFFILIATE_URL } from '@site/src/constants';
 
 # Krisp vs Read.ai
 
@@ -16,7 +17,7 @@ import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureN
 
 <CompareSelector current="read-ai" />
 
-Read.ai is a meeting assistant built around analytics: summaries, action items, engagement and sentiment metrics, and links between your meetings, emails, and messages. Krisp is a noise-cancellation tool that also takes notes. They meet on summaries, but the core job is different.
+Read.ai is a meeting assistant built around analytics: summaries, action items, engagement and sentiment metrics, and links between your meetings, emails, and messages. <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-intro">Krisp</AffiliateLink> is a noise-cancellation tool that also takes notes. They meet on summaries, but the core job is different.
 
 <ComparisonTable
   competitorName="Read.ai"
@@ -41,7 +42,7 @@ You want meeting analytics: who spoke, engagement, sentiment, and a summary that
 
 ## Or use both
 
-They solve different problems and pair fine: Krisp for clean audio, Read.ai for the analytics and recap.
+They solve different problems and pair fine: <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-body">Krisp</AffiliateLink> for clean audio, Read.ai for the analytics and recap.
 
 <VerdictBox
   rating="Krisp 4.5 / Read.ai 4.2"

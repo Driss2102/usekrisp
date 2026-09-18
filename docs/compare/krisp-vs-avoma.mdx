@@ -8,7 +8,8 @@ last_update:
   date: 2026-09-13
 ---
 
-import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { AffiliateLink, CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { KRISP_AFFILIATE_URL } from '@site/src/constants';
 
 # Krisp vs Avoma
 
@@ -16,7 +17,7 @@ import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureN
 
 <CompareSelector current="avoma" />
 
-Avoma is a conversation-intelligence platform: meeting notes, CRM sync, coaching, and deal insights aimed largely at sales teams. Krisp is a noise-cancellation tool that also takes notes. They overlap on notes, but they are built for different jobs.
+Avoma is a conversation-intelligence platform: meeting notes, CRM sync, coaching, and deal insights aimed largely at sales teams. <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-intro">Krisp</AffiliateLink> is a noise-cancellation tool that also takes notes. They overlap on notes, but they are built for different jobs.
 
 <ComparisonTable
   competitorName="Avoma"
@@ -41,7 +42,7 @@ You are a sales or revenue team that needs conversation intelligence: CRM sync, 
 
 ## Or use both
 
-They do not conflict: Krisp for clean audio, Avoma for the sales intelligence layer on top.
+They do not conflict: <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-body">Krisp</AffiliateLink> for clean audio, Avoma for the sales intelligence layer on top.
 
 <VerdictBox
   rating="Krisp 4.5 / Avoma 4.2"

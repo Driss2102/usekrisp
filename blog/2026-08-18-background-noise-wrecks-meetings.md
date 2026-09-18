@@ -6,6 +6,9 @@ tags: [noise-cancellation, meetings]
 date: 2026-08-18
 ---
 
+import { AffiliateLink } from '@site/src/components';
+import { KRISP_AFFILIATE_URL } from '@site/src/constants';
+
 **Background noise does not just annoy people, it quietly makes meetings slower, less accurate, and more tiring.** Understanding why is the first step to fixing it.
 
 {/* truncate */}
@@ -26,7 +29,7 @@ On a sales call, a support call, or an interview, repetition and mishearing are 
 
 1. **Wear headphones.** This removes echo for free.
 2. **Turn on built-in noise suppression** in Zoom, Teams, or Meet. Fine for light noise.
-3. **Use real-time noise cancellation** for heavy or constant noise. Tools like Krisp clean both your microphone and the incoming audio, so a noisy participant on the other end stops derailing the call. See our [Krisp review](/docs/review/) for how that works.
+3. **Use real-time noise cancellation** for heavy or constant noise. Tools like <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-intro">Krisp</AffiliateLink> clean both your microphone and the incoming audio, so a noisy participant on the other end stops derailing the call. See our [Krisp review](/docs/review/) for how that works.
 
 ## The takeaway
 

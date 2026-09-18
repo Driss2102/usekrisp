@@ -8,7 +8,8 @@ last_update:
   date: 2026-09-13
 ---
 
-import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { AffiliateLink, CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { KRISP_AFFILIATE_URL } from '@site/src/constants';
 
 # Krisp vs Adobe Podcast
 
@@ -16,7 +17,7 @@ import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureN
 
 <CompareSelector current="adobe-podcast" />
 
-This is a comparison of two different moments. Krisp cleans your audio live, during a call. Adobe Podcast's Enhance Speech cleans audio after the fact, on a file you already recorded. Both remove noise and improve voices, but they are not used at the same time.
+This is a comparison of two different moments. <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-intro">Krisp</AffiliateLink> cleans your audio live, during a call. Adobe Podcast's Enhance Speech cleans audio after the fact, on a file you already recorded. Both remove noise and improve voices, but they are not used at the same time.
 
 <ComparisonTable
   competitorName="Adobe Podcast"
@@ -41,7 +42,7 @@ You already have a recording, such as a podcast episode or a voice memo, and you
 
 ## Or use both
 
-They fit different steps and pair perfectly: Krisp for clean live calls, Adobe Podcast to polish any recording you export afterward.
+They fit different steps and pair perfectly: <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-body">Krisp</AffiliateLink> for clean live calls, Adobe Podcast to polish any recording you export afterward.
 
 <VerdictBox
   rating="Krisp 4.5 / Adobe Podcast 4.4"

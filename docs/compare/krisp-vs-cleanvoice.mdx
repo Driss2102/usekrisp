@@ -8,7 +8,8 @@ last_update:
   date: 2026-09-13
 ---
 
-import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { AffiliateLink, CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureNotice } from '@site/src/components';
+import { KRISP_AFFILIATE_URL } from '@site/src/constants';
 
 # Krisp vs Cleanvoice
 
@@ -16,7 +17,7 @@ import { CompareSelector, ComparisonTable, VerdictBox, FAQAccordion, DisclosureN
 
 <CompareSelector current="cleanvoice" />
 
-Like Adobe Podcast, this is a comparison of two different moments. Krisp cleans your audio live, during a call. Cleanvoice edits audio after the fact, on a file you already recorded, and it goes further than noise by cutting filler words and dead air. They are not used at the same time.
+Like Adobe Podcast, this is a comparison of two different moments. <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-intro">Krisp</AffiliateLink> cleans your audio live, during a call. Cleanvoice edits audio after the fact, on a file you already recorded, and it goes further than noise by cutting filler words and dead air. They are not used at the same time.
 
 <ComparisonTable
   competitorName="Cleanvoice"
@@ -41,7 +42,7 @@ You already recorded something, such as a podcast or an interview, and you want 
 
 ## Or use both
 
-They fit different steps and pair well: Krisp for clean audio on the live call, Cleanvoice to tidy any recording you export afterward.
+They fit different steps and pair well: <AffiliateLink href={KRISP_AFFILIATE_URL} variant="inline" location="inline-body">Krisp</AffiliateLink> for clean audio on the live call, Cleanvoice to tidy any recording you export afterward.
 
 <VerdictBox
   rating="Krisp 4.5 / Cleanvoice 4.3"

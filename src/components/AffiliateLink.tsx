@@ -10,7 +10,7 @@ interface AffiliateLinkProps {
   href: string;
   children: React.ReactNode;
   className?: string;
-  variant?: 'button' | 'text' | 'card';
+  variant?: 'button' | 'text' | 'card' | 'inline';
   onClick?: React.MouseEventHandler<HTMLAnchorElement>;
   /** Optional placement label, e.g. "hero-primary", "verdict-box", "final-cta".
    *  Sent to GA as `cta_location` so per-placement conversion can be compared. */
@@ -59,6 +59,10 @@ export default function AffiliateLink({
     return child;
   });
 
+  // Inline links sit inside body prose, so they skip the visible ↗ icon and
+  // read as a normal word-level link (they keep the sponsored rel + GA event).
+  const isInline = variant === 'inline';
+
   return (
     <a
       href={href}
@@ -68,9 +72,11 @@ export default function AffiliateLink({
       onClick={handleClick}
     >
       {linkChildren}
-      <span className="cta-link__external-icon" aria-hidden="true">
-        ↗
-      </span>
+      {!isInline && (
+        <span className="cta-link__external-icon" aria-hidden="true">
+          ↗
+        </span>
+      )}
       <span className="sr-only"> (opens in a new tab)</span>
     </a>
   );

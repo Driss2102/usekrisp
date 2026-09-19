@@ -1,6 +1,6 @@
 ---
 title: "How to Transcribe a Zoom Meeting (2026)"
-description: The ways to get a transcript of a Zoom meeting, from Zoom's own feature to dedicated tools.
+description: "The ways to get a transcript of a Zoom meeting, from Zoom's own cloud transcription to third-party tools, with the clear pros and cons of each approach."
 slug: how-to-transcribe-a-zoom-meeting
 tags: [transcription, meetings]
 date: 2026-07-19

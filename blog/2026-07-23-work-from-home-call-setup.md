@@ -1,6 +1,6 @@
 ---
 title: "The Best Budget Work-From-Home Call Setup (2026)"
-description: A simple, affordable home setup for clear video calls, without buying studio gear.
+description: "A simple, affordable home setup for clear video calls without buying expensive gear, covering mic placement, lighting, headphones, and cutting background noise."
 slug: work-from-home-call-setup
 tags: [remote-work, audio-quality]
 date: 2026-07-23

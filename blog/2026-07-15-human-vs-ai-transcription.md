@@ -1,6 +1,6 @@
 ---
 title: "Human vs AI Transcription: Which Is Right for You?"
-description: When AI transcription is good enough and when you still need a human, in plain terms.
+description: "When AI transcription is good enough and when you still need a human, compared on accuracy, speed, cost, and the kinds of audio each one handles best."
 slug: human-vs-ai-transcription
 tags: [transcription]
 date: 2026-07-15

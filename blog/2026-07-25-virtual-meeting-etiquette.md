@@ -1,6 +1,6 @@
 ---
 title: "Virtual Meeting Etiquette in 2026: The Rules That Still Matter"
-description: The video call etiquette that actually improves meetings, minus the outdated advice.
+description: "The video call etiquette that actually improves meetings, minus the clichés, covering punctuality, muting, camera norms, and keeping calls short and useful."
 slug: virtual-meeting-etiquette
 tags: [meetings, remote-work]
 date: 2026-07-25

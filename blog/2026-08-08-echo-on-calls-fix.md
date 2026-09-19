@@ -1,6 +1,6 @@
 ---
 title: "What Causes Echo on Calls and How to Fix It"
-description: Echo on a call almost always has one cause. Here is what it is and the fastest fixes.
+description: "Echo on a call almost always has one cause, an open speaker feeding your mic. Here is what triggers echo on calls and the quick fixes, starting with headphones."
 slug: echo-on-calls-fix
 tags: [noise-cancellation, audio-quality]
 date: 2026-08-08

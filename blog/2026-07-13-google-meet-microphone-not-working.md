@@ -1,6 +1,6 @@
 ---
 title: "Google Meet Microphone Not Working: A Fix Checklist"
-description: A step-by-step checklist to fix a microphone that is not working in Google Meet.
+description: "A step-by-step checklist to fix a microphone that is not working in Google Meet, from browser permissions and device settings to quick hardware checks."
 slug: google-meet-microphone-not-working
 tags: [audio-quality, meetings]
 date: 2026-07-13

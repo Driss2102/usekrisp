@@ -24,9 +24,13 @@ export default function BlogListPage(props: Props): ReactNode {
   const {
     siteConfig: { title: siteTitle },
   } = useDocusaurusContext();
-  const { blogDescription, blogTitle, permalink } = metadata;
+  const { blogDescription, permalink } = metadata;
   const isBlogOnlyMode = permalink === '/';
-  const title = isBlogOnlyMode ? siteTitle : blogTitle;
+  // Descriptive, unique <title> per page (default was a bare "Blog").
+  const baseTitle = isBlogOnlyMode
+    ? siteTitle
+    : 'Krisp Blog: Noise Cancellation, Calls & Meeting Tips';
+  const title = isFirstPage ? baseTitle : `${baseTitle} (Page ${metadata.page})`;
 
   return (
     <HtmlClassNameProvider
@@ -39,22 +43,22 @@ export default function BlogListPage(props: Props): ReactNode {
       <SearchMetadata tag="blog_posts_list" />
       <BlogListPageStructuredData {...props} />
       <BlogLayout sidebar={sidebar}>
+        {/* H1 on every page (incl. paginated) so each has a clear primary heading. */}
+        <h1 className="blog-list-page__title">
+          Krisp Guide Blog: Noise Cancellation, Calls, and Meeting Tips
+          {!isFirstPage && ` (Page ${metadata.page})`}
+        </h1>
         {isFirstPage && (
-          <>
-            <h1 className="blog-list-page__title">
-              Krisp Guide Blog: Noise Cancellation, Calls, and Meeting Tips
-            </h1>
-            <nav className="blog-tag-filter" aria-label="Filter posts by topic">
-              <span className="blog-tag-filter__label">Topics</span>
-              <Link to="/blog">All</Link>
-              <Link to="/blog/tags/noise-cancellation/">Noise cancellation</Link>
-              <Link to="/blog/tags/meetings/">Meetings</Link>
-              <Link to="/blog/tags/remote-work/">Remote work</Link>
-              <Link to="/blog/tags/transcription/">Transcription</Link>
-              <Link to="/blog/tags/audio-quality/">Audio quality</Link>
-              <Link to="/blog/tags/productivity/">Productivity</Link>
-            </nav>
-          </>
+          <nav className="blog-tag-filter" aria-label="Filter posts by topic">
+            <span className="blog-tag-filter__label">Topics</span>
+            <Link to="/blog">All</Link>
+            <Link to="/blog/tags/noise-cancellation/">Noise cancellation</Link>
+            <Link to="/blog/tags/meetings/">Meetings</Link>
+            <Link to="/blog/tags/remote-work/">Remote work</Link>
+            <Link to="/blog/tags/transcription/">Transcription</Link>
+            <Link to="/blog/tags/audio-quality/">Audio quality</Link>
+            <Link to="/blog/tags/productivity/">Productivity</Link>
+          </nav>
         )}
         <div className="blog-cards">
           <BlogPostItems items={items} />

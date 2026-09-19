@@ -1,6 +1,6 @@
 ---
 title: "Free Ways to Transcribe Audio to Text (2026)"
-description: The genuinely free ways to turn audio into text, and where the free options stop being enough.
+description: "The genuinely free ways to turn audio into text, and where the free tier stops, comparing built-in tools, web apps, and open-source options on accuracy."
 slug: free-audio-to-text-transcription
 tags: [transcription]
 date: 2026-07-17

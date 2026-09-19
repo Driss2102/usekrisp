@@ -1,6 +1,6 @@
 ---
 title: "How to Run Effective Remote Meetings (2026)"
-description: A practical playbook for remote meetings that respect people's time and actually produce decisions.
+description: "A practical playbook for remote meetings that respect people's time, from clear agendas and fewer attendees to better audio and notes that capture decisions."
 slug: run-effective-remote-meetings
 tags: [meetings, remote-work]
 date: 2026-08-04

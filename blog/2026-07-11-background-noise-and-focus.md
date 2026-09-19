@@ -1,6 +1,6 @@
 ---
 title: "How Background Noise Affects Focus and Productivity"
-description: What background noise does to concentration and call quality, and simple ways to reduce its cost.
+description: "What background noise does to concentration and call quality, backed by research, and the practical ways to cut it so you can focus and be heard clearly."
 slug: background-noise-and-focus
 tags: [noise-cancellation, productivity]
 date: 2026-07-11

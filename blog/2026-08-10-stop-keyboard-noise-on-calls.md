@@ -1,6 +1,6 @@
 ---
 title: "How to Stop Keyboard Noise on Calls"
-description: Mechanical keyboards sound great and terrible. Here is how to keep your typing out of your calls.
+description: "Mechanical keyboards sound great and terrible on calls. Here is how to keep the clatter out of your mic, from placement and push-to-talk to noise removal."
 slug: stop-keyboard-noise-on-calls
 tags: [noise-cancellation]
 date: 2026-08-10

@@ -1,6 +1,6 @@
 ---
 title: "Why Do I Sound Muffled or Robotic on Video Calls?"
-description: The common reasons you sound muffled or robotic on calls, and how to fix each one.
+description: "The common reasons you sound muffled or robotic on calls, from the wrong mic and settings to weak bandwidth, and the quick fixes that make you clear again."
 slug: why-do-i-sound-muffled
 tags: [audio-quality]
 date: 2026-08-06

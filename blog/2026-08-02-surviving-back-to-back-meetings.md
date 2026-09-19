@@ -1,6 +1,6 @@
 ---
 title: "How to Survive Back-to-Back Meetings"
-description: Practical ways to get through a wall of meetings without burning out or losing the thread.
+description: "Practical ways to get through a wall of back-to-back meetings without burning out, from shorter calls and real breaks to better notes and protected focus time."
 slug: surviving-back-to-back-meetings
 tags: [meetings, productivity]
 date: 2026-08-02
